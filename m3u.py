@@ -536,7 +536,465 @@ def vavoo_channels():
         channels = get_channels()
         print(f"Trovati {len(channels)} canali. Creo la playlist M3U con i link proxy...")
         save_as_m3u(channels) 
-
+def tvtap():
+    import requests
+    import json
+    import sys
+    import concurrent.futures
+    import argparse
+    from base64 import b64decode, b64encode
+    from binascii import a2b_hex
+    import re
+    
+    # Flag per controllare l'output di debug.
+    # Può essere attivato con l'argomento --debug o --verbose
+    DEBUG_MODE = False
+    
+    def logga(messaggio):
+        """Funzione di logging per debug"""
+        if DEBUG_MODE:
+            print(f"[DEBUG] {messaggio}", file=sys.stderr)
+    
+    # Controllo delle dipendenze critiche all'avvio
+    try:
+        from Crypto.Cipher import PKCS1_v1_5 as Cipher_PKCS1_v1_5
+        from Crypto.PublicKey import RSA
+        from pyDes import des, PAD_PKCS5
+        PYCRYPTO_AVAILABLE = True
+    except ImportError:
+        PYCRYPTO_AVAILABLE = False
+    
+    # Inizializzazione del cifrario RSA una sola volta per efficienza
+    _pubkey = RSA.importKey(
+        a2b_hex(
+            "30819f300d06092a864886f70d010101050003818d003081890281"
+            "8100bfa5514aa0550688ffde568fd95ac9130fcdd8825bdecc46f1"
+            "8f6c6b440c3685cc52ca03111509e262dba482d80e977a938493ae"
+            "aa716818efe41b84e71a0d84cc64ad902e46dbea2ec61071958826"
+            "4093e20afc589685c08f2d2ae70310b92c04f9b4c27d79c8b5dbb9"
+            "bd8f2003ab6a251d25f40df08b1c1588a4380a1ce8030203010001"
+        )
+    )
+    _msg = a2b_hex(
+        "7b224d4435223a22695757786f45684237686167747948392b58563052513d3d5c6e222c22534"
+        "84131223a2242577761737941713841327678435c2f5450594a74434a4a544a66593d5c6e227d"
+     )
+    _rsa_cipher = Cipher_PKCS1_v1_5.new(_pubkey)
+    
+    def payload():
+        """Genera payload per le richieste TVTap - esatto come nel codice originale"""
+        return b64encode(_rsa_cipher.encrypt(_msg))
+    
+    def get_tvtap_channels():
+        """Ottiene la lista dei canali italiani da TVTap usando il metodo originale"""
+        # Controlla se pycryptodome è disponibile prima di procedere
+        try:
+            from Crypto.Cipher import PKCS1_v1_5 as Cipher_PKCS1_v1_5
+        except ImportError:
+            # Questo blocco non è più necessario grazie al controllo globale
+            pass
+        user_agent = 'USER-AGENT-tvtap-APP-V2'
+        
+        headers = {
+            'User-Agent': user_agent,
+            'app-token': '37a6259cc0c1dae299a7866489dff0bd',
+            'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
+            'Host': 'taptube.net',
+        }
+        
+        try:
+            payload_data = payload()
+            r = requests.post('https://rocktalk.net/tv/index.php?case=get_all_channels', 
+                             headers=headers, 
+                             data={"payload": payload_data, "username": "603803577"}, 
+                             timeout=15)
+            
+            logga(f'Response status: {r.status_code}')
+            
+            if r.status_code != 200:
+                logga(f'HTTP error: {r.status_code}')
+                return [] # Non usare la lista statica in caso di errore
+                
+            response_json = r.json()
+            logga(f'Got response with keys: {list(response_json.keys()) if isinstance(response_json, dict) else "not a dict"}')
+            
+            # Controlla se c'è un errore nella risposta
+            if isinstance(response_json, dict) and "msg" in response_json:
+                msg = response_json["msg"]
+                if isinstance(msg, str) and ("error" in msg.lower() or "occured" in msg.lower()):
+                    logga(f'API returned error: {msg}')
+                    return [] # Non usare la lista statica in caso di errore
+            
+            # Prende tutti i canali dalla risposta
+            all_channels = []
+            
+            if isinstance(response_json, dict) and "msg" in response_json:
+                msg = response_json["msg"]
+                if isinstance(msg, dict) and "channels" in msg:
+                    base_logo_url = "https://rocktalk.net/tv/"
+                    channels = msg["channels"]
+                    logga(f'Found {len(channels)} total channels in API response')
+                    
+                    for channel in channels:
+                        if isinstance(channel, dict) and channel.get("country"): # Assicuriamoci che il canale abbia un paese
+                            relative_logo_path = channel.get("img")
+                            full_logo_url = base_logo_url + relative_logo_path if relative_logo_path else ""
+    
+                            all_channels.append({
+                                "id": channel.get("pk_id"),
+                                "name": channel.get("channel_name"),
+                                "country": channel.get("country"),
+                                "thumbnail": full_logo_url
+                            })
+                    
+                    logga(f'Processed {len(all_channels)} channels from API')
+                    return all_channels # Restituisce tutti i canali trovati
+                else:
+                    logga(f'Unexpected msg structure: {type(msg)}, falling back to static list')
+                    return [] # Non usare la lista statica
+            else:
+                logga(f'Unexpected response structure: {type(response_json)}, falling back to static list')
+                return [] # Non usare la lista statica
+            
+        except ImportError as ie:
+            logga(f'Import error: {ie}')
+            print("ERROR: Missing required library", file=sys.stderr)
+            return []
+        except Exception as e:
+            logga(f'Error getting channels from API: {e}')
+            return [] # Non usare la lista statica in caso di errore
+    
+    def get_tvtap_stream(channel_id):
+        """Ottiene lo stream di un canale specifico usando il metodo originale"""
+        logga(f'Stream request for channel {channel_id}')
+        try:
+            payload_data = payload()
+            r = requests.post('https://rocktalk.net/tv/index.php?case=get_channel_link_with_token_latest', 
+                headers={"app-token": "37a6259cc0c1dae299a7866489dff0bd"},
+                data={"payload": payload_data, "channel_id": channel_id, "username": "603803577"},
+                timeout=15)
+    
+            logga(f'Stream request for channel {channel_id}: {r.status_code}')
+            
+            if r.status_code != 200:
+                logga(f'HTTP error: {r.status_code}')
+                return None
+                
+            response_json = r.json()
+            logga(f'Response keys: {list(response_json.keys()) if isinstance(response_json, dict) else "not a dict"}')
+            
+            if "msg" not in response_json:
+                logga('No msg in response')
+                return None
+                
+            msgRes = response_json["msg"]
+            logga(f'Message response type: {type(msgRes)}, content: {str(msgRes)[:50]}...')
+            
+            if isinstance(msgRes, str):
+                if "error" in msgRes.lower() or "occured" in msgRes.lower():
+                    logga(f'API returned error: {msgRes}')
+                    return None
+                else:
+                    logga(f'Got string response: {msgRes}')
+                    return None
+            
+            if not isinstance(msgRes, dict) or "channel" not in msgRes:
+                logga('No channel in response')
+                return None
+                
+            # Prova a decrittare usando pyDes (come nel codice originale)
+            try:
+                key = b"98221122"
+                jch = msgRes["channel"][0]
+                
+                for stream in jch.keys():
+                    if "stream" in stream or "chrome_cast" in stream:
+                        d = des(key)
+                        link = d.decrypt(b64decode(jch[stream]), padmode=PAD_PKCS5)
+                
+                        if link:
+                            link = link.decode("utf-8")
+                            if not link == "dummytext" and link:
+                                logga(f'Found stream link for channel {channel_id}')
+                                return link
+                
+            except Exception as e:
+                logga(f'Decryption error: {e}')
+                return None
+        except Exception as e:
+            logga(f'Error getting stream: {e}')
+            return None
+        
+        logga('Failed to get stream for TVTap ID')
+        return None
+    
+    def normalize_channel_name(name):
+        """Normalizza il nome del canale per matching flessibile"""
+        if not name:
+            return ""
+        
+        # Converte in maiuscolo e rimuove spazi extra
+        name = name.strip().upper()
+        
+        # Rimuove suffissi comuni
+        name = re.sub(r'\s+(HD|FHD|4K|\.A|\.B|\.C)$', '', name)
+        
+        # Rimuove caratteri speciali per matching più flessibile
+        name = re.sub(r'[^\w\s]', '', name)
+        
+        return name
+    
+    def find_channel_by_name(channel_name, channels):
+        """Trova un canale per nome con matching flessibile"""
+        if not channel_name or not channels:
+            return None
+        
+        normalized_search = normalize_channel_name(channel_name)
+        logga(f'Looking for normalized name: {normalized_search}')
+        
+        # Matching esatto
+        for channel in channels:
+            normalized_channel = normalize_channel_name(channel.get("name", ""))
+            if normalized_channel == normalized_search:
+                logga(f'Exact match found: {channel.get("name")}')
+                return channel
+        
+        # Matching parziale - cerca se il nome cercato è contenuto nel nome del canale
+        for channel in channels:
+            normalized_channel = normalize_channel_name(channel.get("name", ""))
+            if normalized_search in normalized_channel or normalized_channel in normalized_search:
+                logga(f'Partial match found: {channel.get("name")}')
+                return channel
+        
+        # Matching ancora più flessibile - rimuove spazi e caratteri speciali
+        search_simple = re.sub(r'[^A-Z0-9]', '', normalized_search)
+        for channel in channels:
+            channel_simple = re.sub(r'[^A-Z0-9]', '', normalize_channel_name(channel.get("name", "")))
+            if search_simple in channel_simple or channel_simple in search_simple:
+                logga(f'Flexible match found: {channel.get("name")}')
+                return channel
+        
+        logga(f'No match found for: {channel_name}')
+        return None
+    
+    def normalize_name_for_tvg_id(name):
+        """Normalizza il nome per la corrispondenza con l'EPG, come in Untitled."""
+        if not name:
+            return ""
+        # Converte in minuscolo, rimuove spazi e suffissi comuni
+        name = re.sub(r"\s+", "", name.strip().lower())
+        name = re.sub(r"\.it\b", "", name)
+        name = re.sub(r"hd|fullhd", "", name)
+        return name
+    
+    def create_tvg_id_map(epg_file="epg.xml"):
+        """
+        Crea una mappa di tvg-id dai nomi normalizzati dei canali in un file EPG.
+        """
+        import xml.etree.ElementTree as ET
+        import os
+    
+        tvg_id_map = {}
+        if not os.path.exists(epg_file):
+            logga(f"File EPG '{epg_file}' non trovato. I tvg-id non verranno generati.")
+            return tvg_id_map
+    
+        try:
+            tree = ET.parse(epg_file)
+            root = tree.getroot()
+            for channel in root.findall('channel'):
+                tvg_id = channel.get('id')
+                display_name_element = channel.find('display-name')
+                if tvg_id and display_name_element is not None and display_name_element.text:
+                    normalized_name = normalize_name_for_tvg_id(display_name_element.text)
+                    tvg_id_map[normalized_name] = tvg_id
+            logga(f"Mappa tvg-id creata con successo da '{epg_file}'. Trovati {len(tvg_id_map)} ID.")
+        except Exception as e:
+            logga(f"ERRORE durante la lettura di {epg_file}: {e}")
+        return tvg_id_map
+    
+    def validate_stream_url(url, timeout=15):
+        """
+        Verifica se un URL di streaming è valido, controllando anche il contenuto.
+        Restituisce True se l'URL è raggiungibile e sembra una playlist M3U valida.
+        """
+        if not url or not url.startswith('http'):
+            logga(f"URL non valido per la validazione: {url}")
+            return False
+        try:
+            # Usiamo gli header che mimano un player Android, come suggerito
+            # dal codice originale, per massima compatibilità. Molti server
+            # richiedono User-Agent e Referer specifici.
+            headers = {
+                'User-Agent': 'mediaPlayerhttp/1.8 (Linux;Android 7.1.2) ExoPlayerLib/2.5.3',
+                'Referer': 'https://rocktalk.net/'
+            }
+            with requests.get(url, headers=headers, timeout=timeout, stream=True, allow_redirects=True) as response:
+                if 200 <= response.status_code < 300:
+                    # Leggiamo solo i primi byte per verificare se è un M3U8 valido.
+                    # Questo evita di considerare valide pagine di errore HTML con status 200.
+                    try:
+                        first_chunk = next(response.iter_content(chunk_size=256))
+                        content_start = first_chunk.decode('utf-8', errors='ignore')
+                        if '#EXTM3U' in content_start:
+                            logga(f"Validazione URL -> Successo (Status: {response.status_code}, Contenuto M3U8 valido)")
+                            return True
+                        else:
+                            logga(f"Validazione URL -> Fallito (Status: {response.status_code}, Contenuto non M3U8 o non valido)")
+                            return False
+                    except StopIteration:
+                        logga(f"Validazione URL -> Fallito (Status: {response.status_code}, Risposta vuota)")
+                        return False
+                else:
+                    logga(f"Validazione URL -> Fallito (Status: {response.status_code})")
+                    return False
+        except requests.exceptions.Timeout:
+            logga(f"Validazione URL -> Fallito (Timeout dopo {timeout}s)")
+            return False
+        except requests.exceptions.RequestException as e:
+            # Gestisce altri errori di rete (es. DNS, connessione rifiutata)
+            logga(f"Validazione URL -> Fallito (Errore di rete: {type(e).__name__})")
+            return False
+    
+    COUNTRY_CODE_MAP = {
+        "AF": "AFGHANISTAN", "AL": "ALBANIA", "DZ": "ALGERIA", "AR": "ARGENTINA", "AM": "ARMENIA",
+        "AU": "AUSTRALIA", "AT": "AUSTRIA", "AZ": "AZERBAIJAN", "BH": "BAHRAIN", "BD": "BANGLADESH",
+        "BY": "BELARUS", "BE": "BELGIUM", "BA": "BOSNIA AND HERZEGOVINA", "BR": "BRAZIL", "BG": "BULGARIA",
+        "KH": "CAMBODIA", "CM": "CAMEROON", "CA": "CANADA", "CL": "CHILE", "CO": "COLOMBIA",
+        "HR": "CROATIA", "CU": "CUBA", "CY": "CYPRUS", "CZ": "CZECH REPUBLIC", "DK": "DENMARK",
+        "EC": "ECUADOR", "EG": "EGYPT", "EE": "ESTONIA", "FI": "FINLAND", "FR": "FRANCE",
+        "GE": "GEORGIA", "DE": "GERMANY", "GH": "GHANA", "GR": "GREECE", "GT": "GUATEMALA",
+        "HT": "HAITI", "HN": "HONDURAS", "HK": "HONG KONG", "HU": "HUNGARY", "IS": "ICELAND",
+        "IN": "INDIA", "ID": "INDONESIA", "IR": "IRAN", "IQ": "IRAQ", "IE": "IRELAND",
+        "IL": "ISRAEL", "IT": "ITALY", "JM": "JAMAICA", "JP": "JAPAN", "JO": "JORDAN",
+        "KZ": "KAZAKHSTAN", "KE": "KENYA", "KW": "KUWAIT", "LV": "LATVIA", "LB": "LEBANON",
+        "LT": "LITHUANIA", "LU": "LUXEMBOURG", "MK": "NORTH MACEDONIA", "MY": "MALAYSIA", "MT": "MALTA",
+        "MX": "MEXICO", "MD": "MOLDOVA", "MA": "MOROCCO", "MM": "MYANMAR", "NP": "NEPAL",
+        "NL": "NETHERLANDS", "NZ": "NEW ZEALAND", "NG": "NIGERIA", "NO": "NORWAY", "OM": "OMAN",
+        "PK": "PAKISTAN", "PA": "PANAMA", "PY": "PARAGUAY", "PE": "PERU", "PH": "PHILIPPINES",
+        "PL": "POLAND", "PT": "PORTUGAL", "PR": "PUERTO RICO", "QA": "QATAR", "RO": "ROMANIA",
+        "RU": "RUSSIA", "SA": "SAUDI ARABIA", "SN": "SENEGAL", "RS": "SERBIA", "SG": "SINGAPORE",
+        "SK": "SLOVAKIA", "SI": "SLOVENIA", "ZA": "SOUTH AFRICA", "KR": "SOUTH KOREA", "ES": "SPAIN",
+        "LK": "SRI LANKA", "SD": "SUDAN", "SE": "SWEDEN", "CH": "SWITZERLAND", "SY": "SYRIA",
+        "TW": "TAIWAN", "TZ": "TANZANIA", "TH": "THAILAND", "TN": "TUNISIA", "TR": "TURKEY",
+        "UG": "UGANDA", "UA": "UKRAINE", "AE": "UAE", "GB": "UK", "US": "USA",
+        "UY": "URUGUAY", "VE": "VENEZUELA", "VN": "VIETNAM", "YE": "YEMEN"
+    }
+    
+    def process_channel(channel, tvg_id_map):
+        """
+        Elabora un singolo canale: ottiene e valida lo stream, e formatta la riga M3U.
+        Restituisce la stringa M3U completa per il canale se funzionante, altrimenti None.
+        """
+        channel_id = channel.get("id")
+        channel_name = channel.get("name", "Sconosciuto")
+        channel_logo = channel.get("thumbnail", "")
+        country_code = channel.get("country", "Altro")
+        group_title = COUNTRY_CODE_MAP.get(country_code, country_code) # Usa il nome completo, altrimenti il codice
+    
+        if not channel_id:
+            logga(f"Canale '{channel_name}' saltato perché non ha un ID.")
+            return None, f"ID mancante per {channel_name}"
+    
+        stream_url = get_tvtap_stream(channel_id)
+    
+        if stream_url and validate_stream_url(stream_url):
+            display_name = f"{channel_name} (TVT)"
+            normalized_name = normalize_name_for_tvg_id(channel_name)
+            tvg_id = tvg_id_map.get(normalized_name, "")
+    
+            extinf = f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{display_name}" tvg-logo="{channel_logo}" group-title="{group_title}",{display_name}\n'
+            m3u_entry = extinf + stream_url + "\n"
+            
+            logga(f"Stream per '{channel_name}' (ID: {channel_id}) verificato con successo.")
+            return m3u_entry, f"Aggiunto (Verificato): {channel_name}"
+        
+        elif stream_url:
+            logga(f"Stream per '{channel_name}' (ID: {channel_id}) trovato ma la validazione è fallita.")
+            return None, f"Saltato (Link non funzionante): {channel_name}"
+        
+        else:
+            logga(f"Stream non trovato per '{channel_name}' (ID: {channel_id}).")
+            return None, f"Saltato (Stream non trovato): {channel_name}"
+    
+    
+    def create_m3u_playlist(filename):
+        """
+        Crea una playlist M3U con tutti i canali italiani e i loro stream.
+        """
+        import time
+        logga(f"Inizio creazione playlist M3U: {filename}")
+        
+        # 1. Crea la mappa dei tvg-id leggendo il file EPG
+        tvg_id_map = create_tvg_id_map()
+    
+        # 2. Ottieni la lista dei canali
+        channels = get_tvtap_channels()
+        if not channels:
+            logga("ERRORE: Impossibile recuperare la lista dei canali. Interruzione.")
+            print("ERRORE: Nessun canale recuperato. Impossibile creare la playlist.", file=sys.stderr)
+            return
+    
+        # 3. Ordina i canali per nome
+        sorted_channels = sorted(channels, key=lambda x: x.get('name', '').lower())
+        total_channels = len(sorted_channels)
+        logga(f"Trovati e ordinati {total_channels} canali totali. Avvio elaborazione parallela.")
+    
+        # 4. Elaborazione parallela dei canali
+        # Usiamo un ThreadPoolExecutor per gestire le richieste di rete in parallelo.
+        # MAX_WORKERS limita il numero di thread simultanei per non sovraccaricare l'API.
+        MAX_WORKERS = 20
+        m3u_entries = []
+        processed_count = 0
+    
+        with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+            # Sottometti tutti i task di elaborazione dei canali
+            future_to_channel = {executor.submit(process_channel, channel, tvg_id_map): channel for channel in sorted_channels}
+            
+            for future in concurrent.futures.as_completed(future_to_channel):
+                processed_count += 1
+                m3u_entry, message = future.result()
+                
+                # Stampa lo stato di avanzamento
+                print(f"[{processed_count}/{total_channels}] {message}", flush=True)
+                
+                if m3u_entry:
+                    m3u_entries.append(m3u_entry)
+    
+        # 5. Scrivi i risultati nel file M3U
+        try:
+            with open(filename, 'w', encoding='utf-8') as f:
+                f.write("#EXTM3U\n")
+                for entry in m3u_entries:
+                    f.write(entry)
+            
+            working_channels_count = len(m3u_entries)
+            print(f"\nPlaylist '{filename}' creata con successo. Contiene {working_channels_count} canali funzionanti su {total_channels} totali.")
+            logga(f"Playlist M3U '{filename}' salvata correttamente.")
+        except Exception as e:
+            logga(f"ERRORE CRITICO durante la creazione del file M3U: {e}")
+            print(f"\nSi è verificato un errore durante la scrittura del file: {e}", file=sys.stderr)
+    
+    def main():
+        """Funzione principale per creare la playlist M3U."""
+        global DEBUG_MODE
+        
+        # Abilita la modalità debug se viene passato l'argomento --debug o --verbose
+        if '--debug' in sys.argv or '--verbose' in sys.argv:
+            DEBUG_MODE = True
+            logga("Modalità debug attivata.")
+    
+        if not PYCRYPTO_AVAILABLE:
+            logga("FATAL: Le librerie 'pycryptodome' e/o 'pyDes' non sono installate.")
+            print("ERRORE: Dipendenze mancanti. Esegui: pip install pycryptodome pyDes", file=sys.stderr)
+            sys.exit(1)
+        
+        # Esegue direttamente la creazione della playlist
+        create_m3u_playlist("tvtap.m3u")
+    
+    if __name__ == "__main__":
+        main()
+    
 def main():
     try:
         try:
@@ -553,6 +1011,11 @@ def main():
             dlhd()
         except Exception as e:
             print(f"Errore durante l'esecuzione di dlhd: {e}")
+            return
+        try:
+            tvtap()
+        except Exception as e:
+            print(f"Errore durante l'esecuzione di tvtap: {e}")
             return
         print("Tutti gli script sono stati eseguiti correttamente!")
     finally:
