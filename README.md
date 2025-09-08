@@ -11,12 +11,12 @@
 
 To use these playlists/lists, you must route your requests through the following proxy:
 
-[mediaflow-proxy](https://github.com/nzo66/mediaflow-proxy) or [EasyProxy](https://github.com/nzo66/EasyProxy)
+[EasyProxy](https://github.com/nzo66/EasyProxy) or [mediaflow-proxy](https://github.com/nzo66/mediaflow-proxy)
 
 This proxy is required to ensure proper access and functionality.
 
 ## Steps
-1. Set up and run the [mediaflow-proxy](https://github.com/nzo66/mediaflow-proxy) or [EasyProxy](https://github.com/nzo66/EasyProxy) by following the instructions in its repository.
+1. Set up and run the [EasyProxy](https://github.com/nzo66/EasyProxy) or [mediaflow-proxy](https://github.com/nzo66/mediaflow-proxy) by following the instructions in its repository.
 2. Configure your player or application to use the proxy for all requests to these lists.
 
 ---
@@ -27,6 +27,7 @@ This proxy is required to ensure proper access and functionality.
 ---
 
 💡 **Tip:** If you want to merge both the **DLHD** and **VAVOO** playlists into a single combined list, you can do it easily through **mediaflow-proxy** — it supports merging multiple lists into one unified output.
+
 
 
 
