@@ -26,7 +26,8 @@ This proxy is required to ensure proper access and functionality.
 
 ---
 
-💡 **Tip:** If you want to merge both the **DLHD** and **VAVOO** playlists into a single combined list, you can do it easily through **mediaflow-proxy** — it supports merging multiple lists into one unified output.
+💡 **Tip:** If you want to merge both the **DLHD** and **VAVOO** playlists into a single combined list, you can do it easily through **easyproxy** or **mediaflow-proxy** — it supports merging multiple lists into one unified output.
+
 
 
 
