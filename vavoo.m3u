@@ -103,8 +103,6 @@ https://vavoo.to/vavoo-iptv/play/5005086093bc311eab62a
 https://vavoo.to/vavoo-iptv/play/1021517242a3b48940b21
 #EXTINF:-1 group-title="Albania VAVOO",ART SPORT 4
 https://vavoo.to/vavoo-iptv/play/489305851a0b47f379f6f
-#EXTINF:-1 group-title="Albania VAVOO",ART SPORT 5
-https://vavoo.to/vavoo-iptv/play/541728587dc0abc5d5ed5
 #EXTINF:-1 group-title="Albania VAVOO",ART SPORT 6
 https://vavoo.to/vavoo-iptv/play/174341468310a283a22e0f
 #EXTINF:-1 group-title="Albania VAVOO",ARTA
@@ -113,6 +111,8 @@ https://vavoo.to/vavoo-iptv/play/188403960264ebaa45ffe
 https://vavoo.to/vavoo-iptv/play/1255736183f77953b81354
 #EXTINF:-1 group-title="Albania VAVOO",ASHKALI TV
 https://vavoo.to/vavoo-iptv/play/5322244118034eca2416a
+#EXTINF:-1 group-title="Albania VAVOO",ASHKALI TV 1
+https://vavoo.to/vavoo-iptv/play/2788763044409672ab5765
 #EXTINF:-1 group-title="Albania VAVOO",ATV
 https://vavoo.to/vavoo-iptv/play/223298022974c86e85d146
 #EXTINF:-1 group-title="Albania VAVOO",ATV (2)
@@ -193,6 +193,8 @@ https://vavoo.to/vavoo-iptv/play/1787821393a2fa90f3cce2
 https://vavoo.to/vavoo-iptv/play/2860143719c00cc8fb104b
 #EXTINF:-1 group-title="Albania VAVOO",CLUB TV
 https://vavoo.to/vavoo-iptv/play/1640170488e5fbce091dc9
+#EXTINF:-1 group-title="Albania VAVOO",COMEDY CENTRAL EXTRA
+https://vavoo.to/vavoo-iptv/play/33739015604b1ba61bdf5c
 #EXTINF:-1 group-title="Albania VAVOO",CUFO
 https://vavoo.to/vavoo-iptv/play/49274168ddaab25fc722
 #EXTINF:-1 group-title="Albania VAVOO",CUFO (2)
@@ -257,6 +259,8 @@ https://vavoo.to/vavoo-iptv/play/32408214928c1b936c8462
 https://vavoo.to/vavoo-iptv/play/25754022821d1d65537a2c
 #EXTINF:-1 group-title="Albania VAVOO",DISCOVERY CHANNEL (3)
 https://vavoo.to/vavoo-iptv/play/1131363710368e49393848
+#EXTINF:-1 group-title="Albania VAVOO",DISNEY JR
+https://vavoo.to/vavoo-iptv/play/306517164632e755964f0a
 #EXTINF:-1 group-title="Albania VAVOO",DIVA
 https://vavoo.to/vavoo-iptv/play/18085129317f04d4403e75
 #EXTINF:-1 group-title="Albania VAVOO",DIZI CHANNEL
@@ -304,8 +308,10 @@ https://vavoo.to/vavoo-iptv/play/322701582078f6cfd9a816
 #EXTINF:-1 group-title="Albania VAVOO",EUROSPORT 1 (3)
 https://vavoo.to/vavoo-iptv/play/19214888060c22db178cd8
 #EXTINF:-1 group-title="Albania VAVOO",EUROSPORT 2
-https://vavoo.to/vavoo-iptv/play/228118537203d7d2fce257
+https://vavoo.to/vavoo-iptv/play/1882724314df1d49b505bd
 #EXTINF:-1 group-title="Albania VAVOO",EUROSPORT 2 (2)
+https://vavoo.to/vavoo-iptv/play/228118537203d7d2fce257
+#EXTINF:-1 group-title="Albania VAVOO",EUROSPORT 2 (3)
 https://vavoo.to/vavoo-iptv/play/8918091429f27418884da
 #EXTINF:-1 group-title="Albania VAVOO",EXPLORER HISTORI
 https://vavoo.to/vavoo-iptv/play/424139772304d1a10e607c
@@ -556,8 +562,6 @@ https://vavoo.to/vavoo-iptv/play/1851824282d94ae7d60510
 #EXTINF:-1 group-title="Albania VAVOO",KHALIJ (720P) [NOT 24/7]
 https://vavoo.to/vavoo-iptv/play/914147524969111a37fad
 #EXTINF:-1 group-title="Albania VAVOO",KIDS
-https://vavoo.to/vavoo-iptv/play/68363488821456684a1cf
-#EXTINF:-1 group-title="Albania VAVOO",KIDS (2)
 https://vavoo.to/vavoo-iptv/play/3872768637f00344b49f82
 #EXTINF:-1 group-title="Albania VAVOO",KINEMA
 https://vavoo.to/vavoo-iptv/play/532993341dab894cb978a
@@ -613,6 +617,8 @@ https://vavoo.to/vavoo-iptv/play/333984743219336b6a7121
 https://vavoo.to/vavoo-iptv/play/26954191379aabfa19e6f0
 #EXTINF:-1 group-title="Albania VAVOO",KS PREMIER 1
 https://vavoo.to/vavoo-iptv/play/58627140a311041e1dba
+#EXTINF:-1 group-title="Albania VAVOO",KS PREMIER 2
+https://vavoo.to/vavoo-iptv/play/115546075673e0dbf7d142
 #EXTINF:-1 group-title="Albania VAVOO",KS PREMIER 3
 https://vavoo.to/vavoo-iptv/play/204254595665cc8a798c3b
 #EXTINF:-1 group-title="Albania VAVOO",KS PREMIER 4
@@ -656,8 +662,6 @@ https://vavoo.to/vavoo-iptv/play/3453708250b97fcfe1ed4e
 #EXTINF:-1 group-title="Albania VAVOO",KUJTESA SPORT 4 [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/1007948568f280970bcbcf
 #EXTINF:-1 group-title="Albania VAVOO",LIRIA
-https://vavoo.to/vavoo-iptv/play/301684483332eeeb22652b
-#EXTINF:-1 group-title="Albania VAVOO",LIRIA (2)
 https://vavoo.to/vavoo-iptv/play/3726501858821290b25bb5
 #EXTINF:-1 group-title="Albania VAVOO",LIVING
 https://vavoo.to/vavoo-iptv/play/2620524960ba709a26862f
@@ -799,6 +803,8 @@ https://vavoo.to/vavoo-iptv/play/2877898180c4d89b4e3281
 https://vavoo.to/vavoo-iptv/play/12838746494e6fd3af6ae3
 #EXTINF:-1 group-title="Albania VAVOO",REPORT TV HD
 https://vavoo.to/vavoo-iptv/play/1830423484b2ceb8398c82
+#EXTINF:-1 group-title="Albania VAVOO",ROZAFA
+https://vavoo.to/vavoo-iptv/play/350833397207aa5897a22c
 #EXTINF:-1 group-title="Albania VAVOO",RROKUM TV
 https://vavoo.to/vavoo-iptv/play/133575384763c89215fb7b
 #EXTINF:-1 group-title="Albania VAVOO",RROKUM TV HD
@@ -1025,8 +1031,6 @@ https://vavoo.to/vavoo-iptv/play/1173665378e13568b3a588
 https://vavoo.to/vavoo-iptv/play/401963748381677f06e0d4
 #EXTINF:-1 group-title="Albania VAVOO",STINET (2)
 https://vavoo.to/vavoo-iptv/play/5448956225627a1789d68
-#EXTINF:-1 group-title="Albania VAVOO",STV FOLK
-https://vavoo.to/vavoo-iptv/play/2208086589d2b9deb971e2
 #EXTINF:-1 group-title="Albania VAVOO",SUNNAH AL NABAWIYAH TV (MEDINA) (720P) [NOT 24/7]
 https://vavoo.to/vavoo-iptv/play/39103662908725aa615594
 #EXTINF:-1 group-title="Albania VAVOO",SUPER SPORT 1
@@ -1170,6 +1174,8 @@ https://vavoo.to/vavoo-iptv/play/257587475020311f841ba9
 #EXTINF:-1 group-title="Albania VAVOO",TLC
 https://vavoo.to/vavoo-iptv/play/41520804886fe4de99dd7d
 #EXTINF:-1 group-title="Albania VAVOO",TOM & JERRY
+https://vavoo.to/vavoo-iptv/play/2123951332c02379597ff8
+#EXTINF:-1 group-title="Albania VAVOO",TOM & JERRY (2)
 https://vavoo.to/vavoo-iptv/play/2304301922c2f195fc5f80
 #EXTINF:-1 group-title="Albania VAVOO",TOP CHANNEL
 https://vavoo.to/vavoo-iptv/play/2811365982d673c924c45e
@@ -1355,8 +1361,6 @@ https://vavoo.to/vavoo-iptv/play/11667335637a67baf156c0
 https://vavoo.to/vavoo-iptv/play/3644697654d83585180baa
 #EXTINF:-1 group-title="Albania VAVOO",X FAMILY HD
 https://vavoo.to/vavoo-iptv/play/4074320383ea2204eaea83
-#EXTINF:-1 group-title="Albania VAVOO",X FILMA 24
-https://vavoo.to/vavoo-iptv/play/1641803616e24d2391cba9
 #EXTINF:-1 group-title="Albania VAVOO",X KIDS
 https://vavoo.to/vavoo-iptv/play/2448566547b0d4a52acb67
 #EXTINF:-1 group-title="Albania VAVOO",X PREMIUM 1 HD
@@ -1483,8 +1487,6 @@ https://vavoo.to/vavoo-iptv/play/2676324996613952d0fd02
 https://vavoo.to/vavoo-iptv/play/1123778687f2389225c63b
 #EXTINF:-1 group-title="Arabia VAVOO",A24
 https://vavoo.to/vavoo-iptv/play/30365735403b9ea7af715d
-#EXTINF:-1 group-title="Arabia VAVOO",ABRA TV
-https://vavoo.to/vavoo-iptv/play/89813815ba93725ef60d
 #EXTINF:-1 group-title="Arabia VAVOO",ABU DHABI DRAMA
 https://vavoo.to/vavoo-iptv/play/39273027551939de49366
 #EXTINF:-1 group-title="Arabia VAVOO",ABU DHABI SPORT ASIA 1
@@ -1493,8 +1495,6 @@ https://vavoo.to/vavoo-iptv/play/3742208214d4bf867b7450
 https://vavoo.to/vavoo-iptv/play/2561534470d3538ac54ab5
 #EXTINF:-1 group-title="Arabia VAVOO",ABU DHABI SPORTS 1 (FHD)
 https://vavoo.to/vavoo-iptv/play/28698640858d354783ab8f
-#EXTINF:-1 group-title="Arabia VAVOO",ABU DHABI TV
-https://vavoo.to/vavoo-iptv/play/2359358293295174a7b3fa
 #EXTINF:-1 group-title="Arabia VAVOO",ABU DHABI TV (BACKUP)
 https://vavoo.to/vavoo-iptv/play/3497128548cafbe786cf9
 #EXTINF:-1 group-title="Arabia VAVOO",ABU DHAHBI TV
@@ -1671,8 +1671,6 @@ https://vavoo.to/vavoo-iptv/play/260775208874fc7b37fe41
 https://vavoo.to/vavoo-iptv/play/41648534284a2d951d1dd4
 #EXTINF:-1 group-title="Arabia VAVOO",AL NAS
 https://vavoo.to/vavoo-iptv/play/1776910885d42b68062b68
-#EXTINF:-1 group-title="Arabia VAVOO",AL ONS TV MAROC
-https://vavoo.to/vavoo-iptv/play/14359412789ec7802ce30f
 #EXTINF:-1 group-title="Arabia VAVOO",AL QAMAR TV
 https://vavoo.to/vavoo-iptv/play/196904247e81fc0be930a
 #EXTINF:-1 group-title="Arabia VAVOO",AL QUDS.PALESTINE
@@ -1789,6 +1787,8 @@ https://vavoo.to/vavoo-iptv/play/5340728672e030308d7d6
 https://vavoo.to/vavoo-iptv/play/27539499323292430ad7d
 #EXTINF:-1 group-title="Arabia VAVOO",ALGERIE 1
 https://vavoo.to/vavoo-iptv/play/31836988525d5e264102a
+#EXTINF:-1 group-title="Arabia VAVOO",ALGERIE 3
+https://vavoo.to/vavoo-iptv/play/1748607805c77631a237b6
 #EXTINF:-1 group-title="Arabia VAVOO",ALGERIE 4
 https://vavoo.to/vavoo-iptv/play/36591040450a752e0102d9
 #EXTINF:-1 group-title="Arabia VAVOO",ALGERIE 5 QURAN
@@ -1925,6 +1925,8 @@ https://vavoo.to/vavoo-iptv/play/32205467675846106353b5
 https://vavoo.to/vavoo-iptv/play/405401808eafbd4eca18e
 #EXTINF:-1 group-title="Arabia VAVOO",ARRYADIA HD LIVE
 https://vavoo.to/vavoo-iptv/play/1820559821c4a7955dc57d
+#EXTINF:-1 group-title="Arabia VAVOO",ARRYADIA TNT
+https://vavoo.to/vavoo-iptv/play/662901861e3158a854137
 #EXTINF:-1 group-title="Arabia VAVOO",ART AFLAM 1
 https://vavoo.to/vavoo-iptv/play/3123252325b9b6826562ea
 #EXTINF:-1 group-title="Arabia VAVOO",ART AFLAM 2
@@ -2051,8 +2053,6 @@ https://vavoo.to/vavoo-iptv/play/1528114085173b240e2537
 https://vavoo.to/vavoo-iptv/play/316328297410190db6c67f
 #EXTINF:-1 group-title="Arabia VAVOO",BEIN AFC2 SD
 https://vavoo.to/vavoo-iptv/play/35836508863170c0c37ab0
-#EXTINF:-1 group-title="Arabia VAVOO",BEIN AFC3 HD
-https://vavoo.to/vavoo-iptv/play/18812678404c793bb6fbd1
 #EXTINF:-1 group-title="Arabia VAVOO",BEIN AFC3 SD
 https://vavoo.to/vavoo-iptv/play/422587608877de637d644
 #EXTINF:-1 group-title="Arabia VAVOO",BEIN AMC HD
@@ -2171,8 +2171,6 @@ https://vavoo.to/vavoo-iptv/play/13503191367afd5c3725c4
 https://vavoo.to/vavoo-iptv/play/391401178348a7559b8232
 #EXTINF:-1 group-title="Arabia VAVOO",BEIN SPORTS 1 PREMIUM (BACKUP)
 https://vavoo.to/vavoo-iptv/play/83187634a6eb2ae478cc
-#EXTINF:-1 group-title="Arabia VAVOO",BEIN SPORTS 1 PREMIUM 1080 LOCAL
-https://vavoo.to/vavoo-iptv/play/348765617908a2a75872e0
 #EXTINF:-1 group-title="Arabia VAVOO",BEIN SPORTS 1 PREMIUM 1MB
 https://vavoo.to/vavoo-iptv/play/90816476357bc66fcc366
 #EXTINF:-1 group-title="Arabia VAVOO",BEIN SPORTS 1 PREMIUM 4K H265
@@ -2203,8 +2201,6 @@ https://vavoo.to/vavoo-iptv/play/45102979638c789140548
 https://vavoo.to/vavoo-iptv/play/104563376724c25d112d84
 #EXTINF:-1 group-title="Arabia VAVOO",BEIN SPORTS 2 EN FHD
 https://vavoo.to/vavoo-iptv/play/3374947804751e4754d4a8
-#EXTINF:-1 group-title="Arabia VAVOO",BEIN SPORTS 2 FHD
-https://vavoo.to/vavoo-iptv/play/799267221b7b49c9703c5
 #EXTINF:-1 group-title="Arabia VAVOO",BEIN SPORTS 2 HD
 https://vavoo.to/vavoo-iptv/play/23585968017014b927689
 #EXTINF:-1 group-title="Arabia VAVOO",BEIN SPORTS 2 HD (BACKUP 2)
@@ -2219,8 +2215,6 @@ https://vavoo.to/vavoo-iptv/play/1041086064d46094c6802
 https://vavoo.to/vavoo-iptv/play/269190918949907d6d392c
 #EXTINF:-1 group-title="Arabia VAVOO",BEIN SPORTS 2 HQ
 https://vavoo.to/vavoo-iptv/play/2785998354cbb49482bcfb
-#EXTINF:-1 group-title="Arabia VAVOO",BEIN SPORTS 2 PREMIUM
-https://vavoo.to/vavoo-iptv/play/3988148462dcce7889041a
 #EXTINF:-1 group-title="Arabia VAVOO",BEIN SPORTS 2 PREMIUM (BACKUP)
 https://vavoo.to/vavoo-iptv/play/103271499400089b098f9f
 #EXTINF:-1 group-title="Arabia VAVOO",BEIN SPORTS 2 PREMIUM 1080 LOCAL
@@ -2237,8 +2231,6 @@ https://vavoo.to/vavoo-iptv/play/231484685dece3933a66f
 https://vavoo.to/vavoo-iptv/play/154207693712d5503e0995
 #EXTINF:-1 group-title="Arabia VAVOO",BEIN SPORTS 2 SD
 https://vavoo.to/vavoo-iptv/play/1730092216a2bf70b771c3
-#EXTINF:-1 group-title="Arabia VAVOO",BEIN SPORTS 3
-https://vavoo.to/vavoo-iptv/play/662831764ca62f2ae133c
 #EXTINF:-1 group-title="Arabia VAVOO",BEIN SPORTS 3 (BACKUP)
 https://vavoo.to/vavoo-iptv/play/274077992117f3dcfd2140
 #EXTINF:-1 group-title="Arabia VAVOO",BEIN SPORTS 3 FHD
@@ -2273,8 +2265,6 @@ https://vavoo.to/vavoo-iptv/play/162652731776d40d5cc21c
 https://vavoo.to/vavoo-iptv/play/23222615827b8d22dab7ae
 #EXTINF:-1 group-title="Arabia VAVOO",BEIN SPORTS 3 PREMIUM SD
 https://vavoo.to/vavoo-iptv/play/4118981528b0c1dfc46e6b
-#EXTINF:-1 group-title="Arabia VAVOO",BEIN SPORTS 3 SD
-https://vavoo.to/vavoo-iptv/play/2880773158116376e48e65
 #EXTINF:-1 group-title="Arabia VAVOO",BEIN SPORTS 4
 https://vavoo.to/vavoo-iptv/play/2510478980cc79fc5a430c
 #EXTINF:-1 group-title="Arabia VAVOO",BEIN SPORTS 4 (BACKUP)
@@ -2291,8 +2281,6 @@ https://vavoo.to/vavoo-iptv/play/3070510309e614fa21e3d
 https://vavoo.to/vavoo-iptv/play/427759040887e505f44dc9
 #EXTINF:-1 group-title="Arabia VAVOO",BEIN SPORTS 4 HQ
 https://vavoo.to/vavoo-iptv/play/1617035157d46c866787fb
-#EXTINF:-1 group-title="Arabia VAVOO",BEIN SPORTS 4 SD
-https://vavoo.to/vavoo-iptv/play/27084772474fea8c401983
 #EXTINF:-1 group-title="Arabia VAVOO",BEIN SPORTS 5
 https://vavoo.to/vavoo-iptv/play/2831349556ef2c39a0d8e7
 #EXTINF:-1 group-title="Arabia VAVOO",BEIN SPORTS 5 (BACKUP)
@@ -2351,8 +2339,6 @@ https://vavoo.to/vavoo-iptv/play/2190998611fa3db83a86e2
 https://vavoo.to/vavoo-iptv/play/11803394573da3ebfbb0f4
 #EXTINF:-1 group-title="Arabia VAVOO",BEIN SPORTS 7 HQ
 https://vavoo.to/vavoo-iptv/play/4008638582991c5ccfaef0
-#EXTINF:-1 group-title="Arabia VAVOO",BEIN SPORTS 7 SD
-https://vavoo.to/vavoo-iptv/play/805245660228d2048dce5
 #EXTINF:-1 group-title="Arabia VAVOO",BEIN SPORTS 8
 https://vavoo.to/vavoo-iptv/play/1347564421db3e5801a6c3
 #EXTINF:-1 group-title="Arabia VAVOO",BEIN SPORTS 8 HD
@@ -2429,6 +2415,8 @@ https://vavoo.to/vavoo-iptv/play/1558693346ac462acbc451
 https://vavoo.to/vavoo-iptv/play/496638848dc9701ca2a8c
 #EXTINF:-1 group-title="Arabia VAVOO",BEIN SPORTS ENGLISH HD2
 https://vavoo.to/vavoo-iptv/play/1513775440602e6bba17a4
+#EXTINF:-1 group-title="Arabia VAVOO",BEIN SPORTS ENGLISH HD3
+https://vavoo.to/vavoo-iptv/play/17339701444a1c5d2e8a32
 #EXTINF:-1 group-title="Arabia VAVOO",BEIN SPORTS EXTRA 2 FHD
 https://vavoo.to/vavoo-iptv/play/31531895369530148e9b42
 #EXTINF:-1 group-title="Arabia VAVOO",BEIN SPORTS FHD 1
@@ -3355,8 +3343,8 @@ https://vavoo.to/vavoo-iptv/play/2095137132ab96abef076b
 https://vavoo.to/vavoo-iptv/play/1501582717fa0cc6db0727
 #EXTINF:-1 group-title="Arabia VAVOO",MBC MASR
 https://vavoo.to/vavoo-iptv/play/280409306138b592dffed7
-#EXTINF:-1 group-title="Arabia VAVOO",MBC MASR 1 (FHD)
-https://vavoo.to/vavoo-iptv/play/2184784415245c8436a251
+#EXTINF:-1 group-title="Arabia VAVOO",MBC MASR 1 USA (FHD)
+https://vavoo.to/vavoo-iptv/play/416375452bbdacaa5f60a
 #EXTINF:-1 group-title="Arabia VAVOO",MBC MASR 2
 https://vavoo.to/vavoo-iptv/play/1564640134f8422a9f1a22
 #EXTINF:-1 group-title="Arabia VAVOO",MBC MASR 2 (FHD)
@@ -3549,6 +3537,8 @@ https://vavoo.to/vavoo-iptv/play/8183454415f55b3fb5386
 https://vavoo.to/vavoo-iptv/play/113267022502fdcd8da099
 #EXTINF:-1 group-title="Arabia VAVOO",NICKELODEON (BACKUP)
 https://vavoo.to/vavoo-iptv/play/11126054570e52538ced1d
+#EXTINF:-1 group-title="Arabia VAVOO",NICKELODEON HD
+https://vavoo.to/vavoo-iptv/play/3134371361729d9b0d6796
 #EXTINF:-1 group-title="Arabia VAVOO",NILE CINEMA
 https://vavoo.to/vavoo-iptv/play/554274935f5b1e4e5052
 #EXTINF:-1 group-title="Arabia VAVOO",NILE COMEDY
@@ -4387,8 +4377,6 @@ https://vavoo.to/vavoo-iptv/play/26369609440d5c83c1431e
 https://vavoo.to/vavoo-iptv/play/85898504350420f5ab013
 #EXTINF:-1 group-title="Balkans VAVOO",CINEMAX 2 (3)
 https://vavoo.to/vavoo-iptv/play/825705807972828f9cad8
-#EXTINF:-1 group-title="Balkans VAVOO",CINEMAX 2 HD
-https://vavoo.to/vavoo-iptv/play/329503571048dd5b05dc8
 #EXTINF:-1 group-title="Balkans VAVOO",CINESTAR
 https://vavoo.to/vavoo-iptv/play/378017425108d07b1c3f21
 #EXTINF:-1 group-title="Balkans VAVOO",CINESTAR ACTION
@@ -4495,8 +4483,6 @@ https://vavoo.to/vavoo-iptv/play/34982461288b5d3f7b20aa
 https://vavoo.to/vavoo-iptv/play/39910661768f5c24261820
 #EXTINF:-1 group-title="Balkans VAVOO",ELITA8 LIVE 4
 https://vavoo.to/vavoo-iptv/play/16065521440a58a46878d1
-#EXTINF:-1 group-title="Balkans VAVOO",ELTA
-https://vavoo.to/vavoo-iptv/play/2602450476e5693a0a09b9
 #EXTINF:-1 group-title="Balkans VAVOO",ELTA 2
 https://vavoo.to/vavoo-iptv/play/7512462507fcdc83d257a
 #EXTINF:-1 group-title="Balkans VAVOO",EPIC DRAMA
@@ -4511,9 +4497,9 @@ https://vavoo.to/vavoo-iptv/play/13082053074eeb0d5b7671
 https://vavoo.to/vavoo-iptv/play/2708573167936dca0433da
 #EXTINF:-1 group-title="Balkans VAVOO",EUROSPORT 1 (5)
 https://vavoo.to/vavoo-iptv/play/3301884852f7e3e2f3539
-#EXTINF:-1 group-title="Balkans VAVOO",EUROSPORT 2 (3)
-https://vavoo.to/vavoo-iptv/play/3872518463154364f3f61e
 #EXTINF:-1 group-title="Balkans VAVOO",EUROSPORT 2 (4)
+https://vavoo.to/vavoo-iptv/play/3872518463154364f3f61e
+#EXTINF:-1 group-title="Balkans VAVOO",EUROSPORT 2 (5)
 https://vavoo.to/vavoo-iptv/play/14102190293c65df6b8bfd
 #EXTINF:-1 group-title="Balkans VAVOO",FACE TV
 https://vavoo.to/vavoo-iptv/play/80539849201e304ca4444
@@ -4539,14 +4525,10 @@ https://vavoo.to/vavoo-iptv/play/3554318857049c03f49cef
 https://vavoo.to/vavoo-iptv/play/29341047228a44c27e42eb
 #EXTINF:-1 group-title="Balkans VAVOO",FOX CRIME (4)
 https://vavoo.to/vavoo-iptv/play/4236308356f81872cb0903
-#EXTINF:-1 group-title="Balkans VAVOO",FOX CRIME (5)
-https://vavoo.to/vavoo-iptv/play/30607791319d2abcbb6d28
 #EXTINF:-1 group-title="Balkans VAVOO",FOX LIFE (4)
 https://vavoo.to/vavoo-iptv/play/3243625503b26c6511be66
 #EXTINF:-1 group-title="Balkans VAVOO",FOX LIFE (5)
 https://vavoo.to/vavoo-iptv/play/1228302300ac7e683c5bbb
-#EXTINF:-1 group-title="Balkans VAVOO",FOX LIFE (6)
-https://vavoo.to/vavoo-iptv/play/132424928815b478679541
 #EXTINF:-1 group-title="Balkans VAVOO",FOX MOVIES (3)
 https://vavoo.to/vavoo-iptv/play/218323772820fa25ae7df4
 #EXTINF:-1 group-title="Balkans VAVOO",FOX MOVIES (4)
@@ -4563,6 +4545,8 @@ https://vavoo.to/vavoo-iptv/play/1788977439a2d53b994e94
 https://vavoo.to/vavoo-iptv/play/144221473016412995cae8
 #EXTINF:-1 group-title="Balkans VAVOO",HAYAT
 https://vavoo.to/vavoo-iptv/play/314431705449554425cd08
+#EXTINF:-1 group-title="Balkans VAVOO",HAYAT (2)
+https://vavoo.to/vavoo-iptv/play/360126713306b4ebaa7f62
 #EXTINF:-1 group-title="Balkans VAVOO",HAYAT 2
 https://vavoo.to/vavoo-iptv/play/100596958162e17d64322e
 #EXTINF:-1 group-title="Balkans VAVOO",HAYAT FOLK
@@ -4755,6 +4739,8 @@ https://vavoo.to/vavoo-iptv/play/23222020627239dcc4c3b3
 https://vavoo.to/vavoo-iptv/play/41625829379eb56f503aaa
 #EXTINF:-1 group-title="Balkans VAVOO",PIKABOO (2)
 https://vavoo.to/vavoo-iptv/play/2566968310fbf9fbbee7c0
+#EXTINF:-1 group-title="Balkans VAVOO",PINK
+https://vavoo.to/vavoo-iptv/play/1794719322cf0f8d64fe9b
 #EXTINF:-1 group-title="Balkans VAVOO",PINK 1
 https://vavoo.to/vavoo-iptv/play/2085201572600363e95295
 #EXTINF:-1 group-title="Balkans VAVOO",PINK 1 (2)
@@ -4764,6 +4750,8 @@ https://vavoo.to/vavoo-iptv/play/100518206866621c3cd44e
 #EXTINF:-1 group-title="Balkans VAVOO",PINK 2 (2)
 https://vavoo.to/vavoo-iptv/play/40939934978157c1083bde
 #EXTINF:-1 group-title="Balkans VAVOO",PINK 3
+https://vavoo.to/vavoo-iptv/play/109704644981092d98042
+#EXTINF:-1 group-title="Balkans VAVOO",PINK 3 (2)
 https://vavoo.to/vavoo-iptv/play/3378858921ef0df7a2a672
 #EXTINF:-1 group-title="Balkans VAVOO",PINK ACTION
 https://vavoo.to/vavoo-iptv/play/1266026394aad2b141e7fb
@@ -4784,6 +4772,8 @@ https://vavoo.to/vavoo-iptv/play/305167554206e64f04a5fc
 #EXTINF:-1 group-title="Balkans VAVOO",PINK COMEDY (2)
 https://vavoo.to/vavoo-iptv/play/4042990906b4453a8e5e58
 #EXTINF:-1 group-title="Balkans VAVOO",PINK CRIME & MYSTERY
+https://vavoo.to/vavoo-iptv/play/1398596310697cbe883236
+#EXTINF:-1 group-title="Balkans VAVOO",PINK CRIME & MYSTERY (2)
 https://vavoo.to/vavoo-iptv/play/133454273755047198859f
 #EXTINF:-1 group-title="Balkans VAVOO",PINK EXTRA
 https://vavoo.to/vavoo-iptv/play/23175817329dd595956518
@@ -5017,6 +5007,8 @@ https://vavoo.to/vavoo-iptv/play/1052273473034e8baa4dc9
 https://vavoo.to/vavoo-iptv/play/1889144097ee099099e6aa
 #EXTINF:-1 group-title="Balkans VAVOO",SPORT KLUB 5
 https://vavoo.to/vavoo-iptv/play/130823899378e407220306
+#EXTINF:-1 group-title="Balkans VAVOO",SPORT KLUB 7
+https://vavoo.to/vavoo-iptv/play/926578673d81f3fae6577
 #EXTINF:-1 group-title="Balkans VAVOO",SPORT KLUB 8
 https://vavoo.to/vavoo-iptv/play/30436802889bfdd23a8db9
 #EXTINF:-1 group-title="Balkans VAVOO",SPORT KLUB GOLF
@@ -5041,8 +5033,6 @@ https://vavoo.to/vavoo-iptv/play/2327216525a34fcf2f636f
 https://vavoo.to/vavoo-iptv/play/2748963032ba71225fec24
 #EXTINF:-1 group-title="Balkans VAVOO",TK TUZLA
 https://vavoo.to/vavoo-iptv/play/924585577ef4395cf2a73
-#EXTINF:-1 group-title="Balkans VAVOO",TK TUZLA BH
-https://vavoo.to/vavoo-iptv/play/204337251595615dfdc28f
 #EXTINF:-1 group-title="Balkans VAVOO",TLC (4)
 https://vavoo.to/vavoo-iptv/play/20704510846af6e4a6d0b6
 #EXTINF:-1 group-title="Balkans VAVOO",TLC (5)
@@ -5163,6 +5153,10 @@ https://vavoo.to/vavoo-iptv/play/32084970215457b87d2cf0
 https://vavoo.to/vavoo-iptv/play/40972635214b3f1967ea7d
 #EXTINF:-1 group-title="Bulgaria VAVOO",AXN BLACK
 https://vavoo.to/vavoo-iptv/play/37881017928d106b771aea
+#EXTINF:-1 group-title="Bulgaria VAVOO",BABY TV (6)
+https://vavoo.to/vavoo-iptv/play/3429908435175d26342054
+#EXTINF:-1 group-title="Bulgaria VAVOO",BABY TV (7)
+https://vavoo.to/vavoo-iptv/play/3416795335f84596e1498c
 #EXTINF:-1 group-title="Bulgaria VAVOO",BALKANIKA (3)
 https://vavoo.to/vavoo-iptv/play/1588054328ba50e2a1e6c8
 #EXTINF:-1 group-title="Bulgaria VAVOO",BALKANIKA MUSIC TV
@@ -5303,7 +5297,7 @@ https://vavoo.to/vavoo-iptv/play/3753516110204f3738611f
 https://vavoo.to/vavoo-iptv/play/1926603815241e3720cfa0
 #EXTINF:-1 group-title="Bulgaria VAVOO",EUROSPORT 1 (6)
 https://vavoo.to/vavoo-iptv/play/11981329060d11fdfd6364
-#EXTINF:-1 group-title="Bulgaria VAVOO",EUROSPORT 2 (5)
+#EXTINF:-1 group-title="Bulgaria VAVOO",EUROSPORT 2 (6)
 https://vavoo.to/vavoo-iptv/play/13268090b6de152e7ac1
 #EXTINF:-1 group-title="Bulgaria VAVOO",EVROKOM
 https://vavoo.to/vavoo-iptv/play/3250423496df1120fb2a50
@@ -5335,11 +5329,11 @@ https://vavoo.to/vavoo-iptv/play/4144011582dca4c8b0c735
 https://vavoo.to/vavoo-iptv/play/3236112686b24cb49f3905
 #EXTINF:-1 group-title="Bulgaria VAVOO",FOX (6)
 https://vavoo.to/vavoo-iptv/play/32145410369c38c5e9edb4
-#EXTINF:-1 group-title="Bulgaria VAVOO",FOX CRIME (6)
+#EXTINF:-1 group-title="Bulgaria VAVOO",FOX CRIME (5)
 https://vavoo.to/vavoo-iptv/play/1793487407b371d86ec411
-#EXTINF:-1 group-title="Bulgaria VAVOO",FOX CRIME (7)
+#EXTINF:-1 group-title="Bulgaria VAVOO",FOX CRIME (6)
 https://vavoo.to/vavoo-iptv/play/171523718579f2e8f23aee
-#EXTINF:-1 group-title="Bulgaria VAVOO",FOX LIFE (7)
+#EXTINF:-1 group-title="Bulgaria VAVOO",FOX LIFE (6)
 https://vavoo.to/vavoo-iptv/play/2135288369411b544cd271
 #EXTINF:-1 group-title="Bulgaria VAVOO",HBO (4)
 https://vavoo.to/vavoo-iptv/play/426993516701ac1d3a3cae
@@ -5607,6 +5601,8 @@ https://vavoo.to/vavoo-iptv/play/340010148454b4b576c9f3
 https://vavoo.to/vavoo-iptv/play/1316428074762ad2aa63dd
 #EXTINF:-1 group-title="France VAVOO",ACTION FHD
 https://vavoo.to/vavoo-iptv/play/3638789513f8ccd703cc28
+#EXTINF:-1 group-title="France VAVOO",AF: NOLLYWOOD
+https://vavoo.to/vavoo-iptv/play/435250608d3ee7b699982
 #EXTINF:-1 group-title="France VAVOO",AFRICA 24
 https://vavoo.to/vavoo-iptv/play/2290952272f961b542eda7
 #EXTINF:-1 group-title="France VAVOO",ALSACE 20
@@ -5637,6 +5633,8 @@ https://vavoo.to/vavoo-iptv/play/243195987591bffdc37fcf
 https://vavoo.to/vavoo-iptv/play/1551731280c530dcaccd63
 #EXTINF:-1 group-title="France VAVOO",AMAZON PRIME 4
 https://vavoo.to/vavoo-iptv/play/39695145985d944aa264ce
+#EXTINF:-1 group-title="France VAVOO",AMAZON PRIME 4 [LIVE DURING EVENTS ONLY]
+https://vavoo.to/vavoo-iptv/play/205171795996e163c44a77
 #EXTINF:-1 group-title="France VAVOO",AMAZON PRIME 4 HD
 https://vavoo.to/vavoo-iptv/play/258695433034433ac372ee
 #EXTINF:-1 group-title="France VAVOO",AMAZON PRIME 4 HD+
@@ -5687,7 +5685,7 @@ https://vavoo.to/vavoo-iptv/play/120986578a222d7f4806a
 https://vavoo.to/vavoo-iptv/play/2674773068696e84bdf9ee
 #EXTINF:-1 group-title="France VAVOO",AUTOMOTO LA CHAINE FHD
 https://vavoo.to/vavoo-iptv/play/1808973403875ca98b3144
-#EXTINF:-1 group-title="France VAVOO",BABY TV (6)
+#EXTINF:-1 group-title="France VAVOO",BABY TV (8)
 https://vavoo.to/vavoo-iptv/play/3259290967839a9f6093c9
 #EXTINF:-1 group-title="France VAVOO",BABY TV FHD
 https://vavoo.to/vavoo-iptv/play/3350752421fa0626c31fcf
@@ -5711,8 +5709,6 @@ https://vavoo.to/vavoo-iptv/play/2869862642fa20b06e6794
 https://vavoo.to/vavoo-iptv/play/169652130611873140131b
 #EXTINF:-1 group-title="France VAVOO",BEIN SPORTS 1 [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/1814496934db4257f8619
-#EXTINF:-1 group-title="France VAVOO",BEIN SPORTS 1 FHD (2)
-https://vavoo.to/vavoo-iptv/play/347259658949e36ffc7b26
 #EXTINF:-1 group-title="France VAVOO",BEIN SPORTS 1 FHD [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/2526338165b07cf0938746
 #EXTINF:-1 group-title="France VAVOO",BEIN SPORTS 1 HD (2)
@@ -5727,19 +5723,19 @@ https://vavoo.to/vavoo-iptv/play/39708820822e80dc81aabf
 https://vavoo.to/vavoo-iptv/play/796825423ed1e9e9dd950
 #EXTINF:-1 group-title="France VAVOO",BEIN SPORTS 2 (BACKUP) (2)
 https://vavoo.to/vavoo-iptv/play/4278173452eadb33b1be4
-#EXTINF:-1 group-title="France VAVOO",BEIN SPORTS 2 FHD (2)
+#EXTINF:-1 group-title="France VAVOO",BEIN SPORTS 2 FHD
 https://vavoo.to/vavoo-iptv/play/415174724098645874c57f
-#EXTINF:-1 group-title="France VAVOO",BEIN SPORTS 2 FHD (3)
+#EXTINF:-1 group-title="France VAVOO",BEIN SPORTS 2 FHD (2)
 https://vavoo.to/vavoo-iptv/play/75819853b0a7f36152e5
 #EXTINF:-1 group-title="France VAVOO",BEIN SPORTS 2 HD (2)
 https://vavoo.to/vavoo-iptv/play/35964869849ed2a9498a1b
 #EXTINF:-1 group-title="France VAVOO",BEIN SPORTS 2 HD (3)
 https://vavoo.to/vavoo-iptv/play/57669399316fdf295f4ae
-#EXTINF:-1 group-title="France VAVOO",BEIN SPORTS 3 (2)
+#EXTINF:-1 group-title="France VAVOO",BEIN SPORTS 3
 https://vavoo.to/vavoo-iptv/play/2683082226fbcf85179319
-#EXTINF:-1 group-title="France VAVOO",BEIN SPORTS 3 (3)
+#EXTINF:-1 group-title="France VAVOO",BEIN SPORTS 3 (2)
 https://vavoo.to/vavoo-iptv/play/3520000914617f771dcdef
-#EXTINF:-1 group-title="France VAVOO",BEIN SPORTS 3 (4)
+#EXTINF:-1 group-title="France VAVOO",BEIN SPORTS 3 (3)
 https://vavoo.to/vavoo-iptv/play/3040048635a6b95e096a2
 #EXTINF:-1 group-title="France VAVOO",BEIN SPORTS 3 (BACKUP) (2)
 https://vavoo.to/vavoo-iptv/play/222193893594fb44c7d213
@@ -5847,12 +5843,12 @@ https://vavoo.to/vavoo-iptv/play/1945266328e8e437e6162d
 https://vavoo.to/vavoo-iptv/play/216870633718bea9e17c0b
 #EXTINF:-1 group-title="France VAVOO",BFM HD
 https://vavoo.to/vavoo-iptv/play/282620250617bf79c7c58b
+#EXTINF:-1 group-title="France VAVOO",BFM PARIS
+https://vavoo.to/vavoo-iptv/play/2180428480d00717ea16c0
 #EXTINF:-1 group-title="France VAVOO",BFM PARIS FHD
 https://vavoo.to/vavoo-iptv/play/15537259663eeaf443b8c8
 #EXTINF:-1 group-title="France VAVOO",BFM TV
 https://vavoo.to/vavoo-iptv/play/28781389555e4689451088
-#EXTINF:-1 group-title="France VAVOO",BFM TV HD
-https://vavoo.to/vavoo-iptv/play/1080830216b8e08bdf456f
 #EXTINF:-1 group-title="France VAVOO",BIP TV
 https://vavoo.to/vavoo-iptv/play/2475360608ab28c6777d10
 #EXTINF:-1 group-title="France VAVOO",BIP TV (2)
@@ -5910,8 +5906,6 @@ https://vavoo.to/vavoo-iptv/play/13129733393e6b5932e60
 #EXTINF:-1 group-title="France VAVOO",C8
 https://vavoo.to/vavoo-iptv/play/635278573a8856a6b670
 #EXTINF:-1 group-title="France VAVOO",C8 HD
-https://vavoo.to/vavoo-iptv/play/975685108da00cade90db
-#EXTINF:-1 group-title="France VAVOO",C8 HD (2)
 https://vavoo.to/vavoo-iptv/play/40987175059c8809b916ad
 #EXTINF:-1 group-title="France VAVOO",CANAL 2 INTERNATIONAL
 https://vavoo.to/vavoo-iptv/play/33889794098fe938113743
@@ -6021,6 +6015,8 @@ https://vavoo.to/vavoo-iptv/play/116160273261086bd8c99a
 https://vavoo.to/vavoo-iptv/play/3625345371a7f0ef9f1db5
 #EXTINF:-1 group-title="France VAVOO",CANAL+ ELLES
 https://vavoo.to/vavoo-iptv/play/143458825547e0ee044094
+#EXTINF:-1 group-title="France VAVOO",CANAL+ F1 FHD
+https://vavoo.to/vavoo-iptv/play/401626311591b144b76e6a
 #EXTINF:-1 group-title="France VAVOO",CANAL+ FAMILY
 https://vavoo.to/vavoo-iptv/play/27100018482cf9099bc7d2
 #EXTINF:-1 group-title="France VAVOO",CANAL+ FHD
@@ -6091,6 +6087,8 @@ https://vavoo.to/vavoo-iptv/play/278630331931d4f590a721
 https://vavoo.to/vavoo-iptv/play/2127297858581f62f0bf4c
 #EXTINF:-1 group-title="France VAVOO",CARTOONITO
 https://vavoo.to/vavoo-iptv/play/4129073805efdd455d93a2
+#EXTINF:-1 group-title="France VAVOO",CGTN
+https://vavoo.to/vavoo-iptv/play/5112772450536f6b4cec0
 #EXTINF:-1 group-title="France VAVOO",CHASSE & PECHE
 https://vavoo.to/vavoo-iptv/play/30277092126bc746a51a20
 #EXTINF:-1 group-title="France VAVOO",CHASSE & PECHE (2)
@@ -6228,8 +6226,6 @@ https://vavoo.to/vavoo-iptv/play/21408183822b69d042c666
 #EXTINF:-1 group-title="France VAVOO",DATING
 https://vavoo.to/vavoo-iptv/play/1088703292b8a7f623f1bf
 #EXTINF:-1 group-title="France VAVOO",DAZN 1
-https://vavoo.to/vavoo-iptv/play/35675905977ef42fa6bfbe
-#EXTINF:-1 group-title="France VAVOO",DAZN 1 (2)
 https://vavoo.to/vavoo-iptv/play/3110706438e1379884d3f9
 #EXTINF:-1 group-title="France VAVOO",DAZN 1 LEAUGE 1
 https://vavoo.to/vavoo-iptv/play/3864281936f9bf6f8355bf
@@ -6289,6 +6285,8 @@ https://vavoo.to/vavoo-iptv/play/3319953260dfcfaf5b80f3
 https://vavoo.to/vavoo-iptv/play/25988419569bf080bab8ad
 #EXTINF:-1 group-title="France VAVOO",DIGITAL BLACK MUSIC (DBM)
 https://vavoo.to/vavoo-iptv/play/8884295080d400fed773d
+#EXTINF:-1 group-title="France VAVOO",DIRECT EQUIPE
+https://vavoo.to/vavoo-iptv/play/272201374708c808452afa
 #EXTINF:-1 group-title="France VAVOO",DISCOVERY CHANNEL (6)
 https://vavoo.to/vavoo-iptv/play/340454356536c0a44a2785
 #EXTINF:-1 group-title="France VAVOO",DISCOVERY FAMILY (2)
@@ -6339,11 +6337,7 @@ https://vavoo.to/vavoo-iptv/play/357894050d7f96e94e22f
 https://vavoo.to/vavoo-iptv/play/4072150322035a105f553c
 #EXTINF:-1 group-title="France VAVOO",DISNEY XD (2)
 https://vavoo.to/vavoo-iptv/play/3237934255bfec4e787a8b
-#EXTINF:-1 group-title="France VAVOO",DISNEY XD (3)
-https://vavoo.to/vavoo-iptv/play/13299406005657d2c035e2
 #EXTINF:-1 group-title="France VAVOO",DISNEY+
-https://vavoo.to/vavoo-iptv/play/2427544834a3f2c10b9493
-#EXTINF:-1 group-title="France VAVOO",DISNEY+ (2)
 https://vavoo.to/vavoo-iptv/play/23220966391db224d00af9
 #EXTINF:-1 group-title="France VAVOO",E! (2)
 https://vavoo.to/vavoo-iptv/play/3093319007521a68f1a63a
@@ -6387,11 +6381,11 @@ https://vavoo.to/vavoo-iptv/play/3513558830ea552e53ae67
 https://vavoo.to/vavoo-iptv/play/21729242750aa1745e0a25
 #EXTINF:-1 group-title="France VAVOO",EUROSPORT 1 HD
 https://vavoo.to/vavoo-iptv/play/1801327897a89211f65c72
-#EXTINF:-1 group-title="France VAVOO",EUROSPORT 2 (6)
-https://vavoo.to/vavoo-iptv/play/391453244816ed0170f0da
 #EXTINF:-1 group-title="France VAVOO",EUROSPORT 2 (7)
-https://vavoo.to/vavoo-iptv/play/258519003290db4a0b92f8
+https://vavoo.to/vavoo-iptv/play/391453244816ed0170f0da
 #EXTINF:-1 group-title="France VAVOO",EUROSPORT 2 (8)
+https://vavoo.to/vavoo-iptv/play/258519003290db4a0b92f8
+#EXTINF:-1 group-title="France VAVOO",EUROSPORT 2 (9)
 https://vavoo.to/vavoo-iptv/play/253000857497d3af12b9e0
 #EXTINF:-1 group-title="France VAVOO",EUROSPORT 2 HD
 https://vavoo.to/vavoo-iptv/play/38556843468cc613315ad7
@@ -6467,8 +6461,6 @@ https://vavoo.to/vavoo-iptv/play/1158759400afedc64184fa
 https://vavoo.to/vavoo-iptv/play/2391590954b4ff9f1d5426
 #EXTINF:-1 group-title="France VAVOO",FRANCEINFO
 https://vavoo.to/vavoo-iptv/play/1120097184c14cbf137b7b
-#EXTINF:-1 group-title="France VAVOO",FRANCOPHONIE 24
-https://vavoo.to/vavoo-iptv/play/46629016e7679725def2
 #EXTINF:-1 group-title="France VAVOO",FREQUENCE NOVELAS
 https://vavoo.to/vavoo-iptv/play/3928989342f00a8fea8b34
 #EXTINF:-1 group-title="France VAVOO",GAME ONE
@@ -6482,7 +6474,11 @@ https://vavoo.to/vavoo-iptv/play/352210002128b8d8ce3e1a
 #EXTINF:-1 group-title="France VAVOO",GENERATIONS TV
 https://vavoo.to/vavoo-iptv/play/395874339442bcdf7f7639
 #EXTINF:-1 group-title="France VAVOO",GOLF CHANNEL
+https://vavoo.to/vavoo-iptv/play/2672088867fd5fd7859b84
+#EXTINF:-1 group-title="France VAVOO",GOLF CHANNEL (2)
 https://vavoo.to/vavoo-iptv/play/765139465dd1569a49cdb
+#EXTINF:-1 group-title="France VAVOO",GOLF CHANNEL HD
+https://vavoo.to/vavoo-iptv/play/1646679501c2eb49ec1063
 #EXTINF:-1 group-title="France VAVOO",GOLF CHANNEL HD (BACKUP)
 https://vavoo.to/vavoo-iptv/play/3460274881ae17ee85be00
 #EXTINF:-1 group-title="France VAVOO",GOLF HD
@@ -6601,6 +6597,8 @@ https://vavoo.to/vavoo-iptv/play/7435919714613b22a77d1
 https://vavoo.to/vavoo-iptv/play/285936085861281a838c2f
 #EXTINF:-1 group-title="France VAVOO",M6 MUSIC SD
 https://vavoo.to/vavoo-iptv/play/32799170581348b92d0676
+#EXTINF:-1 group-title="France VAVOO",MAISON & TRAVAUX TV
+https://vavoo.to/vavoo-iptv/play/2351494974c3c23b93051
 #EXTINF:-1 group-title="France VAVOO",MANGAS
 https://vavoo.to/vavoo-iptv/play/3781018265a0de3a4a5f34
 #EXTINF:-1 group-title="France VAVOO",MANGAS (2)
@@ -6610,6 +6608,8 @@ https://vavoo.to/vavoo-iptv/play/139408412ba8e0ae7a800
 #EXTINF:-1 group-title="France VAVOO",MANGAS HD
 https://vavoo.to/vavoo-iptv/play/401237472a1e90e56167a
 #EXTINF:-1 group-title="France VAVOO",MATELE
+https://vavoo.to/vavoo-iptv/play/12809648419c257e423b34
+#EXTINF:-1 group-title="France VAVOO",MATELE (2)
 https://vavoo.to/vavoo-iptv/play/12809648419c257e423b34
 #EXTINF:-1 group-title="France VAVOO",MAX
 https://vavoo.to/vavoo-iptv/play/226827313717bca70accfc
@@ -6647,20 +6647,14 @@ https://vavoo.to/vavoo-iptv/play/374095274769dc983b81a7
 https://vavoo.to/vavoo-iptv/play/91561140446f390dc59d
 #EXTINF:-1 group-title="France VAVOO",MEZZO (2)
 https://vavoo.to/vavoo-iptv/play/2047620470e301f2d22c47
-#EXTINF:-1 group-title="France VAVOO",MEZZO HD
-https://vavoo.to/vavoo-iptv/play/125439915962261b6c173f
 #EXTINF:-1 group-title="France VAVOO",MEZZO LIVE
 https://vavoo.to/vavoo-iptv/play/187506502594b281da82dc
-#EXTINF:-1 group-title="France VAVOO",MEZZO LIVE SD
-https://vavoo.to/vavoo-iptv/play/1458795517d80de7fca828
 #EXTINF:-1 group-title="France VAVOO",MEZZO TV
 https://vavoo.to/vavoo-iptv/play/619748021e2749c6d6cae
 #EXTINF:-1 group-title="France VAVOO",MONACO INFO
 https://vavoo.to/vavoo-iptv/play/3767488192411233e4fd21
 #EXTINF:-1 group-title="France VAVOO",MONACO INFO (2)
 https://vavoo.to/vavoo-iptv/play/3965013422658fa5c00398
-#EXTINF:-1 group-title="France VAVOO",MOTOSPORT TV
-https://vavoo.to/vavoo-iptv/play/23016659182a92ee3732e9
 #EXTINF:-1 group-title="France VAVOO",MTV (3)
 https://vavoo.to/vavoo-iptv/play/987897824424746e378ce
 #EXTINF:-1 group-title="France VAVOO",MTV 00S (3)
@@ -6717,6 +6711,8 @@ https://vavoo.to/vavoo-iptv/play/295899358126aff7725d18
 https://vavoo.to/vavoo-iptv/play/4087509269bc6b8e5313a4
 #EXTINF:-1 group-title="France VAVOO",NATIONAL GEO WILD
 https://vavoo.to/vavoo-iptv/play/51792978604e042fd009f
+#EXTINF:-1 group-title="France VAVOO",NATIONAL GEOGRAPHIC (2)
+https://vavoo.to/vavoo-iptv/play/70703536607da79ad1187
 #EXTINF:-1 group-title="France VAVOO",NICK JUNIOR
 https://vavoo.to/vavoo-iptv/play/844674923ad02e0baaec7
 #EXTINF:-1 group-title="France VAVOO",NICKELODEON (7)
@@ -6729,7 +6725,7 @@ https://vavoo.to/vavoo-iptv/play/2881806872c3195b245695
 https://vavoo.to/vavoo-iptv/play/2786840044bbf88bfbe8f7
 #EXTINF:-1 group-title="France VAVOO",NICKELODEON 4 TEEN
 https://vavoo.to/vavoo-iptv/play/3199219011710e9ef1e081
-#EXTINF:-1 group-title="France VAVOO",NICKELODEON HD
+#EXTINF:-1 group-title="France VAVOO",NICKELODEON HD (2)
 https://vavoo.to/vavoo-iptv/play/8441224898b46c4cc3c5d
 #EXTINF:-1 group-title="France VAVOO",NICKELODEON JR
 https://vavoo.to/vavoo-iptv/play/2419624528420a9221f9fc
@@ -6752,10 +6748,8 @@ https://vavoo.to/vavoo-iptv/play/215687074c5e526fe2816
 #EXTINF:-1 group-title="France VAVOO",NOVELAS TV
 https://vavoo.to/vavoo-iptv/play/16260338528710828dbe45
 #EXTINF:-1 group-title="France VAVOO",NRJ 12
-https://vavoo.to/vavoo-iptv/play/419510080379db27b6767a
-#EXTINF:-1 group-title="France VAVOO",NRJ 12 (2)
 https://vavoo.to/vavoo-iptv/play/2127716293a7c02b99643e
-#EXTINF:-1 group-title="France VAVOO",NRJ 12 (3)
+#EXTINF:-1 group-title="France VAVOO",NRJ 12 (2)
 https://vavoo.to/vavoo-iptv/play/320790022bfc96711ce6a
 #EXTINF:-1 group-title="France VAVOO",NRJ 12 HD
 https://vavoo.to/vavoo-iptv/play/8240183186d98bf8f0ee0
@@ -6927,6 +6921,8 @@ https://vavoo.to/vavoo-iptv/play/34184806827df1037defd3
 https://vavoo.to/vavoo-iptv/play/3643189038f63e601cf626
 #EXTINF:-1 group-title="France VAVOO",RAKUTEN TV ROMANCE
 https://vavoo.to/vavoo-iptv/play/31512084432c1668347f8
+#EXTINF:-1 group-title="France VAVOO",RAKUTEN TV ROMANCE 2
+https://vavoo.to/vavoo-iptv/play/1889679296218b2c32f64e
 #EXTINF:-1 group-title="France VAVOO",RAKUTEN TV SHOWS
 https://vavoo.to/vavoo-iptv/play/172311431624542720658f
 #EXTINF:-1 group-title="France VAVOO",RAKUTEN TV TOP FILMS
@@ -6937,6 +6933,8 @@ https://vavoo.to/vavoo-iptv/play/235106601922765d099ee0
 https://vavoo.to/vavoo-iptv/play/37905311685b668ac8d224
 #EXTINF:-1 group-title="France VAVOO",RFM TV HD
 https://vavoo.to/vavoo-iptv/play/4100689874e4f474bc38f3
+#EXTINF:-1 group-title="France VAVOO",RFM TV MUSIC
+https://vavoo.to/vavoo-iptv/play/4197312592de677f26e1da
 #EXTINF:-1 group-title="France VAVOO",RFM TV SD
 https://vavoo.to/vavoo-iptv/play/2642050442743edf3d3496
 #EXTINF:-1 group-title="France VAVOO",RMC DECOUVERTE
@@ -6965,12 +6963,18 @@ https://vavoo.to/vavoo-iptv/play/3658283022637e76be3562
 https://vavoo.to/vavoo-iptv/play/2195294466e7b94a1092d4
 #EXTINF:-1 group-title="France VAVOO",RMC SPORT 11 [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/235289851552be0bdeb8f5
+#EXTINF:-1 group-title="France VAVOO",RMC SPORT 12
+https://vavoo.to/vavoo-iptv/play/269776779092e198e8fc15
+#EXTINF:-1 group-title="France VAVOO",RMC SPORT 12 [LIVE DURING EVENTS ONLY]
+https://vavoo.to/vavoo-iptv/play/2669041824805cbe4659bb
 #EXTINF:-1 group-title="France VAVOO",RMC SPORT 14
 https://vavoo.to/vavoo-iptv/play/2639500260d2bc1d613f18
 #EXTINF:-1 group-title="France VAVOO",RMC SPORT 15
 https://vavoo.to/vavoo-iptv/play/26877445960b0387b6b8e5
 #EXTINF:-1 group-title="France VAVOO",RMC SPORT 16
 https://vavoo.to/vavoo-iptv/play/1431047598ad121808116b
+#EXTINF:-1 group-title="France VAVOO",RMC SPORT 16 (2)
+https://vavoo.to/vavoo-iptv/play/38852199726fa0c900bb0d
 #EXTINF:-1 group-title="France VAVOO",RMC SPORT 17
 https://vavoo.to/vavoo-iptv/play/3673418036295f31622f35
 #EXTINF:-1 group-title="France VAVOO",RMC SPORT 18
@@ -6987,6 +6991,8 @@ https://vavoo.to/vavoo-iptv/play/335631470dc3241eb383f
 https://vavoo.to/vavoo-iptv/play/3141694283a807493458b1
 #EXTINF:-1 group-title="France VAVOO",RMC SPORT 2 FHD
 https://vavoo.to/vavoo-iptv/play/2516059589df8a4a2294fc
+#EXTINF:-1 group-title="France VAVOO",RMC SPORT 2 HD
+https://vavoo.to/vavoo-iptv/play/2246359828a17b3da47b2c
 #EXTINF:-1 group-title="France VAVOO",RMC SPORT 3
 https://vavoo.to/vavoo-iptv/play/1844187641d8333af8b75a
 #EXTINF:-1 group-title="France VAVOO",RMC SPORT 3 (2)
@@ -7047,8 +7053,6 @@ https://vavoo.to/vavoo-iptv/play/425544469138297bd647ca
 https://vavoo.to/vavoo-iptv/play/8230620938326140591cc
 #EXTINF:-1 group-title="France VAVOO",RMC SPORT LIVE 16 HD
 https://vavoo.to/vavoo-iptv/play/3212962222c366b650a51d
-#EXTINF:-1 group-title="France VAVOO",RMC SPORT LIVE 5 HD
-https://vavoo.to/vavoo-iptv/play/34525715582e9f5094be7b
 #EXTINF:-1 group-title="France VAVOO",RMC SPORT LIVE 5 HD (BACKUP)
 https://vavoo.to/vavoo-iptv/play/41715645264a1b399848f2
 #EXTINF:-1 group-title="France VAVOO",RMC SPORT LIVE 6 HD
@@ -7059,8 +7063,6 @@ https://vavoo.to/vavoo-iptv/play/287305687457b957946f68
 https://vavoo.to/vavoo-iptv/play/24148072590d63bcae2cb3
 #EXTINF:-1 group-title="France VAVOO",RMC SPORT LIVE 7 HD (BACKUP)
 https://vavoo.to/vavoo-iptv/play/748262697206d933e210e
-#EXTINF:-1 group-title="France VAVOO",RMC SPORT LIVE 8 HD
-https://vavoo.to/vavoo-iptv/play/14564133030b5db1ad73dd
 #EXTINF:-1 group-title="France VAVOO",RMC SPORT LIVE 8 HD (BACKUP)
 https://vavoo.to/vavoo-iptv/play/3927680764c9e05a6809f5
 #EXTINF:-1 group-title="France VAVOO",RMC SPORT LIVE 9 HD
@@ -7329,6 +7331,8 @@ https://vavoo.to/vavoo-iptv/play/3228877884bc18a7941f56
 https://vavoo.to/vavoo-iptv/play/190260001138dbaeb545af
 #EXTINF:-1 group-title="Germany VAVOO",6EREN
 https://vavoo.to/vavoo-iptv/play/2746922057d8e2a1cf5360
+#EXTINF:-1 group-title="Germany VAVOO",A&E HD
+https://vavoo.to/vavoo-iptv/play/293885293633122a31ae84
 #EXTINF:-1 group-title="Germany VAVOO",ALLGAU
 https://vavoo.to/vavoo-iptv/play/21870278770b132123ee34
 #EXTINF:-1 group-title="Germany VAVOO",ALLGAU TV
@@ -7387,7 +7391,7 @@ https://vavoo.to/vavoo-iptv/play/3150125078e40bb1f5ac0
 https://vavoo.to/vavoo-iptv/play/33911158650eccddb037b3
 #EXTINF:-1 group-title="Germany VAVOO",AXN WHITE
 https://vavoo.to/vavoo-iptv/play/380577343444993225d98e
-#EXTINF:-1 group-title="Germany VAVOO",BABY TV (7)
+#EXTINF:-1 group-title="Germany VAVOO",BABY TV (9)
 https://vavoo.to/vavoo-iptv/play/3056472300a1783772e102
 #EXTINF:-1 group-title="Germany VAVOO",BADEN TV
 https://vavoo.to/vavoo-iptv/play/22498786222f7ef83e8281
@@ -7453,8 +7457,6 @@ https://vavoo.to/vavoo-iptv/play/265457868686bae73c5be4
 https://vavoo.to/vavoo-iptv/play/3911953199a086b8c6bcf2
 #EXTINF:-1 group-title="Germany VAVOO",BLUETV FAMILIE 1 ʜᴅ
 https://vavoo.to/vavoo-iptv/play/1335837286ea234257fb85
-#EXTINF:-1 group-title="Germany VAVOO",BLUETV FAMILIE 2 ʜᴅ
-https://vavoo.to/vavoo-iptv/play/359852554389c3b62437d4
 #EXTINF:-1 group-title="Germany VAVOO",BLUETV FANTASY ʜᴅ
 https://vavoo.to/vavoo-iptv/play/36128412929fba395dd445
 #EXTINF:-1 group-title="Germany VAVOO",BLUETV HISTORIE ʜᴅ
@@ -7475,8 +7477,6 @@ https://vavoo.to/vavoo-iptv/play/2594145557bfa535038c3b
 https://vavoo.to/vavoo-iptv/play/3486007658f1e5ecad179
 #EXTINF:-1 group-title="Germany VAVOO",BLUETV SCIENCE-FICTION ʜᴅ
 https://vavoo.to/vavoo-iptv/play/238647737739b74e9768d
-#EXTINF:-1 group-title="Germany VAVOO",BLUETV THRILLER 1 ʜᴅ
-https://vavoo.to/vavoo-iptv/play/13061536361110c450877c
 #EXTINF:-1 group-title="Germany VAVOO",BOLLYWOOD
 https://vavoo.to/vavoo-iptv/play/3973450275ccb8a06e1911
 #EXTINF:-1 group-title="Germany VAVOO",BON GUSTO
@@ -7515,6 +7515,8 @@ https://vavoo.to/vavoo-iptv/play/70673329263ebb4e986a6
 https://vavoo.to/vavoo-iptv/play/750701864729605ec5f36
 #EXTINF:-1 group-title="Germany VAVOO",CINE MAX JURASSIC PARK
 https://vavoo.to/vavoo-iptv/play/26841168454b3bfdd7ca26
+#EXTINF:-1 group-title="Germany VAVOO",CITY TV (7)
+https://vavoo.to/vavoo-iptv/play/247446075793cebf0be6
 #EXTINF:-1 group-title="Germany VAVOO",CLASSICA HD
 https://vavoo.to/vavoo-iptv/play/147346125573492494e9e9
 #EXTINF:-1 group-title="Germany VAVOO",COMEDY CENTRAL (3)
@@ -7539,10 +7541,10 @@ https://vavoo.to/vavoo-iptv/play/2781626432d1535952983f
 https://vavoo.to/vavoo-iptv/play/1340558123bb049b1e5046
 #EXTINF:-1 group-title="Germany VAVOO",DAS ERSTE HD+
 https://vavoo.to/vavoo-iptv/play/53342635423e807a3368b
-#EXTINF:-1 group-title="Germany VAVOO",DAZN 1 (3)
+#EXTINF:-1 group-title="Germany VAVOO",DAZN 1 (2)
 https://vavoo.to/vavoo-iptv/play/263339334cc4fd6ebe9ff
-#EXTINF:-1 group-title="Germany VAVOO",DAZN 1 (MATCH TIME) HD
-https://vavoo.to/vavoo-iptv/play/357954930153b4bd7a232c
+#EXTINF:-1 group-title="Germany VAVOO",DAZN 1 [LIVE DURING EVENTS ONLY]
+https://vavoo.to/vavoo-iptv/play/2748335805b3e1e95b64c0
 #EXTINF:-1 group-title="Germany VAVOO",DAZN 1 FHD
 https://vavoo.to/vavoo-iptv/play/13464368479556ecce2a7d
 #EXTINF:-1 group-title="Germany VAVOO",DAZN 1 HD
@@ -7559,8 +7561,6 @@ https://vavoo.to/vavoo-iptv/play/3558383326598d395a9ac6
 https://vavoo.to/vavoo-iptv/play/3187611782a734edbe0b05
 #EXTINF:-1 group-title="Germany VAVOO",DAZN 15(MATCH TIME) HD
 https://vavoo.to/vavoo-iptv/play/50488455976ad9be2ecb7
-#EXTINF:-1 group-title="Germany VAVOO",DAZN 16 (MATCH TIME) HD
-https://vavoo.to/vavoo-iptv/play/14970454998efc6842a039
 #EXTINF:-1 group-title="Germany VAVOO",DAZN 17 (MATCH TIME) HD
 https://vavoo.to/vavoo-iptv/play/3336673893ee37fb44c0ce
 #EXTINF:-1 group-title="Germany VAVOO",DAZN 18 (MATCH TIME) HD
@@ -7575,8 +7575,6 @@ https://vavoo.to/vavoo-iptv/play/292376283806702b7a49e8
 https://vavoo.to/vavoo-iptv/play/7163121413b507d0b7735
 #EXTINF:-1 group-title="Germany VAVOO",DAZN 2 FHD
 https://vavoo.to/vavoo-iptv/play/17750922665f140b1ffc92
-#EXTINF:-1 group-title="Germany VAVOO",DAZN 2 HD
-https://vavoo.to/vavoo-iptv/play/162211919344d3ba16b8d
 #EXTINF:-1 group-title="Germany VAVOO",DAZN 3 (MATCH TIME) HD
 https://vavoo.to/vavoo-iptv/play/832542472f749e42c74bc
 #EXTINF:-1 group-title="Germany VAVOO",DAZN 4 (MATCH TIME) HD
@@ -7585,8 +7583,6 @@ https://vavoo.to/vavoo-iptv/play/1484263760fa8328adf7a6
 https://vavoo.to/vavoo-iptv/play/3349320398ce8ea3c4a5e9
 #EXTINF:-1 group-title="Germany VAVOO",DAZN 6 (MATCH TIME) HD
 https://vavoo.to/vavoo-iptv/play/31664415170397a67c6455
-#EXTINF:-1 group-title="Germany VAVOO",DAZN 7 (MATCH TIME) HD
-https://vavoo.to/vavoo-iptv/play/593925043c6e302c6b77a
 #EXTINF:-1 group-title="Germany VAVOO",DAZN 8 (MATCH TIME) HD
 https://vavoo.to/vavoo-iptv/play/1869814941aa982b6bd0a0
 #EXTINF:-1 group-title="Germany VAVOO",DAZN 9 (MATCH TIME) HD
@@ -7689,8 +7685,10 @@ https://vavoo.to/vavoo-iptv/play/20397282244d59acc5caf8
 https://vavoo.to/vavoo-iptv/play/35285023817bfb6202b4d7
 #EXTINF:-1 group-title="Germany VAVOO",DISNEY PLUS FILM
 https://vavoo.to/vavoo-iptv/play/27493923745b76a03413d8
-#EXTINF:-1 group-title="Germany VAVOO",DISNEY XD (4)
+#EXTINF:-1 group-title="Germany VAVOO",DISNEY XD (3)
 https://vavoo.to/vavoo-iptv/play/27959125340f3d677ad175
+#EXTINF:-1 group-title="Germany VAVOO",DISNEY+ (2)
+https://vavoo.to/vavoo-iptv/play/383959877793b0fa4d60aa
 #EXTINF:-1 group-title="Germany VAVOO",DK4
 https://vavoo.to/vavoo-iptv/play/1419294625c9fd386fbfa1
 #EXTINF:-1 group-title="Germany VAVOO",DMAX
@@ -7701,6 +7699,8 @@ https://vavoo.to/vavoo-iptv/play/635686224fedfdfe5b2d7
 https://vavoo.to/vavoo-iptv/play/15201004986f5edd73b74d
 #EXTINF:-1 group-title="Germany VAVOO",DMAX HD+
 https://vavoo.to/vavoo-iptv/play/79403627856f32c18a077
+#EXTINF:-1 group-title="Germany VAVOO",DOKUMENTATION
+https://vavoo.to/vavoo-iptv/play/196474343111e0f530a0c6
 #EXTINF:-1 group-title="Germany VAVOO",DR RAMASJANG
 https://vavoo.to/vavoo-iptv/play/1249122834b047faba16d7
 #EXTINF:-1 group-title="Germany VAVOO",DR1
@@ -7721,8 +7721,6 @@ https://vavoo.to/vavoo-iptv/play/184526225925a39505f18c
 https://vavoo.to/vavoo-iptv/play/1234064310ebb2dada9023
 #EXTINF:-1 group-title="Germany VAVOO",DYN SPORT 1
 https://vavoo.to/vavoo-iptv/play/4939706396689225497ed
-#EXTINF:-1 group-title="Germany VAVOO",DYN SPORT 3
-https://vavoo.to/vavoo-iptv/play/1739667375b70564ce305e
 #EXTINF:-1 group-title="Germany VAVOO",E! (3)
 https://vavoo.to/vavoo-iptv/play/2181381785257ed1b08e32
 #EXTINF:-1 group-title="Germany VAVOO",E! ENTERTAINMENT (3)
@@ -7763,7 +7761,7 @@ https://vavoo.to/vavoo-iptv/play/1222315896dcc6e31f3735
 https://vavoo.to/vavoo-iptv/play/2924660569442cd197c7a9
 #EXTINF:-1 group-title="Germany VAVOO",EUROSPORT 1 HD (BACKUP)
 https://vavoo.to/vavoo-iptv/play/1988924073cc27ed47d566
-#EXTINF:-1 group-title="Germany VAVOO",EUROSPORT 2 (9)
+#EXTINF:-1 group-title="Germany VAVOO",EUROSPORT 2 (10)
 https://vavoo.to/vavoo-iptv/play/2597492881017e8562bec
 #EXTINF:-1 group-title="Germany VAVOO",EUROSPORT 2 [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/3178954282806508bb8e81
@@ -7781,6 +7779,8 @@ https://vavoo.to/vavoo-iptv/play/26744159750b3c9c4197ef
 https://vavoo.to/vavoo-iptv/play/1428325151c4a2bd098056
 #EXTINF:-1 group-title="Germany VAVOO",FC BAYERN HD
 https://vavoo.to/vavoo-iptv/play/31629675780944e9fb9e6f
+#EXTINF:-1 group-title="Germany VAVOO",FC BAYERN TV HD
+https://vavoo.to/vavoo-iptv/play/217650915168b654708577
 #EXTINF:-1 group-title="Germany VAVOO",FEUERWEHRMANN SAM TV
 https://vavoo.to/vavoo-iptv/play/31178316070438763e6cd4
 #EXTINF:-1 group-title="Germany VAVOO",FIX & FOXI (2)
@@ -7789,6 +7789,8 @@ https://vavoo.to/vavoo-iptv/play/3087933134a74430842c78
 https://vavoo.to/vavoo-iptv/play/3567855153b279660bfce4
 #EXTINF:-1 group-title="Germany VAVOO",FOLX
 https://vavoo.to/vavoo-iptv/play/12881614982072cd0d654e
+#EXTINF:-1 group-title="Germany VAVOO",FOX (7)
+https://vavoo.to/vavoo-iptv/play/343953780598d16435c2c7
 #EXTINF:-1 group-title="Germany VAVOO",FOX HD
 https://vavoo.to/vavoo-iptv/play/1518951988862c0b272d05
 #EXTINF:-1 group-title="Germany VAVOO",FOX HD (BACKUP)
@@ -7809,10 +7811,12 @@ https://vavoo.to/vavoo-iptv/play/2085313223c156da73c345
 https://vavoo.to/vavoo-iptv/play/2916930910289202d17bb4
 #EXTINF:-1 group-title="Germany VAVOO",GEO TV
 https://vavoo.to/vavoo-iptv/play/39779192841d002dd8631b
-#EXTINF:-1 group-title="Germany VAVOO",GERMANY BESONDERE 1
-https://vavoo.to/vavoo-iptv/play/281511331327507555099b
+#EXTINF:-1 group-title="Germany VAVOO",GERMANY BESONDERE 2
+https://vavoo.to/vavoo-iptv/play/3765125809b78f5a3d6d4b
 #EXTINF:-1 group-title="Germany VAVOO",GERMANY BESONDERE 3
 https://vavoo.to/vavoo-iptv/play/370851302566c07af6a125
+#EXTINF:-1 group-title="Germany VAVOO",GERMANY KONIG FILME 1
+https://vavoo.to/vavoo-iptv/play/125822814bd98b1c911a9
 #EXTINF:-1 group-title="Germany VAVOO",GERMANY KONIG FILME 2
 https://vavoo.to/vavoo-iptv/play/1088396686514269a4325d
 #EXTINF:-1 group-title="Germany VAVOO",GERMANY KONIG FILME 3
@@ -7821,6 +7825,8 @@ https://vavoo.to/vavoo-iptv/play/2109715518f0ac5ee5ace5
 https://vavoo.to/vavoo-iptv/play/34833306068f8e81b4984c
 #EXTINF:-1 group-title="Germany VAVOO",GERMANY KONIG FILME 5
 https://vavoo.to/vavoo-iptv/play/4076814750fe8627730934
+#EXTINF:-1 group-title="Germany VAVOO",GERMANY KONIG FILME 6
+https://vavoo.to/vavoo-iptv/play/304291719849f7ffd5dabb
 #EXTINF:-1 group-title="Germany VAVOO",GO2 TRAVEL
 https://vavoo.to/vavoo-iptv/play/382961786700f39d2d9590
 #EXTINF:-1 group-title="Germany VAVOO",GOLDSTAR
@@ -7931,6 +7937,8 @@ https://vavoo.to/vavoo-iptv/play/32463350314b2b8473ade8
 https://vavoo.to/vavoo-iptv/play/1935669287a6cf54a9db74
 #EXTINF:-1 group-title="Germany VAVOO",KINOPORTAL 5
 https://vavoo.to/vavoo-iptv/play/13128052718f1b837846ae
+#EXTINF:-1 group-title="Germany VAVOO",KINOPORTAL 6
+https://vavoo.to/vavoo-iptv/play/1614590150de36e2f952f
 #EXTINF:-1 group-title="Germany VAVOO",KINOWELT TV
 https://vavoo.to/vavoo-iptv/play/4975857175aa8c3513948
 #EXTINF:-1 group-title="Germany VAVOO",KINOWELT TV (2)
@@ -8123,7 +8131,7 @@ https://vavoo.to/vavoo-iptv/play/325169620a3d369d4b452
 https://vavoo.to/vavoo-iptv/play/2660473561e71e974820c9
 #EXTINF:-1 group-title="Germany VAVOO",NAT GEO WILD HD+
 https://vavoo.to/vavoo-iptv/play/21368565729346eaf12cd8
-#EXTINF:-1 group-title="Germany VAVOO",NATIONAL GEOGRAPHIC (2)
+#EXTINF:-1 group-title="Germany VAVOO",NATIONAL GEOGRAPHIC (3)
 https://vavoo.to/vavoo-iptv/play/3146715082dd6af2cc77
 #EXTINF:-1 group-title="Germany VAVOO",NBA TV
 https://vavoo.to/vavoo-iptv/play/3050427797b9a43dcea6e4
@@ -8191,8 +8199,6 @@ https://vavoo.to/vavoo-iptv/play/63685524363feded0e380
 https://vavoo.to/vavoo-iptv/play/20764044869ff73befc7ec
 #EXTINF:-1 group-title="Germany VAVOO",OBERPFALZ TV (2)
 https://vavoo.to/vavoo-iptv/play/30882627633d0a20bb7571
-#EXTINF:-1 group-title="Germany VAVOO",OE24.TV
-https://vavoo.to/vavoo-iptv/play/1156381856c189dfc84a5b
 #EXTINF:-1 group-title="Germany VAVOO",OF TV OFFENBACH
 https://vavoo.to/vavoo-iptv/play/1027321034d7b634a17d6f
 #EXTINF:-1 group-title="Germany VAVOO",OFFENER KANAL MAGDEBURG
@@ -8315,8 +8321,6 @@ https://vavoo.to/vavoo-iptv/play/1663642536c634e4c5b223
 https://vavoo.to/vavoo-iptv/play/23292927777f160288b5a2
 #EXTINF:-1 group-title="Germany VAVOO",QVC ZWEI
 https://vavoo.to/vavoo-iptv/play/192343514111ad3d59f586
-#EXTINF:-1 group-title="Germany VAVOO",RAKUTEN ACTION MOVIES
-https://vavoo.to/vavoo-iptv/play/12875177589ce7d61e7aa6
 #EXTINF:-1 group-title="Germany VAVOO",RAKUTEN COMEDY MOVIES
 https://vavoo.to/vavoo-iptv/play/1133586429804a9733ad62
 #EXTINF:-1 group-title="Germany VAVOO",RAKUTEN COMEDY MOVIES (2)
@@ -8440,6 +8444,8 @@ https://vavoo.to/vavoo-iptv/play/160203873fc8ecba6377a
 #EXTINF:-1 group-title="Germany VAVOO",RTL+
 https://vavoo.to/vavoo-iptv/play/1872602400f3dc851cb9be
 #EXTINF:-1 group-title="Germany VAVOO",RTL+ SPORT EVENT 1
+https://vavoo.to/vavoo-iptv/play/1853551406e4d58cd366f9
+#EXTINF:-1 group-title="Germany VAVOO",RTL+ SPORT EVENT 1 (2)
 https://vavoo.to/vavoo-iptv/play/1162290744806086b642e4
 #EXTINF:-1 group-title="Germany VAVOO",RTL+ SPORT EVENT 2
 https://vavoo.to/vavoo-iptv/play/702188030d3d5a2294bd5
@@ -8475,6 +8481,8 @@ https://vavoo.to/vavoo-iptv/play/25250796346ef8022526f6
 https://vavoo.to/vavoo-iptv/play/4242909772b8374c84bf5a
 #EXTINF:-1 group-title="Germany VAVOO",S. SPORT 10 HD
 https://vavoo.to/vavoo-iptv/play/265983091989ca76c7602c
+#EXTINF:-1 group-title="Germany VAVOO",S. SPORT 11 FHD
+https://vavoo.to/vavoo-iptv/play/3953049103f74277c6ee88
 #EXTINF:-1 group-title="Germany VAVOO",S. SPORT 11 HD
 https://vavoo.to/vavoo-iptv/play/1378077721a926ab11da69
 #EXTINF:-1 group-title="Germany VAVOO",S. SPORT 2 FHD
@@ -8631,8 +8639,6 @@ https://vavoo.to/vavoo-iptv/play/350456154001728f296c1e
 https://vavoo.to/vavoo-iptv/play/2798401146ec7e7d28c11f
 #EXTINF:-1 group-title="Germany VAVOO",SKY BEST OF
 https://vavoo.to/vavoo-iptv/play/1102498392168d5b317769
-#EXTINF:-1 group-title="Germany VAVOO",SKY BEST OF HD
-https://vavoo.to/vavoo-iptv/play/2022058191705953efe5bd
 #EXTINF:-1 group-title="Germany VAVOO",SKY BEST OF HD+
 https://vavoo.to/vavoo-iptv/play/3097180080328964f2e0fb
 #EXTINF:-1 group-title="Germany VAVOO",SKY BOX ABENTEUER HD
@@ -8789,6 +8795,10 @@ https://vavoo.to/vavoo-iptv/play/3251224651e0552e67f539
 https://vavoo.to/vavoo-iptv/play/227712345007279b49b40c
 #EXTINF:-1 group-title="Germany VAVOO",SKY CINEMA BEST OF
 https://vavoo.to/vavoo-iptv/play/1506084946f625257b4975
+#EXTINF:-1 group-title="Germany VAVOO",SKY CINEMA BEST OF (2)
+https://vavoo.to/vavoo-iptv/play/7675679855208c3fbe478
+#EXTINF:-1 group-title="Germany VAVOO",SKY CINEMA BEST OF HD
+https://vavoo.to/vavoo-iptv/play/4183661289bea5151c6e22
 #EXTINF:-1 group-title="Germany VAVOO",SKY CINEMA CLASSICS
 https://vavoo.to/vavoo-iptv/play/6244253771d6ad515707
 #EXTINF:-1 group-title="Germany VAVOO",SKY CINEMA CLASSICS (2)
@@ -8797,6 +8807,8 @@ https://vavoo.to/vavoo-iptv/play/311131418932a320ad54c1
 https://vavoo.to/vavoo-iptv/play/1859918457bef7381e0c2
 #EXTINF:-1 group-title="Germany VAVOO",SKY CINEMA CLASSICS HD+
 https://vavoo.to/vavoo-iptv/play/361705436f8af716c9648
+#EXTINF:-1 group-title="Germany VAVOO",SKY CINEMA COMEDY
+https://vavoo.to/vavoo-iptv/play/26671525315195c5a5dd65
 #EXTINF:-1 group-title="Germany VAVOO",SKY CINEMA CRIME
 https://vavoo.to/vavoo-iptv/play/40564741164a7036747d07
 #EXTINF:-1 group-title="Germany VAVOO",SKY CINEMA DOCUMENTARIES
@@ -8959,6 +8971,8 @@ https://vavoo.to/vavoo-iptv/play/25255702186af6f4b9582d
 https://vavoo.to/vavoo-iptv/play/156477236f3261ff656e8
 #EXTINF:-1 group-title="Germany VAVOO",SKY SELECT 14 4K (MULTIAUDIO)
 https://vavoo.to/vavoo-iptv/play/162241777288e90e0d72f5
+#EXTINF:-1 group-title="Germany VAVOO",SKY SELECT 15 4K (MULTIAUDIO)
+https://vavoo.to/vavoo-iptv/play/42854407540cf66317a169
 #EXTINF:-1 group-title="Germany VAVOO",SKY SELECT 2
 https://vavoo.to/vavoo-iptv/play/27605306014cc7514d1374
 #EXTINF:-1 group-title="Germany VAVOO",SKY SELECT 2 (2)
@@ -9019,8 +9033,6 @@ https://vavoo.to/vavoo-iptv/play/57596824bed0318e8a23
 https://vavoo.to/vavoo-iptv/play/354591839248dcf0b26fb4
 #EXTINF:-1 group-title="Germany VAVOO",SKY SELECT 9 (2)
 https://vavoo.to/vavoo-iptv/play/264189077668e73a9a678c
-#EXTINF:-1 group-title="Germany VAVOO",SKY SELECT 9 (3)
-https://vavoo.to/vavoo-iptv/play/158808491763e466f9301c
 #EXTINF:-1 group-title="Germany VAVOO",SKY SELECT 9 HD
 https://vavoo.to/vavoo-iptv/play/348578483863765d23a6c5
 #EXTINF:-1 group-title="Germany VAVOO",SKY SELECT PREMIERE 10
@@ -9093,6 +9105,8 @@ https://vavoo.to/vavoo-iptv/play/23935553783dd55ce2c3ee
 https://vavoo.to/vavoo-iptv/play/2353380835657a79821d9a
 #EXTINF:-1 group-title="Germany VAVOO",SKY SPORT 6 (MATCH TIME)
 https://vavoo.to/vavoo-iptv/play/1680612560cb9822726c44
+#EXTINF:-1 group-title="Germany VAVOO",SKY SPORT 6 HD
+https://vavoo.to/vavoo-iptv/play/463237157314e6d840607
 #EXTINF:-1 group-title="Germany VAVOO",SKY SPORT 7
 https://vavoo.to/vavoo-iptv/play/2972030035baf7f7dca0a2
 #EXTINF:-1 group-title="Germany VAVOO",SKY SPORT 7 (MATCH TIME)
@@ -9193,6 +9207,8 @@ https://vavoo.to/vavoo-iptv/play/103956517836f88a504fdb
 https://vavoo.to/vavoo-iptv/play/124070332167e0de43e602
 #EXTINF:-1 group-title="Germany VAVOO",SPIEGEL TV WISSEN
 https://vavoo.to/vavoo-iptv/play/3130593243618d9bc8c37
+#EXTINF:-1 group-title="Germany VAVOO",SPIEGEL TV WISSEN (2)
+https://vavoo.to/vavoo-iptv/play/124166966600b8cdf1a255
 #EXTINF:-1 group-title="Germany VAVOO",SPIEGEL WISSEN
 https://vavoo.to/vavoo-iptv/play/3947804295e226cf27afee
 #EXTINF:-1 group-title="Germany VAVOO",SPONGEBOB HD
@@ -9217,6 +9233,8 @@ https://vavoo.to/vavoo-iptv/play/4116446750bfa9903528f9
 https://vavoo.to/vavoo-iptv/play/252613159528b462362d33
 #EXTINF:-1 group-title="Germany VAVOO",SPORT1+
 https://vavoo.to/vavoo-iptv/play/6635090684eca4561a362
+#EXTINF:-1 group-title="Germany VAVOO",SPORT1+ FHD
+https://vavoo.to/vavoo-iptv/play/37840743674da4fdf90e14
 #EXTINF:-1 group-title="Germany VAVOO",SPORT1+ HD
 https://vavoo.to/vavoo-iptv/play/1079483287c439c0c0a982
 #EXTINF:-1 group-title="Germany VAVOO",SPORTDIGITAL FUSSBALL
@@ -9231,8 +9249,6 @@ https://vavoo.to/vavoo-iptv/play/2405098471ee66ddce646a
 https://vavoo.to/vavoo-iptv/play/4117685823a3edf91dd024
 #EXTINF:-1 group-title="Germany VAVOO",STERN FILME 1
 https://vavoo.to/vavoo-iptv/play/3288066978d8a474a11a70
-#EXTINF:-1 group-title="Germany VAVOO",STERN FILME 10
-https://vavoo.to/vavoo-iptv/play/3592253767e65008a1f620
 #EXTINF:-1 group-title="Germany VAVOO",STERN FILME 2
 https://vavoo.to/vavoo-iptv/play/222059352247cc37bb6031
 #EXTINF:-1 group-title="Germany VAVOO",STERN FILME 3
@@ -9241,6 +9257,10 @@ https://vavoo.to/vavoo-iptv/play/3107698882a13cc55c0d9b
 https://vavoo.to/vavoo-iptv/play/1863446587475cd73595e
 #EXTINF:-1 group-title="Germany VAVOO",STERN FILME 5
 https://vavoo.to/vavoo-iptv/play/9140504025fb41381d136
+#EXTINF:-1 group-title="Germany VAVOO",STERN FILME 6
+https://vavoo.to/vavoo-iptv/play/19101920502be635bf6a0f
+#EXTINF:-1 group-title="Germany VAVOO",STERN FILME 7
+https://vavoo.to/vavoo-iptv/play/1287331330d5e2b15f5157
 #EXTINF:-1 group-title="Germany VAVOO",STERN FILME 8
 https://vavoo.to/vavoo-iptv/play/34715427397436fd5f172b
 #EXTINF:-1 group-title="Germany VAVOO",STERN FILME 9
@@ -9563,9 +9583,9 @@ https://vavoo.to/vavoo-iptv/play/430570853d0b7479b224d
 https://vavoo.to/vavoo-iptv/play/3267376899f976b1a231c0
 #EXTINF:-1 group-title="Italy VAVOO",AVENGERS GRIMM CHANNEL
 https://vavoo.to/vavoo-iptv/play/1506307932300e27c2fd43
-#EXTINF:-1 group-title="Italy VAVOO",BABY TV (8)
+#EXTINF:-1 group-title="Italy VAVOO",BABY TV (10)
 https://vavoo.to/vavoo-iptv/play/39385011257cd02ab803dc
-#EXTINF:-1 group-title="Italy VAVOO",BABY TV (9)
+#EXTINF:-1 group-title="Italy VAVOO",BABY TV (11)
 https://vavoo.to/vavoo-iptv/play/226572794257a18add58e4
 #EXTINF:-1 group-title="Italy VAVOO",BELLA RADIO TV
 https://vavoo.to/vavoo-iptv/play/15850058604ed339a2ed20
@@ -9592,6 +9612,8 @@ https://vavoo.to/vavoo-iptv/play/3639213638a7c6a2cc326e
 #EXTINF:-1 group-title="Italy VAVOO",CAFE 24
 https://vavoo.to/vavoo-iptv/play/1625923783d5a6dda233b3
 #EXTINF:-1 group-title="Italy VAVOO",CAMERA DEI DEPUTATI
+https://vavoo.to/vavoo-iptv/play/4253692893cca91a1bbfde
+#EXTINF:-1 group-title="Italy VAVOO",CAMERA DEI DEPUTATI (2)
 https://vavoo.to/vavoo-iptv/play/4253692893cca91a1bbfde
 #EXTINF:-1 group-title="Italy VAVOO",CANALE 2
 https://vavoo.to/vavoo-iptv/play/3914444703fd1a0c69d728
@@ -9629,6 +9651,8 @@ https://vavoo.to/vavoo-iptv/play/27199536882db77bf0ce4c
 https://vavoo.to/vavoo-iptv/play/3743894403dc7e6005c138
 #EXTINF:-1 group-title="Italy VAVOO",CINE 34
 https://vavoo.to/vavoo-iptv/play/625586063b81b5ccae3f
+#EXTINF:-1 group-title="Italy VAVOO",CINE 34 MEDIASET
+https://vavoo.to/vavoo-iptv/play/17686701870faa9fea0a38
 #EXTINF:-1 group-title="Italy VAVOO",CLASSICA
 https://vavoo.to/vavoo-iptv/play/640609226bada55274ff
 #EXTINF:-1 group-title="Italy VAVOO",COMEDY CENTRAL (6)
@@ -9649,12 +9673,12 @@ https://vavoo.to/vavoo-iptv/play/30052277008e849440ee94
 https://vavoo.to/vavoo-iptv/play/315609263941db18c5ca85
 #EXTINF:-1 group-title="Italy VAVOO",DAZN
 https://vavoo.to/vavoo-iptv/play/2745635299ab0cc043a143
-#EXTINF:-1 group-title="Italy VAVOO",DAZN 1 (4)
+#EXTINF:-1 group-title="Italy VAVOO",DAZN 1 (3)
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
+#EXTINF:-1 group-title="Italy VAVOO",DAZN 2 (3)
+https://vavoo.to/vavoo-iptv/play/3635062218e0132c616db
 #EXTINF:-1 group-title="Italy VAVOO",DEEJAY TV
 https://vavoo.to/vavoo-iptv/play/963607327f90ada131395
-#EXTINF:-1 group-title="Italy VAVOO",DEEJAY TV (2)
-https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319
 #EXTINF:-1 group-title="Italy VAVOO",DISCOVERY CHANNEL (8)
 https://vavoo.to/vavoo-iptv/play/1955739367e1de6e90adc1
 #EXTINF:-1 group-title="Italy VAVOO",DISCOVERY CHANNEL (9)
@@ -9697,9 +9721,9 @@ https://vavoo.to/vavoo-iptv/play/49095557997f00b59c5b8
 https://vavoo.to/vavoo-iptv/play/34813468571b25fb16646d
 #EXTINF:-1 group-title="Italy VAVOO",EUROSPORT 1 (12)
 https://vavoo.to/vavoo-iptv/play/34480753177564a146da63
-#EXTINF:-1 group-title="Italy VAVOO",EUROSPORT 2 (10)
-https://vavoo.to/vavoo-iptv/play/2283887097a4248311ff27
 #EXTINF:-1 group-title="Italy VAVOO",EUROSPORT 2 (11)
+https://vavoo.to/vavoo-iptv/play/2283887097a4248311ff27
+#EXTINF:-1 group-title="Italy VAVOO",EUROSPORT 2 (12)
 https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
 #EXTINF:-1 group-title="Italy VAVOO",FANO TV
 https://vavoo.to/vavoo-iptv/play/1798700028a88b50c2df9d
@@ -9719,7 +9743,7 @@ https://vavoo.to/vavoo-iptv/play/29825504332b9997336c1e
 https://vavoo.to/vavoo-iptv/play/2820683351b557bc63df61
 #EXTINF:-1 group-title="Italy VAVOO",FOOD NETWORK (5)
 https://vavoo.to/vavoo-iptv/play/276786104991c55564696b
-#EXTINF:-1 group-title="Italy VAVOO",FOX (7)
+#EXTINF:-1 group-title="Italy VAVOO",FOX (8)
 https://vavoo.to/vavoo-iptv/play/56316060941df205a0842
 #EXTINF:-1 group-title="Italy VAVOO",FRANCE 24 (EN)
 https://vavoo.to/vavoo-iptv/play/217968682876c9a8051121
@@ -9839,8 +9863,6 @@ https://vavoo.to/vavoo-iptv/play/3428501495a9ec2ff7bc8e
 https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2
 #EXTINF:-1 group-title="Italy VAVOO",NICK JR (7)
 https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065
-#EXTINF:-1 group-title="Italy VAVOO",NICKELODEON (13)
-https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c
 #EXTINF:-1 group-title="Italy VAVOO",OL3 RADIO
 https://vavoo.to/vavoo-iptv/play/681027341f93934e0bc5
 #EXTINF:-1 group-title="Italy VAVOO",ONDA NOVARA TV
@@ -9925,8 +9947,6 @@ https://vavoo.to/vavoo-iptv/play/22729239721838600694f7
 https://vavoo.to/vavoo-iptv/play/2239645272d37ede79369f
 #EXTINF:-1 group-title="Italy VAVOO",RAI PREMIUM
 https://vavoo.to/vavoo-iptv/play/28617343009ba70ce123ce
-#EXTINF:-1 group-title="Italy VAVOO",RAI PREMIUM (2)
-https://vavoo.to/vavoo-iptv/play/282845555296ba7681a581
 #EXTINF:-1 group-title="Italy VAVOO",RAI SCUOLA
 https://vavoo.to/vavoo-iptv/play/20077985117d0ff1cfe128
 #EXTINF:-1 group-title="Italy VAVOO",RAI SCUOLA (2)
@@ -9945,7 +9965,7 @@ https://vavoo.to/vavoo-iptv/play/57338653b83f61385a9f
 https://vavoo.to/vavoo-iptv/play/178550192490bfbe154312
 #EXTINF:-1 group-title="Italy VAVOO",RAI YOYO (2)
 https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
-#EXTINF:-1 group-title="Italy VAVOO",RAKUTEN ACTION MOVIES (2)
+#EXTINF:-1 group-title="Italy VAVOO",RAKUTEN ACTION MOVIES
 https://vavoo.to/vavoo-iptv/play/30648111922089ed4a29cc
 #EXTINF:-1 group-title="Italy VAVOO",RAKUTEN COMEDY MOVIES (3)
 https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6
@@ -9953,8 +9973,6 @@ https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6
 https://vavoo.to/vavoo-iptv/play/209862439074120bb15132
 #EXTINF:-1 group-title="Italy VAVOO",RAKUTEN FAMILY
 https://vavoo.to/vavoo-iptv/play/3902650955a82543dc27a4
-#EXTINF:-1 group-title="Italy VAVOO",RAKUTEN TOP FREE (2)
-https://vavoo.to/vavoo-iptv/play/1572866962efea4ca22353
 #EXTINF:-1 group-title="Italy VAVOO",RAKUTEN TV SHOWS (3)
 https://vavoo.to/vavoo-iptv/play/860912269147f85ae7a8
 #EXTINF:-1 group-title="Italy VAVOO",RDS SOCIAL
@@ -10016,8 +10034,6 @@ https://vavoo.to/vavoo-iptv/play/2002360508ebbced695f3c
 #EXTINF:-1 group-title="Italy VAVOO",SENATO TV (2)
 https://vavoo.to/vavoo-iptv/play/28955495519a6e882c3db3
 #EXTINF:-1 group-title="Italy VAVOO",SKY ARTE
-https://vavoo.to/vavoo-iptv/play/18068154966d18d1d58a9c
-#EXTINF:-1 group-title="Italy VAVOO",SKY ARTE (2)
 https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0
 #EXTINF:-1 group-title="Italy VAVOO",SKY ATLANTIC (3)
 https://vavoo.to/vavoo-iptv/play/1421393119c33a45327918
@@ -10031,9 +10047,9 @@ https://vavoo.to/vavoo-iptv/play/11441287266db50fc09b62
 https://vavoo.to/vavoo-iptv/play/2242741766a460e21385e6
 #EXTINF:-1 group-title="Italy VAVOO",SKY CINEMA COLLECTION
 https://vavoo.to/vavoo-iptv/play/352583705711c4cbe44bbb
-#EXTINF:-1 group-title="Italy VAVOO",SKY CINEMA COMEDY
-https://vavoo.to/vavoo-iptv/play/500203271d58941028e95
 #EXTINF:-1 group-title="Italy VAVOO",SKY CINEMA COMEDY (2)
+https://vavoo.to/vavoo-iptv/play/500203271d58941028e95
+#EXTINF:-1 group-title="Italy VAVOO",SKY CINEMA COMEDY (3)
 https://vavoo.to/vavoo-iptv/play/3131104474771735b548ce
 #EXTINF:-1 group-title="Italy VAVOO",SKY CINEMA DRAMA
 https://vavoo.to/vavoo-iptv/play/123553017707540030adf9
@@ -10117,8 +10133,6 @@ https://vavoo.to/vavoo-iptv/play/14407790614bc8041c450d
 https://vavoo.to/vavoo-iptv/play/113411388318bf0ef81722
 #EXTINF:-1 group-title="Italy VAVOO",SKY PRIMAFILA 9 (2)
 https://vavoo.to/vavoo-iptv/play/17532606771304e2497369
-#EXTINF:-1 group-title="Italy VAVOO",SKY SERIE
-https://vavoo.to/vavoo-iptv/play/83668011205f936fa3b65
 #EXTINF:-1 group-title="Italy VAVOO",SKY SPORT
 https://vavoo.to/vavoo-iptv/play/92466165981ba6f81de20
 #EXTINF:-1 group-title="Italy VAVOO",SKY SPORT 24
@@ -10375,9 +10389,9 @@ https://vavoo.to/vavoo-iptv/play/75666354b9d22aafaee4
 https://vavoo.to/vavoo-iptv/play/2629204497e948213e946f
 #EXTINF:-1 group-title="Netherlands VAVOO",AT 5 (2)
 https://vavoo.to/vavoo-iptv/play/26077053499acb23932674
-#EXTINF:-1 group-title="Netherlands VAVOO",BABY TV (10)
+#EXTINF:-1 group-title="Netherlands VAVOO",BABY TV (12)
 https://vavoo.to/vavoo-iptv/play/372305415519fd80e1e9ac
-#EXTINF:-1 group-title="Netherlands VAVOO",BABY TV (11)
+#EXTINF:-1 group-title="Netherlands VAVOO",BABY TV (13)
 https://vavoo.to/vavoo-iptv/play/18658430417004ddb83126
 #EXTINF:-1 group-title="Netherlands VAVOO",BBC FIRST
 https://vavoo.to/vavoo-iptv/play/2742031882b5f68aa18b43
@@ -10399,7 +10413,7 @@ https://vavoo.to/vavoo-iptv/play/1019029636c4cb113f2b90
 https://vavoo.to/vavoo-iptv/play/12697652910de2b73b42de
 #EXTINF:-1 group-title="Netherlands VAVOO",COMEDY CENTRAL (9)
 https://vavoo.to/vavoo-iptv/play/106811917638e7918c0ef2
-#EXTINF:-1 group-title="Netherlands VAVOO",COMEDY CENTRAL EXTRA
+#EXTINF:-1 group-title="Netherlands VAVOO",COMEDY CENTRAL EXTRA (2)
 https://vavoo.to/vavoo-iptv/play/1396002728b6ed18b5ced9
 #EXTINF:-1 group-title="Netherlands VAVOO",CRIME &AMP; INVESTIGATION
 https://vavoo.to/vavoo-iptv/play/71965059269734392d25e
@@ -10425,7 +10439,7 @@ https://vavoo.to/vavoo-iptv/play/226214567e0c20bf9460f
 https://vavoo.to/vavoo-iptv/play/3081891203b2a412451903
 #EXTINF:-1 group-title="Netherlands VAVOO",DISNEY CHANNEL (6)
 https://vavoo.to/vavoo-iptv/play/4053879c83ceebeba71
-#EXTINF:-1 group-title="Netherlands VAVOO",DISNEY XD (5)
+#EXTINF:-1 group-title="Netherlands VAVOO",DISNEY XD (4)
 https://vavoo.to/vavoo-iptv/play/203464866df8cbe71f2ef
 #EXTINF:-1 group-title="Netherlands VAVOO",DJAZZ TV
 https://vavoo.to/vavoo-iptv/play/2897120181ffa02aa19db9
@@ -10457,9 +10471,9 @@ https://vavoo.to/vavoo-iptv/play/2612133641799e0cfabbe1
 https://vavoo.to/vavoo-iptv/play/2736390217a51a481f7928
 #EXTINF:-1 group-title="Netherlands VAVOO",EUROSPORT 1 (14)
 https://vavoo.to/vavoo-iptv/play/7409755629f24f861c07
-#EXTINF:-1 group-title="Netherlands VAVOO",EUROSPORT 2 (12)
-https://vavoo.to/vavoo-iptv/play/3837426329b026bc903bb9
 #EXTINF:-1 group-title="Netherlands VAVOO",EUROSPORT 2 (13)
+https://vavoo.to/vavoo-iptv/play/3837426329b026bc903bb9
+#EXTINF:-1 group-title="Netherlands VAVOO",EUROSPORT 2 (14)
 https://vavoo.to/vavoo-iptv/play/1137367364fad4e2b3f541
 #EXTINF:-1 group-title="Netherlands VAVOO",EX SPORT
 https://vavoo.to/vavoo-iptv/play/330363772e2aa8d29983f
@@ -10569,9 +10583,9 @@ https://vavoo.to/vavoo-iptv/play/1068616594d85179f2d82c
 https://vavoo.to/vavoo-iptv/play/1137374425292f5baac48f
 #EXTINF:-1 group-title="Netherlands VAVOO",NICK TOONS
 https://vavoo.to/vavoo-iptv/play/1934195856d6c93cc1c31c
-#EXTINF:-1 group-title="Netherlands VAVOO",NICKELODEON (14)
+#EXTINF:-1 group-title="Netherlands VAVOO",NICKELODEON (13)
 https://vavoo.to/vavoo-iptv/play/3652339071642e807eae44
-#EXTINF:-1 group-title="Netherlands VAVOO",NICKELODEON (15)
+#EXTINF:-1 group-title="Netherlands VAVOO",NICKELODEON (14)
 https://vavoo.to/vavoo-iptv/play/2126702242e85cd0a7e98b
 #EXTINF:-1 group-title="Netherlands VAVOO",NICKMUSIC
 https://vavoo.to/vavoo-iptv/play/51827074682ca51c3e261
@@ -10665,6 +10679,8 @@ https://vavoo.to/vavoo-iptv/play/3800386636e8d97372c408
 https://vavoo.to/vavoo-iptv/play/41573962734ad89e4e67b5
 #EXTINF:-1 group-title="Netherlands VAVOO",RADIO 350
 https://vavoo.to/vavoo-iptv/play/2566467401e114c0c4a767
+#EXTINF:-1 group-title="Netherlands VAVOO",RAKUTEN ACTION
+https://vavoo.to/vavoo-iptv/play/895549735ba15b8335b19
 #EXTINF:-1 group-title="Netherlands VAVOO",RAKUTEN COMEDY
 https://vavoo.to/vavoo-iptv/play/3421755691a47118599e51
 #EXTINF:-1 group-title="Netherlands VAVOO",RAKUTEN DRAMA (2)
@@ -10799,11 +10815,7 @@ https://vavoo.to/vavoo-iptv/play/356507834301d1ab7375d1
 https://vavoo.to/vavoo-iptv/play/1986630047bf198c9dc12a
 #EXTINF:-1 group-title="Netherlands VAVOO",TV NOORD
 https://vavoo.to/vavoo-iptv/play/2371823015ab259ca56c0f
-#EXTINF:-1 group-title="Netherlands VAVOO",TV OOST
-https://vavoo.to/vavoo-iptv/play/2359432712ae460ce5c893
 #EXTINF:-1 group-title="Netherlands VAVOO",TV ORANJE
-https://vavoo.to/vavoo-iptv/play/2864186713ca39c180d1c7
-#EXTINF:-1 group-title="Netherlands VAVOO",TV ORANJE (2)
 https://vavoo.to/vavoo-iptv/play/21748499270ece6ecd9d72
 #EXTINF:-1 group-title="Netherlands VAVOO",TV RIJNMOND
 https://vavoo.to/vavoo-iptv/play/3269277667a2a53ca62166
@@ -10933,7 +10945,7 @@ https://vavoo.to/vavoo-iptv/play/3410155067024b69a40261
 https://vavoo.to/vavoo-iptv/play/1134500053abda82773dc4
 #EXTINF:-1 group-title="Poland VAVOO",AXN WHITE (3)
 https://vavoo.to/vavoo-iptv/play/3422335766cfd7fc036788
-#EXTINF:-1 group-title="Poland VAVOO",BABY TV (12)
+#EXTINF:-1 group-title="Poland VAVOO",BABY TV (14)
 https://vavoo.to/vavoo-iptv/play/3503957951297a67bc2d2b
 #EXTINF:-1 group-title="Poland VAVOO",BBC BRIT POLSKA
 https://vavoo.to/vavoo-iptv/play/3946902235d104900eddd2
@@ -10975,8 +10987,6 @@ https://vavoo.to/vavoo-iptv/play/1312693742a90242d11bd8
 https://vavoo.to/vavoo-iptv/play/28755174678071a266e452
 #EXTINF:-1 group-title="Poland VAVOO",CANAL SPORT 3 HD
 https://vavoo.to/vavoo-iptv/play/2190744944c44386bd9970
-#EXTINF:-1 group-title="Poland VAVOO",CANAL SPORT 4 HD
-https://vavoo.to/vavoo-iptv/play/228701501707a1dcab71f0
 #EXTINF:-1 group-title="Poland VAVOO",CANAL SPORT HD (2)
 https://vavoo.to/vavoo-iptv/play/32731295506966c906670
 #EXTINF:-1 group-title="Poland VAVOO",CANAL+ 1
@@ -11010,8 +11020,6 @@ https://vavoo.to/vavoo-iptv/play/3293241225da191d1bbed6
 #EXTINF:-1 group-title="Poland VAVOO",CANAL+ SPORT 3 (3)
 https://vavoo.to/vavoo-iptv/play/32836231570e5d35807626
 #EXTINF:-1 group-title="Poland VAVOO",CANAL+ SPORT 4 (2)
-https://vavoo.to/vavoo-iptv/play/198665922526f9ffb85846
-#EXTINF:-1 group-title="Poland VAVOO",CANAL+ SPORT 4 (3)
 https://vavoo.to/vavoo-iptv/play/1905836261d2b61c2c0344
 #EXTINF:-1 group-title="Poland VAVOO",CANAL+ SPORT 5 (2)
 https://vavoo.to/vavoo-iptv/play/12913810774728b29d2318
@@ -11037,7 +11045,7 @@ https://vavoo.to/vavoo-iptv/play/99585822068dd70bac2d1
 https://vavoo.to/vavoo-iptv/play/3387518871669552282ad3
 #EXTINF:-1 group-title="Poland VAVOO",CINEMAX 2 (6)
 https://vavoo.to/vavoo-iptv/play/9328638207fb73431e602
-#EXTINF:-1 group-title="Poland VAVOO",CINEMAX 2 HD (2)
+#EXTINF:-1 group-title="Poland VAVOO",CINEMAX 2 HD
 https://vavoo.to/vavoo-iptv/play/1474710776d5ae9c9a87a9
 #EXTINF:-1 group-title="Poland VAVOO",CINEMAX HD
 https://vavoo.to/vavoo-iptv/play/21367213512b32691c0603
@@ -11083,7 +11091,7 @@ https://vavoo.to/vavoo-iptv/play/11881191410e437bd7d0e5
 https://vavoo.to/vavoo-iptv/play/1370117670277075ee597b
 #EXTINF:-1 group-title="Poland VAVOO",COMEDY CENTRAL (10)
 https://vavoo.to/vavoo-iptv/play/290710718795ffd8a2d81c
-#EXTINF:-1 group-title="Poland VAVOO",COMEDY CENTRAL EXTRA (2)
+#EXTINF:-1 group-title="Poland VAVOO",COMEDY CENTRAL EXTRA (3)
 https://vavoo.to/vavoo-iptv/play/17077565390a60054185b0
 #EXTINF:-1 group-title="Poland VAVOO",CRIME+ INVESTIGATION (5)
 https://vavoo.to/vavoo-iptv/play/3453122284b5b78edef66a
@@ -11117,7 +11125,7 @@ https://vavoo.to/vavoo-iptv/play/2241163706490bbe44a441
 https://vavoo.to/vavoo-iptv/play/426632608169dd5767fa2a
 #EXTINF:-1 group-title="Poland VAVOO",DISNEY JUNIOR (5)
 https://vavoo.to/vavoo-iptv/play/3236761715034e1a632c55
-#EXTINF:-1 group-title="Poland VAVOO",DISNEY XD (6)
+#EXTINF:-1 group-title="Poland VAVOO",DISNEY XD (5)
 https://vavoo.to/vavoo-iptv/play/99224805b721f6193439
 #EXTINF:-1 group-title="Poland VAVOO",DOMO HD
 https://vavoo.to/vavoo-iptv/play/417402640070f6624b1cd0
@@ -11179,9 +11187,9 @@ https://vavoo.to/vavoo-iptv/play/386098181d28e2cff9a9a
 https://vavoo.to/vavoo-iptv/play/168235749396a39632fee1
 #EXTINF:-1 group-title="Poland VAVOO",EUROSPORT 1 HD (2)
 https://vavoo.to/vavoo-iptv/play/2540520222e7affe08797e
-#EXTINF:-1 group-title="Poland VAVOO",EUROSPORT 2 (14)
-https://vavoo.to/vavoo-iptv/play/13528675415cc9406c27bb
 #EXTINF:-1 group-title="Poland VAVOO",EUROSPORT 2 (15)
+https://vavoo.to/vavoo-iptv/play/13528675415cc9406c27bb
+#EXTINF:-1 group-title="Poland VAVOO",EUROSPORT 2 (16)
 https://vavoo.to/vavoo-iptv/play/60232656519a6d3d9c7fa
 #EXTINF:-1 group-title="Poland VAVOO",EUROSPORT 2 HD (3)
 https://vavoo.to/vavoo-iptv/play/43425919751c71a9af03f
@@ -11211,7 +11219,7 @@ https://vavoo.to/vavoo-iptv/play/266939324098d8e7e6187b
 https://vavoo.to/vavoo-iptv/play/6699374637828e16c96a9
 #EXTINF:-1 group-title="Poland VAVOO",FOOD NETWORK HD (2)
 https://vavoo.to/vavoo-iptv/play/1662398623ee4d79e28474
-#EXTINF:-1 group-title="Poland VAVOO",FOX (8)
+#EXTINF:-1 group-title="Poland VAVOO",FOX (9)
 https://vavoo.to/vavoo-iptv/play/30850533850c278affd369
 #EXTINF:-1 group-title="Poland VAVOO",FOX COMEDY
 https://vavoo.to/vavoo-iptv/play/13059441810bee272c9f0f
@@ -11225,11 +11233,11 @@ https://vavoo.to/vavoo-iptv/play/418473836019c8fbae89f8
 https://vavoo.to/vavoo-iptv/play/125998517770fcdff49895
 #EXTINF:-1 group-title="Poland VAVOO",FX COMEDY
 https://vavoo.to/vavoo-iptv/play/29592973784f7a270ec770
-#EXTINF:-1 group-title="Poland VAVOO",GOLF CHANNEL (2)
-https://vavoo.to/vavoo-iptv/play/3543553982813e3d970995
 #EXTINF:-1 group-title="Poland VAVOO",GOLF CHANNEL (3)
+https://vavoo.to/vavoo-iptv/play/3543553982813e3d970995
+#EXTINF:-1 group-title="Poland VAVOO",GOLF CHANNEL (4)
 https://vavoo.to/vavoo-iptv/play/620126264e986384130f3
-#EXTINF:-1 group-title="Poland VAVOO",GOLF CHANNEL HD
+#EXTINF:-1 group-title="Poland VAVOO",GOLF CHANNEL HD (2)
 https://vavoo.to/vavoo-iptv/play/42403725368f0db7809574
 #EXTINF:-1 group-title="Poland VAVOO",HBO (7)
 https://vavoo.to/vavoo-iptv/play/64410831d3b027212408
@@ -11315,7 +11323,7 @@ https://vavoo.to/vavoo-iptv/play/45221710708d4df328717
 https://vavoo.to/vavoo-iptv/play/3673566291cd6e56c3203f
 #EXTINF:-1 group-title="Poland VAVOO",NICK JUNIOR (4)
 https://vavoo.to/vavoo-iptv/play/4176312110131628bf0859
-#EXTINF:-1 group-title="Poland VAVOO",NICKELODEON (16)
+#EXTINF:-1 group-title="Poland VAVOO",NICKELODEON (15)
 https://vavoo.to/vavoo-iptv/play/5189779876700e71d303b
 #EXTINF:-1 group-title="Poland VAVOO",NICKTOONS (6)
 https://vavoo.to/vavoo-iptv/play/2228696585a18253885990
@@ -11407,9 +11415,13 @@ https://vavoo.to/vavoo-iptv/play/424250877614f7e61dce6e
 https://vavoo.to/vavoo-iptv/play/275913426219965b3384e3
 #EXTINF:-1 group-title="Poland VAVOO",POLSAT SPORT EXTRA HD
 https://vavoo.to/vavoo-iptv/play/1624535514494e8fdc9dac
+#EXTINF:-1 group-title="Poland VAVOO",POLSAT SPORT EXTRA HD (2)
+https://vavoo.to/vavoo-iptv/play/1624535514494e8fdc9dac
 #EXTINF:-1 group-title="Poland VAVOO",POLSAT SPORT FIGHT
 https://vavoo.to/vavoo-iptv/play/6915506606cf8334903dc
 #EXTINF:-1 group-title="Poland VAVOO",POLSAT SPORT FIGHT (2)
+https://vavoo.to/vavoo-iptv/play/6915506606cf8334903dc
+#EXTINF:-1 group-title="Poland VAVOO",POLSAT SPORT FIGHT (3)
 https://vavoo.to/vavoo-iptv/play/19054423307fa805289877
 #EXTINF:-1 group-title="Poland VAVOO",POLSAT SPORT FIGHT HD
 https://vavoo.to/vavoo-iptv/play/31057810987fdba915adc4
@@ -11417,10 +11429,6 @@ https://vavoo.to/vavoo-iptv/play/31057810987fdba915adc4
 https://vavoo.to/vavoo-iptv/play/23614419587e9457dfe9
 #EXTINF:-1 group-title="Poland VAVOO",POLSAT SPORT HD (BACKUP)
 https://vavoo.to/vavoo-iptv/play/4127619445cf4df25ec846
-#EXTINF:-1 group-title="Poland VAVOO",POLSAT SPORT NEWS
-https://vavoo.to/vavoo-iptv/play/235062438617d6222bd232
-#EXTINF:-1 group-title="Poland VAVOO",POLSAT SPORT NEWS (2)
-https://vavoo.to/vavoo-iptv/play/2683658971229bc3a4e70e
 #EXTINF:-1 group-title="Poland VAVOO",POLSAT SPORT NEWS HD
 https://vavoo.to/vavoo-iptv/play/136622312292cbed22c257
 #EXTINF:-1 group-title="Poland VAVOO",POLSAT SPORT PREMIUM 1
@@ -11543,8 +11551,6 @@ https://vavoo.to/vavoo-iptv/play/19060152115da3d5f96da6
 https://vavoo.to/vavoo-iptv/play/2802119077fa9571eea3f2
 #EXTINF:-1 group-title="Poland VAVOO",TV PULS HD
 https://vavoo.to/vavoo-iptv/play/177509555810ac86df88df
-#EXTINF:-1 group-title="Poland VAVOO",TV REGIONALNA
-https://vavoo.to/vavoo-iptv/play/340978306153eeff67830a
 #EXTINF:-1 group-title="Poland VAVOO",TV REPUBLIKA
 https://vavoo.to/vavoo-iptv/play/3581908167ff926e210541
 #EXTINF:-1 group-title="Poland VAVOO",TV REPUBLIKA (2)
@@ -11636,6 +11642,8 @@ https://vavoo.to/vavoo-iptv/play/1463467003938f48194736
 #EXTINF:-1 group-title="Poland VAVOO",TVP SERIALE (2)
 https://vavoo.to/vavoo-iptv/play/612328203f5ce7db9053c
 #EXTINF:-1 group-title="Poland VAVOO",TVP SPORT
+https://vavoo.to/vavoo-iptv/play/385437754454d0d7037a32
+#EXTINF:-1 group-title="Poland VAVOO",TVP SPORT (2)
 https://vavoo.to/vavoo-iptv/play/1843300747c5b755585f7c
 #EXTINF:-1 group-title="Poland VAVOO",TVP SPORT HD
 https://vavoo.to/vavoo-iptv/play/170846911107179f07fade
@@ -11717,9 +11725,9 @@ https://vavoo.to/vavoo-iptv/play/2370723370bb823495ff98
 https://vavoo.to/vavoo-iptv/play/47702122617bfc7ea0a24
 #EXTINF:-1 group-title="Portugal VAVOO",AXN WHITE HD
 https://vavoo.to/vavoo-iptv/play/328698532772b83e8ca83a
-#EXTINF:-1 group-title="Portugal VAVOO",BABY TV (13)
+#EXTINF:-1 group-title="Portugal VAVOO",BABY TV (15)
 https://vavoo.to/vavoo-iptv/play/111671916207b28b428915
-#EXTINF:-1 group-title="Portugal VAVOO",BABY TV (14)
+#EXTINF:-1 group-title="Portugal VAVOO",BABY TV (16)
 https://vavoo.to/vavoo-iptv/play/3404489721c363c3c29596
 #EXTINF:-1 group-title="Portugal VAVOO",BENFICA TV
 https://vavoo.to/vavoo-iptv/play/153111452837f69b803b96
@@ -11811,8 +11819,6 @@ https://vavoo.to/vavoo-iptv/play/57570103360bc951258fe
 https://vavoo.to/vavoo-iptv/play/1668808212073ea3ac1de7
 #EXTINF:-1 group-title="Portugal VAVOO",DISNEY JUNIOR (6)
 https://vavoo.to/vavoo-iptv/play/7711415421c705f6ba5dd
-#EXTINF:-1 group-title="Portugal VAVOO",DISNEY+ (3)
-https://vavoo.to/vavoo-iptv/play/2551829420791b5b928702
 #EXTINF:-1 group-title="Portugal VAVOO",DIZI CHANNEL (3)
 https://vavoo.to/vavoo-iptv/play/331839172552bc64d9a58d
 #EXTINF:-1 group-title="Portugal VAVOO",DOG TV
@@ -11881,9 +11887,9 @@ https://vavoo.to/vavoo-iptv/play/25495184398c97e1fbefd8
 https://vavoo.to/vavoo-iptv/play/36546124874bb339930031
 #EXTINF:-1 group-title="Portugal VAVOO",EUROSPORT 1 HD (3)
 https://vavoo.to/vavoo-iptv/play/16311580101fad1a8ee2ef
-#EXTINF:-1 group-title="Portugal VAVOO",EUROSPORT 2 (16)
-https://vavoo.to/vavoo-iptv/play/3495357111684554a016fd
 #EXTINF:-1 group-title="Portugal VAVOO",EUROSPORT 2 (17)
+https://vavoo.to/vavoo-iptv/play/3495357111684554a016fd
+#EXTINF:-1 group-title="Portugal VAVOO",EUROSPORT 2 (18)
 https://vavoo.to/vavoo-iptv/play/26584383597fb214caeed9
 #EXTINF:-1 group-title="Portugal VAVOO",EUROSPORT 2 (BACKUP)
 https://vavoo.to/vavoo-iptv/play/5210413649af808380459
@@ -11969,7 +11975,7 @@ https://vavoo.to/vavoo-iptv/play/1196955352dcf13e1e10c5
 https://vavoo.to/vavoo-iptv/play/278568941d0da5f3a5da0
 #EXTINF:-1 group-title="Portugal VAVOO",NAT GEO WILD HD (2)
 https://vavoo.to/vavoo-iptv/play/269328975361837c5e0705
-#EXTINF:-1 group-title="Portugal VAVOO",NATIONAL GEOGRAPHIC (3)
+#EXTINF:-1 group-title="Portugal VAVOO",NATIONAL GEOGRAPHIC (4)
 https://vavoo.to/vavoo-iptv/play/503347396572e08f52c01
 #EXTINF:-1 group-title="Portugal VAVOO",NBA TV (2)
 https://vavoo.to/vavoo-iptv/play/21218462198127b9768c37
@@ -11977,9 +11983,9 @@ https://vavoo.to/vavoo-iptv/play/21218462198127b9768c37
 https://vavoo.to/vavoo-iptv/play/32859584599ce78df64a7d
 #EXTINF:-1 group-title="Portugal VAVOO",NICK JUNIOR (5)
 https://vavoo.to/vavoo-iptv/play/11659668124a40dee2e709
-#EXTINF:-1 group-title="Portugal VAVOO",NICKELODEON (17)
+#EXTINF:-1 group-title="Portugal VAVOO",NICKELODEON (16)
 https://vavoo.to/vavoo-iptv/play/398241518529a84217dd1f
-#EXTINF:-1 group-title="Portugal VAVOO",NICKELODEON (18)
+#EXTINF:-1 group-title="Portugal VAVOO",NICKELODEON (17)
 https://vavoo.to/vavoo-iptv/play/27428585456434d2693931
 #EXTINF:-1 group-title="Portugal VAVOO",NOS STUDIOS
 https://vavoo.to/vavoo-iptv/play/39657016396db00c2d9e81
@@ -12115,6 +12121,8 @@ https://vavoo.to/vavoo-iptv/play/34583288246e0a0ec6fc0f
 https://vavoo.to/vavoo-iptv/play/9711041268146231bc411
 #EXTINF:-1 group-title="Portugal VAVOO",SPORT TV 5 (BACKUP)
 https://vavoo.to/vavoo-iptv/play/12763267051751832c99d9
+#EXTINF:-1 group-title="Portugal VAVOO",SPORT TV 5 HD
+https://vavoo.to/vavoo-iptv/play/1747400167d0a3c0f6bef2
 #EXTINF:-1 group-title="Portugal VAVOO",SPORT TV 6
 https://vavoo.to/vavoo-iptv/play/2118231470742cd8dad95f
 #EXTINF:-1 group-title="Portugal VAVOO",SPORT TV 7
@@ -12141,6 +12149,8 @@ https://vavoo.to/vavoo-iptv/play/2422531998791bd1474314
 https://vavoo.to/vavoo-iptv/play/4075632687044396f1dc6a
 #EXTINF:-1 group-title="Portugal VAVOO",STAR MOVIES
 https://vavoo.to/vavoo-iptv/play/8913585440f7b064a2665
+#EXTINF:-1 group-title="Portugal VAVOO",STINGRAY RETRO
+https://vavoo.to/vavoo-iptv/play/216763212240408f426082
 #EXTINF:-1 group-title="Portugal VAVOO",SYFY (8)
 https://vavoo.to/vavoo-iptv/play/386545214879c36205f79e
 #EXTINF:-1 group-title="Portugal VAVOO",SYFY PORTUGAL
@@ -12327,7 +12337,7 @@ https://vavoo.to/vavoo-iptv/play/257305557593c860f6f3f5
 https://vavoo.to/vavoo-iptv/play/3794748066d6f43851bd2a
 #EXTINF:-1 group-title="Romania VAVOO",CINEMAX 2 (7)
 https://vavoo.to/vavoo-iptv/play/19097017416a49fc7bbd8b
-#EXTINF:-1 group-title="Romania VAVOO",CINEMAX 2 HD (3)
+#EXTINF:-1 group-title="Romania VAVOO",CINEMAX 2 HD (2)
 https://vavoo.to/vavoo-iptv/play/1249066248f1c9a0204384
 #EXTINF:-1 group-title="Romania VAVOO",CINEMAX HD (2)
 https://vavoo.to/vavoo-iptv/play/4840116338a0e4cec3fac
@@ -12409,7 +12419,7 @@ https://vavoo.to/vavoo-iptv/play/28060401246c913a9561fb
 https://vavoo.to/vavoo-iptv/play/2795339378883bfee81a58
 #EXTINF:-1 group-title="Romania VAVOO",DISNEY CHANNEL (9)
 https://vavoo.to/vavoo-iptv/play/34350399599e80ddf2abae
-#EXTINF:-1 group-title="Romania VAVOO",DISNEY JR
+#EXTINF:-1 group-title="Romania VAVOO",DISNEY JR (2)
 https://vavoo.to/vavoo-iptv/play/1786676661d6c72d21b87f
 #EXTINF:-1 group-title="Romania VAVOO",DISNEY JUNIOR (7)
 https://vavoo.to/vavoo-iptv/play/21022287667fea42ae34c9
@@ -12447,7 +12457,7 @@ https://vavoo.to/vavoo-iptv/play/2022472244b86bb2aba81a
 https://vavoo.to/vavoo-iptv/play/18872429371ecaad54df4d
 #EXTINF:-1 group-title="Romania VAVOO",EUROSPORT 1 HD (4)
 https://vavoo.to/vavoo-iptv/play/27653567006139d022395d
-#EXTINF:-1 group-title="Romania VAVOO",EUROSPORT 2 (18)
+#EXTINF:-1 group-title="Romania VAVOO",EUROSPORT 2 (19)
 https://vavoo.to/vavoo-iptv/play/9372591131b36874de203
 #EXTINF:-1 group-title="Romania VAVOO",EUROSPORT 2 HD (4)
 https://vavoo.to/vavoo-iptv/play/71073625566f5ade76867
@@ -12577,9 +12587,9 @@ https://vavoo.to/vavoo-iptv/play/124272519168c25f7865a
 https://vavoo.to/vavoo-iptv/play/3580885142aaf20274a37d
 #EXTINF:-1 group-title="Romania VAVOO",NICK TOONS (2)
 https://vavoo.to/vavoo-iptv/play/3576875795cefd64f1c650
-#EXTINF:-1 group-title="Romania VAVOO",NICKELODEON (19)
+#EXTINF:-1 group-title="Romania VAVOO",NICKELODEON (18)
 https://vavoo.to/vavoo-iptv/play/181751695cb11041373c1
-#EXTINF:-1 group-title="Romania VAVOO",NICKELODEON HD (2)
+#EXTINF:-1 group-title="Romania VAVOO",NICKELODEON HD (3)
 https://vavoo.to/vavoo-iptv/play/3510040414c4c03070c742
 #EXTINF:-1 group-title="Romania VAVOO",OBSERVATOR NEWS
 https://vavoo.to/vavoo-iptv/play/130908298375096136231
@@ -12611,10 +12621,6 @@ https://vavoo.to/vavoo-iptv/play/4202214081fb258e3f96f
 https://vavoo.to/vavoo-iptv/play/18340832247534b602b83e
 #EXTINF:-1 group-title="Romania VAVOO",PRO CINEMA
 https://vavoo.to/vavoo-iptv/play/2978271020c7946b98f71b
-#EXTINF:-1 group-title="Romania VAVOO",PRO CINEMA (2)
-https://vavoo.to/vavoo-iptv/play/34578812668a6c9cf39bf0
-#EXTINF:-1 group-title="Romania VAVOO",PRO FIT
-https://vavoo.to/vavoo-iptv/play/2929793917c61ba7040b5e
 #EXTINF:-1 group-title="Romania VAVOO",PRO TV
 https://vavoo.to/vavoo-iptv/play/2463297707cfe47bbac03
 #EXTINF:-1 group-title="Romania VAVOO",PRO TV HD
@@ -12707,6 +12713,8 @@ https://vavoo.to/vavoo-iptv/play/691736606d6fdbf63675c
 https://vavoo.to/vavoo-iptv/play/86496830fc17d8591c69
 
 # RUSSIA
+#EXTINF:-1 group-title="Russia VAVOO",.BLACK
+https://vavoo.to/vavoo-iptv/play/11403569519a4b65dbd3c9
 #EXTINF:-1 group-title="Russia VAVOO",.RED HD
 https://vavoo.to/vavoo-iptv/play/27211650603aa803141a7d
 #EXTINF:-1 group-title="Russia VAVOO",.SCI‑FI
@@ -12761,6 +12769,8 @@ https://vavoo.to/vavoo-iptv/play/288477470421dc013402c8
 https://vavoo.to/vavoo-iptv/play/4041383080989acbbc66ed
 #EXTINF:-1 group-title="Russia VAVOO",ANIMAL PLANET (14)
 https://vavoo.to/vavoo-iptv/play/209824758916d656d048b0
+#EXTINF:-1 group-title="Russia VAVOO",ANIMAL PLANET HD (5)
+https://vavoo.to/vavoo-iptv/play/1302672529a11e5372005c
 #EXTINF:-1 group-title="Russia VAVOO",ARENATV
 https://vavoo.to/vavoo-iptv/play/20932316281d4386da5b7b
 #EXTINF:-1 group-title="Russia VAVOO",ASTRAKHAN 24
@@ -12825,6 +12835,8 @@ https://vavoo.to/vavoo-iptv/play/71803663997604b458e1d
 https://vavoo.to/vavoo-iptv/play/2843827303c20e5bbe9fe9
 #EXTINF:-1 group-title="Russia VAVOO",DISCOVERY CHANNEL (12)
 https://vavoo.to/vavoo-iptv/play/2615704182009edb0e8f35
+#EXTINF:-1 group-title="Russia VAVOO",DISCOVERY CHANNEL HD (4)
+https://vavoo.to/vavoo-iptv/play/428467108827359d72f1c9
 #EXTINF:-1 group-title="Russia VAVOO",DISCOVERY ID XTRA
 https://vavoo.to/vavoo-iptv/play/307615184548fbf89e2e42
 #EXTINF:-1 group-title="Russia VAVOO",DISCOVERY SCIENCE (11)
@@ -12865,7 +12877,7 @@ https://vavoo.to/vavoo-iptv/play/1584186306145ffd7f8ffc
 https://vavoo.to/vavoo-iptv/play/21117800420af664344b4b
 #EXTINF:-1 group-title="Russia VAVOO",EUROSPORT 1 HD (5)
 https://vavoo.to/vavoo-iptv/play/325362548527bcb7b6b31b
-#EXTINF:-1 group-title="Russia VAVOO",EUROSPORT 2 (19)
+#EXTINF:-1 group-title="Russia VAVOO",EUROSPORT 2 (20)
 https://vavoo.to/vavoo-iptv/play/17040072279dcfd2df954a
 #EXTINF:-1 group-title="Russia VAVOO",EUROSPORT 2 [LIVE DURING EVENTS ONLY] (2)
 https://vavoo.to/vavoo-iptv/play/1154695860cb2833dec190
@@ -12889,9 +12901,9 @@ https://vavoo.to/vavoo-iptv/play/1085048278ead73f5f4f4b
 https://vavoo.to/vavoo-iptv/play/3313401586a552388cf9f3
 #EXTINF:-1 group-title="Russia VAVOO",FOOD NETWORK (9)
 https://vavoo.to/vavoo-iptv/play/2153874526b8ffae72bc37
-#EXTINF:-1 group-title="Russia VAVOO",FOX (9)
+#EXTINF:-1 group-title="Russia VAVOO",FOX (10)
 https://vavoo.to/vavoo-iptv/play/5897281029a09c8505479
-#EXTINF:-1 group-title="Russia VAVOO",FOX LIFE (8)
+#EXTINF:-1 group-title="Russia VAVOO",FOX LIFE (7)
 https://vavoo.to/vavoo-iptv/play/1335743496f001551d6ad
 #EXTINF:-1 group-title="Russia VAVOO",FOX LIFE HD (3)
 https://vavoo.to/vavoo-iptv/play/176302805032514f265c12
@@ -12899,8 +12911,6 @@ https://vavoo.to/vavoo-iptv/play/176302805032514f265c12
 https://vavoo.to/vavoo-iptv/play/33251460037c404ac0e04a
 #EXTINF:-1 group-title="Russia VAVOO",HDL
 https://vavoo.to/vavoo-iptv/play/1460781813711084efe481
-#EXTINF:-1 group-title="Russia VAVOO",HDL (2)
-https://vavoo.to/vavoo-iptv/play/2361275322010a391f29d3
 #EXTINF:-1 group-title="Russia VAVOO",HGTV HD
 https://vavoo.to/vavoo-iptv/play/15929737514e39a4ceec09
 #EXTINF:-1 group-title="Russia VAVOO",HISTORY (9)
@@ -12913,6 +12923,8 @@ https://vavoo.to/vavoo-iptv/play/76790896b7ebe529115e
 https://vavoo.to/vavoo-iptv/play/20925127416dcfde316841
 #EXTINF:-1 group-title="Russia VAVOO",HOME
 https://vavoo.to/vavoo-iptv/play/630071135668aeabde12b
+#EXTINF:-1 group-title="Russia VAVOO",HOME TB
+https://vavoo.to/vavoo-iptv/play/234532519699617ac7eaaf
 #EXTINF:-1 group-title="Russia VAVOO",HTB
 https://vavoo.to/vavoo-iptv/play/8111102086a0179c1cfa4
 #EXTINF:-1 group-title="Russia VAVOO",ID
@@ -12925,6 +12937,10 @@ https://vavoo.to/vavoo-iptv/play/37633705069e72781eb1a0
 https://vavoo.to/vavoo-iptv/play/25131363208f561d7b85f4
 #EXTINF:-1 group-title="Russia VAVOO",ISTORIYA
 https://vavoo.to/vavoo-iptv/play/643398876f0b517e7a642
+#EXTINF:-1 group-title="Russia VAVOO",JIM JAM (3)
+https://vavoo.to/vavoo-iptv/play/3091112583406b20a9f145
+#EXTINF:-1 group-title="Russia VAVOO",JIMJAM (4)
+https://vavoo.to/vavoo-iptv/play/3609920790c7b8625d6de
 #EXTINF:-1 group-title="Russia VAVOO",KARUSEL TV
 https://vavoo.to/vavoo-iptv/play/20669156379258d0775b49
 #EXTINF:-1 group-title="Russia VAVOO",KHL
@@ -12933,7 +12949,7 @@ https://vavoo.to/vavoo-iptv/play/2890854598f5b804149c2
 https://vavoo.to/vavoo-iptv/play/4045527153e90ef006c64a
 #EXTINF:-1 group-title="Russia VAVOO",KHL TV
 https://vavoo.to/vavoo-iptv/play/274155986507fa3db19108
-#EXTINF:-1 group-title="Russia VAVOO",KIDS (3)
+#EXTINF:-1 group-title="Russia VAVOO",KIDS (2)
 https://vavoo.to/vavoo-iptv/play/8265324aaef795d0883
 #EXTINF:-1 group-title="Russia VAVOO",KINO CINEMA
 https://vavoo.to/vavoo-iptv/play/353992658428920fc5a943
@@ -12991,6 +13007,8 @@ https://vavoo.to/vavoo-iptv/play/4249443615ef9811d3f519
 https://vavoo.to/vavoo-iptv/play/3135842255c73f888bd4e3
 #EXTINF:-1 group-title="Russia VAVOO",MATCH FUTBOL 3
 https://vavoo.to/vavoo-iptv/play/22739063035e5ab0bc6b4f
+#EXTINF:-1 group-title="Russia VAVOO",MATCH GAME
+https://vavoo.to/vavoo-iptv/play/2416319001c2292297f04f
 #EXTINF:-1 group-title="Russia VAVOO",MATCH IGRA
 https://vavoo.to/vavoo-iptv/play/378091407995fa71d7e2d1
 #EXTINF:-1 group-title="Russia VAVOO",MATCH PREMIERE
@@ -13021,8 +13039,6 @@ https://vavoo.to/vavoo-iptv/play/270675873361a10a38410c
 https://vavoo.to/vavoo-iptv/play/7496911141f9609989a74
 #EXTINF:-1 group-title="Russia VAVOO",MTV (9)
 https://vavoo.to/vavoo-iptv/play/41440096374c70486467ea
-#EXTINF:-1 group-title="Russia VAVOO",MTV 00S (6)
-https://vavoo.to/vavoo-iptv/play/412055334305df2dc7b7b7
 #EXTINF:-1 group-title="Russia VAVOO",MTV 80S (3)
 https://vavoo.to/vavoo-iptv/play/33296161526b03a90bf2c1
 #EXTINF:-1 group-title="Russia VAVOO",MTV DANCE (2)
@@ -13031,6 +13047,10 @@ https://vavoo.to/vavoo-iptv/play/173657216219bdee1eedf9
 https://vavoo.to/vavoo-iptv/play/32305455911bfe1136830d
 #EXTINF:-1 group-title="Russia VAVOO",MTV LIVE (3)
 https://vavoo.to/vavoo-iptv/play/3870096228f86ded461a22
+#EXTINF:-1 group-title="Russia VAVOO",MTV LIVE INTERNATIONAL HD
+https://vavoo.to/vavoo-iptv/play/1783586546377487f47eca
+#EXTINF:-1 group-title="Russia VAVOO",MTV YO!
+https://vavoo.to/vavoo-iptv/play/1564351647b5f4c9a01611
 #EXTINF:-1 group-title="Russia VAVOO",MULT TV
 https://vavoo.to/vavoo-iptv/play/41625506195249ec79820e
 #EXTINF:-1 group-title="Russia VAVOO",MULTI MANIA
@@ -13055,20 +13075,28 @@ https://vavoo.to/vavoo-iptv/play/3863276446ea8dd5cd9209
 https://vavoo.to/vavoo-iptv/play/2614433133f8c813ca3d5a
 #EXTINF:-1 group-title="Russia VAVOO",NAT GEO WILD (19)
 https://vavoo.to/vavoo-iptv/play/2701430610c558f0decb66
+#EXTINF:-1 group-title="Russia VAVOO",NAT GEO WILD HD (4)
+https://vavoo.to/vavoo-iptv/play/1850303642a21d4deacb73
+#EXTINF:-1 group-title="Russia VAVOO",NATIONAL GEOGRAPHIC HD (2)
+https://vavoo.to/vavoo-iptv/play/25783989e9f0fc86d265
 #EXTINF:-1 group-title="Russia VAVOO",NEVO MUSIC
 https://vavoo.to/vavoo-iptv/play/2146269052f9754f9b47d1
-#EXTINF:-1 group-title="Russia VAVOO",NICKELODEON (20)
+#EXTINF:-1 group-title="Russia VAVOO",NICKELODEON (19)
 https://vavoo.to/vavoo-iptv/play/148643273381a78b6ff13c
-#EXTINF:-1 group-title="Russia VAVOO",NICKELODEON HD (3)
+#EXTINF:-1 group-title="Russia VAVOO",NICKELODEON HD (4)
 https://vavoo.to/vavoo-iptv/play/302064724750065d097261
 #EXTINF:-1 group-title="Russia VAVOO",NICKELODEON JUNIOR (3)
 https://vavoo.to/vavoo-iptv/play/40482107861401804e64fe
+#EXTINF:-1 group-title="Russia VAVOO",NICKTOONS (7)
+https://vavoo.to/vavoo-iptv/play/2111994892eff89d08a583
 #EXTINF:-1 group-title="Russia VAVOO",NRJ
 https://vavoo.to/vavoo-iptv/play/3047232166801d72e62e32
 #EXTINF:-1 group-title="Russia VAVOO",NTV (2)
 https://vavoo.to/vavoo-iptv/play/3337128760a75a9d1ccea7
 #EXTINF:-1 group-title="Russia VAVOO",ONE.BY
 https://vavoo.to/vavoo-iptv/play/32415533842de135e6b17d
+#EXTINF:-1 group-title="Russia VAVOO",ONE.BY RUS
+https://vavoo.to/vavoo-iptv/play/2650429775faf97de6cd9c
 #EXTINF:-1 group-title="Russia VAVOO",OUTDOOR CHANNEL
 https://vavoo.to/vavoo-iptv/play/862176398f20ce82498a8
 #EXTINF:-1 group-title="Russia VAVOO",PARAMOUNT CHANNEL (5)
@@ -13211,12 +13239,16 @@ https://vavoo.to/vavoo-iptv/play/3900275397408ec8db663d
 https://vavoo.to/vavoo-iptv/play/10084072625b22c150632
 #EXTINF:-1 group-title="Russia VAVOO",TV 1000 ACTION
 https://vavoo.to/vavoo-iptv/play/308079407168d5c45a9cff
+#EXTINF:-1 group-title="Russia VAVOO",TV 1000 ACTION HD
+https://vavoo.to/vavoo-iptv/play/417197353cbbe73b4e467
 #EXTINF:-1 group-title="Russia VAVOO",TV 1000 HD
 https://vavoo.to/vavoo-iptv/play/4124897079d71b74873a38
 #EXTINF:-1 group-title="Russia VAVOO",TV 1000 MEGAHIT
 https://vavoo.to/vavoo-iptv/play/4595173082d3c5362bae6
 #EXTINF:-1 group-title="Russia VAVOO",TV 1000 PREMIUM
 https://vavoo.to/vavoo-iptv/play/21093251353cccfd4742ab
+#EXTINF:-1 group-title="Russia VAVOO",TV 1000 PYCCKOE
+https://vavoo.to/vavoo-iptv/play/3865793557617f98c7dc5a
 #EXTINF:-1 group-title="Russia VAVOO",TV 1000 РУССКОЕ КИНО HD
 https://vavoo.to/vavoo-iptv/play/697082013194d095901e1
 #EXTINF:-1 group-title="Russia VAVOO",TV CENTER
@@ -13326,6 +13358,8 @@ https://vavoo.to/vavoo-iptv/play/1792029733cd71bde4ed8
 #EXTINF:-1 group-title="Russia VAVOO",ЗВЕЗДА ПЛЮС
 https://vavoo.to/vavoo-iptv/play/1560652151bfbafc10f61a
 #EXTINF:-1 group-title="Russia VAVOO",ИЗВЕСТИЯ
+https://vavoo.to/vavoo-iptv/play/3037360057874aea818885
+#EXTINF:-1 group-title="Russia VAVOO",ИЗВЕСТИЯ (2)
 https://vavoo.to/vavoo-iptv/play/10912891128f71862050bf
 #EXTINF:-1 group-title="Russia VAVOO",ИЗВЕСТИЯ ТВ
 https://vavoo.to/vavoo-iptv/play/1228193286aa11be15f365
@@ -13469,10 +13503,12 @@ https://vavoo.to/vavoo-iptv/play/983685089eea34094af26
 https://vavoo.to/vavoo-iptv/play/1625653914202fc92e5596
 #EXTINF:-1 group-title="Russia VAVOO",НТВ +4
 https://vavoo.to/vavoo-iptv/play/40205985861d4c16143e7d
+#EXTINF:-1 group-title="Russia VAVOO",НТВ +6
+https://vavoo.to/vavoo-iptv/play/250643362606b394bbab53
+#EXTINF:-1 group-title="Russia VAVOO",НТВ +8
+https://vavoo.to/vavoo-iptv/play/710253115d8ff5fb872b7
 #EXTINF:-1 group-title="Russia VAVOO",НТВ HD
 https://vavoo.to/vavoo-iptv/play/25517040655f7d4286a0f3
-#EXTINF:-1 group-title="Russia VAVOO",НТВ МИР
-https://vavoo.to/vavoo-iptv/play/2599949384f9facbeef402
 #EXTINF:-1 group-title="Russia VAVOO",НТВ ПРАВО
 https://vavoo.to/vavoo-iptv/play/34354958176beed4436d0e
 #EXTINF:-1 group-title="Russia VAVOO",НТВ СЕРИАЛ
@@ -13495,12 +13531,16 @@ https://vavoo.to/vavoo-iptv/play/4109847934f43b0f5fb26b
 https://vavoo.to/vavoo-iptv/play/19332408050ee073c6eaf1
 #EXTINF:-1 group-title="Russia VAVOO",ПЕРВЫЙ КАНАЛ
 https://vavoo.to/vavoo-iptv/play/3816805706731251182a76
+#EXTINF:-1 group-title="Russia VAVOO",ПЕРВЫЙ КАНАЛ HD
+https://vavoo.to/vavoo-iptv/play/1619582073dede2b25db6
 #EXTINF:-1 group-title="Russia VAVOO",ПРОДВИЖЕНИЕ
 https://vavoo.to/vavoo-iptv/play/14033522891cfb1f5d2f7a
 #EXTINF:-1 group-title="Russia VAVOO",ПЯТНИЦА
 https://vavoo.to/vavoo-iptv/play/10020562535ccb1175fa8b
 #EXTINF:-1 group-title="Russia VAVOO",ПЯТНИЦА (2)
 https://vavoo.to/vavoo-iptv/play/3912170555159ef4b0566
+#EXTINF:-1 group-title="Russia VAVOO",ПЯТНИЦА +2
+https://vavoo.to/vavoo-iptv/play/25774628183a8f51d22b1d
 #EXTINF:-1 group-title="Russia VAVOO",ПЯТНИЦА +6
 https://vavoo.to/vavoo-iptv/play/1814057186c89a830698a7
 #EXTINF:-1 group-title="Russia VAVOO",ПЯТЫЙ КАНАЛ
@@ -13519,10 +13559,18 @@ https://vavoo.to/vavoo-iptv/play/7374072166ba0270b9bc0
 https://vavoo.to/vavoo-iptv/play/42541058089c7709e89871
 #EXTINF:-1 group-title="Russia VAVOO",РОССИЯ 1
 https://vavoo.to/vavoo-iptv/play/348197735708eeaae148e0
+#EXTINF:-1 group-title="Russia VAVOO",РОССИЯ 1 +2
+https://vavoo.to/vavoo-iptv/play/66042311743a68bcaf49d
+#EXTINF:-1 group-title="Russia VAVOO",РОССИЯ 1 +4
+https://vavoo.to/vavoo-iptv/play/2820519021aaac5c496919
+#EXTINF:-1 group-title="Russia VAVOO",РОССИЯ 1 +6
+https://vavoo.to/vavoo-iptv/play/35377579659b5d3d399e8d
+#EXTINF:-1 group-title="Russia VAVOO",РОССИЯ 1 +8
+https://vavoo.to/vavoo-iptv/play/1844271468581e6d621a30
 #EXTINF:-1 group-title="Russia VAVOO",РОССИЯ 1 HD
 https://vavoo.to/vavoo-iptv/play/3752798550cb647b3c0e2e
 #EXTINF:-1 group-title="Russia VAVOO",РОССИЯ 24
-https://vavoo.to/vavoo-iptv/play/422295579152fc36d97169
+https://vavoo.to/vavoo-iptv/play/24425768105db83a0a345a
 #EXTINF:-1 group-title="Russia VAVOO",РОССИЯ К
 https://vavoo.to/vavoo-iptv/play/847607886bd9af14de58
 #EXTINF:-1 group-title="Russia VAVOO",РОССИЯ-1
@@ -13541,6 +13589,8 @@ https://vavoo.to/vavoo-iptv/play/1863005721eaba70dba3c5
 https://vavoo.to/vavoo-iptv/play/92839802f033e4f417d8
 #EXTINF:-1 group-title="Russia VAVOO",РУССКИЙ РОМАН
 https://vavoo.to/vavoo-iptv/play/491538765599c282283c6
+#EXTINF:-1 group-title="Russia VAVOO",РУССКИЙ-БЕСТСЕЛЛЕР
+https://vavoo.to/vavoo-iptv/play/3483122865896c08ddcc03
 #EXTINF:-1 group-title="Russia VAVOO",РУССКИЙ-ДЕТЕКТИВ
 https://vavoo.to/vavoo-iptv/play/3415446059849d8f018fdc
 #EXTINF:-1 group-title="Russia VAVOO",РУССКИЙ-ИЛЛЮЗИОН
@@ -13587,6 +13637,8 @@ https://vavoo.to/vavoo-iptv/play/98041898efe3bc889a81
 https://vavoo.to/vavoo-iptv/play/39477320814354da7a3f7f
 #EXTINF:-1 group-title="Russia VAVOO",ТНВ‑ПЛАНЕТА
 https://vavoo.to/vavoo-iptv/play/289420819de3eb3b023e7
+#EXTINF:-1 group-title="Russia VAVOO",ТНТ
+https://vavoo.to/vavoo-iptv/play/371099324285e376d4d45c
 #EXTINF:-1 group-title="Russia VAVOO",ТНТ MUSIC
 https://vavoo.to/vavoo-iptv/play/3783797318d9b7d3edde28
 #EXTINF:-1 group-title="Russia VAVOO",ТНТ4
@@ -13655,9 +13707,9 @@ https://vavoo.to/vavoo-iptv/play/2493319111ca06f6af6644
 https://vavoo.to/vavoo-iptv/play/33126737788738bced58b8
 #EXTINF:-1 group-title="Spain VAVOO",AXN WHITE HD (2)
 https://vavoo.to/vavoo-iptv/play/30622564539999ee2d2ce5
-#EXTINF:-1 group-title="Spain VAVOO",BABY TV (15)
+#EXTINF:-1 group-title="Spain VAVOO",BABY TV (17)
 https://vavoo.to/vavoo-iptv/play/35319605913a05a35de44e
-#EXTINF:-1 group-title="Spain VAVOO",BABY TV (16)
+#EXTINF:-1 group-title="Spain VAVOO",BABY TV (18)
 https://vavoo.to/vavoo-iptv/play/14488059614bec642e0149
 #EXTINF:-1 group-title="Spain VAVOO",BARCA TV
 https://vavoo.to/vavoo-iptv/play/1979280950e8eaa1c7f5cd
@@ -13773,13 +13825,11 @@ https://vavoo.to/vavoo-iptv/play/4175356411b3dcee9b807d
 https://vavoo.to/vavoo-iptv/play/1590334161340073a9e76c
 #EXTINF:-1 group-title="Spain VAVOO",CUATRO HD
 https://vavoo.to/vavoo-iptv/play/4194733823af66ad33c883
-#EXTINF:-1 group-title="Spain VAVOO",D KISS
-https://vavoo.to/vavoo-iptv/play/4289152978d5a171a3fd46
 #EXTINF:-1 group-title="Spain VAVOO",DARK
 https://vavoo.to/vavoo-iptv/play/38532226005b67baa164c
-#EXTINF:-1 group-title="Spain VAVOO",DAZN 1 (5)
+#EXTINF:-1 group-title="Spain VAVOO",DAZN 1 (4)
 https://vavoo.to/vavoo-iptv/play/294109345260e52343e322
-#EXTINF:-1 group-title="Spain VAVOO",DAZN 2 (3)
+#EXTINF:-1 group-title="Spain VAVOO",DAZN 2 (4)
 https://vavoo.to/vavoo-iptv/play/3907910812527bd3e7d3e0
 #EXTINF:-1 group-title="Spain VAVOO",DAZN 3
 https://vavoo.to/vavoo-iptv/play/35828421562da76fb1a617
@@ -13845,9 +13895,9 @@ https://vavoo.to/vavoo-iptv/play/2423006885b7ccbf73b191
 https://vavoo.to/vavoo-iptv/play/36327481024de3d6082e2e
 #EXTINF:-1 group-title="Spain VAVOO",EUROSPORT 1 HD (6)
 https://vavoo.to/vavoo-iptv/play/13646765354d48c44c48ee
-#EXTINF:-1 group-title="Spain VAVOO",EUROSPORT 2 (20)
-https://vavoo.to/vavoo-iptv/play/36204944534de72eaba372
 #EXTINF:-1 group-title="Spain VAVOO",EUROSPORT 2 (21)
+https://vavoo.to/vavoo-iptv/play/36204944534de72eaba372
+#EXTINF:-1 group-title="Spain VAVOO",EUROSPORT 2 (22)
 https://vavoo.to/vavoo-iptv/play/2670144662ab93240c576b
 #EXTINF:-1 group-title="Spain VAVOO",EUROSPORT 2 (BACKUP) (2)
 https://vavoo.to/vavoo-iptv/play/34746923364fda5c6d183d
@@ -13861,10 +13911,12 @@ https://vavoo.to/vavoo-iptv/play/755495046b3dab0609106
 https://vavoo.to/vavoo-iptv/play/41339614991b200718d2f4
 #EXTINF:-1 group-title="Spain VAVOO",FDF
 https://vavoo.to/vavoo-iptv/play/26225858313dc1c12ffe85
-#EXTINF:-1 group-title="Spain VAVOO",FOX (10)
+#EXTINF:-1 group-title="Spain VAVOO",FOX (11)
 https://vavoo.to/vavoo-iptv/play/3362806456d3d7dff421d4
 #EXTINF:-1 group-title="Spain VAVOO",FOX HD (4)
 https://vavoo.to/vavoo-iptv/play/2656093401067d606e6608
+#EXTINF:-1 group-title="Spain VAVOO",FOX LIFE HD (4)
+https://vavoo.to/vavoo-iptv/play/2765569410803d64e598b6
 #EXTINF:-1 group-title="Spain VAVOO",FOX SPORTS 2 (3)
 https://vavoo.to/vavoo-iptv/play/402200170466937f0904e5
 #EXTINF:-1 group-title="Spain VAVOO",FOX SPORTS 3 (4)
@@ -14029,9 +14081,9 @@ https://vavoo.to/vavoo-iptv/play/2420131717f9390441c4d
 https://vavoo.to/vavoo-iptv/play/368990295245746b74b191
 #EXTINF:-1 group-title="Spain VAVOO",NAT GEO WILD (20)
 https://vavoo.to/vavoo-iptv/play/28945543531716c752c40
-#EXTINF:-1 group-title="Spain VAVOO",NAT GEO WILD HD (4)
+#EXTINF:-1 group-title="Spain VAVOO",NAT GEO WILD HD (5)
 https://vavoo.to/vavoo-iptv/play/28325324853238be23b62e
-#EXTINF:-1 group-title="Spain VAVOO",NATIONAL GEOGRAPHIC HD (2)
+#EXTINF:-1 group-title="Spain VAVOO",NATIONAL GEOGRAPHIC HD (3)
 https://vavoo.to/vavoo-iptv/play/1462574321b31f9e6d7ae5
 #EXTINF:-1 group-title="Spain VAVOO",NEGOCIOS
 https://vavoo.to/vavoo-iptv/play/3478528126c1cc0e41b656
@@ -14043,9 +14095,9 @@ https://vavoo.to/vavoo-iptv/play/39500046965ffc81c31919
 https://vavoo.to/vavoo-iptv/play/7875635221f6afe6eab4f
 #EXTINF:-1 group-title="Spain VAVOO",NICK JUNIOR (6)
 https://vavoo.to/vavoo-iptv/play/1143774621520503ae30d8
-#EXTINF:-1 group-title="Spain VAVOO",NICKELODEON (21)
+#EXTINF:-1 group-title="Spain VAVOO",NICKELODEON (20)
 https://vavoo.to/vavoo-iptv/play/27209941602a91ece8861a
-#EXTINF:-1 group-title="Spain VAVOO",NICKELODEON HD (4)
+#EXTINF:-1 group-title="Spain VAVOO",NICKELODEON HD (5)
 https://vavoo.to/vavoo-iptv/play/615663221d1c60be068e3
 #EXTINF:-1 group-title="Spain VAVOO",NORTEVISION
 https://vavoo.to/vavoo-iptv/play/321653554534df94f5da2b
@@ -14149,6 +14201,10 @@ https://vavoo.to/vavoo-iptv/play/19804052756a4cb9bd26b9
 https://vavoo.to/vavoo-iptv/play/4259288064c3a27aa033d4
 #EXTINF:-1 group-title="Spain VAVOO",TOROLE TV
 https://vavoo.to/vavoo-iptv/play/4722090563ed8725b6db7
+#EXTINF:-1 group-title="Spain VAVOO",TOROS (2)
+https://vavoo.to/vavoo-iptv/play/142832720b500e5b89cad
+#EXTINF:-1 group-title="Spain VAVOO",TOROS TV (2)
+https://vavoo.to/vavoo-iptv/play/46981335898e66a40a61f
 #EXTINF:-1 group-title="Spain VAVOO",TOROS TV HD
 https://vavoo.to/vavoo-iptv/play/1213515147e8f773d35b54
 #EXTINF:-1 group-title="Spain VAVOO",TRECE TV
@@ -14515,7 +14571,7 @@ https://vavoo.to/vavoo-iptv/play/4250561695aeafaa1af43b
 https://vavoo.to/vavoo-iptv/play/40635964179eb6e60f85f9
 #EXTINF:-1 group-title="Turkey VAVOO",ANIMAL PLANET (15)
 https://vavoo.to/vavoo-iptv/play/211016135533c46812e566
-#EXTINF:-1 group-title="Turkey VAVOO",ANIMAL PLANET HD (5)
+#EXTINF:-1 group-title="Turkey VAVOO",ANIMAL PLANET HD (6)
 https://vavoo.to/vavoo-iptv/play/3913298991ebe0634b3649
 #EXTINF:-1 group-title="Turkey VAVOO",ANIMATION 1 HD
 https://vavoo.to/vavoo-iptv/play/7274274379cbbe0c37b06
@@ -14573,9 +14629,9 @@ https://vavoo.to/vavoo-iptv/play/154080342742a01f2d589
 https://vavoo.to/vavoo-iptv/play/334323069104712e8a0a89
 #EXTINF:-1 group-title="Turkey VAVOO",BABA RADYO ARABESK
 https://vavoo.to/vavoo-iptv/play/40965694547a9def110e6c
-#EXTINF:-1 group-title="Turkey VAVOO",BABY TV (17)
+#EXTINF:-1 group-title="Turkey VAVOO",BABY TV (19)
 https://vavoo.to/vavoo-iptv/play/382042085583b289bf81e2
-#EXTINF:-1 group-title="Turkey VAVOO",BABY TV (18)
+#EXTINF:-1 group-title="Turkey VAVOO",BABY TV (20)
 https://vavoo.to/vavoo-iptv/play/41848652906e4c7a933f55
 #EXTINF:-1 group-title="Turkey VAVOO",BABY TV HD
 https://vavoo.to/vavoo-iptv/play/27516589959a967260542d
@@ -14697,13 +14753,13 @@ https://vavoo.to/vavoo-iptv/play/28515391437e928cafd5dd
 https://vavoo.to/vavoo-iptv/play/323636291171b2af97d745
 #EXTINF:-1 group-title="Turkey VAVOO",BEIN SPORTS 2 UHD
 https://vavoo.to/vavoo-iptv/play/3694662475a36c53181838
-#EXTINF:-1 group-title="Turkey VAVOO",BEIN SPORTS 3 (5)
+#EXTINF:-1 group-title="Turkey VAVOO",BEIN SPORTS 3 (4)
 https://vavoo.to/vavoo-iptv/play/179745960216563080394f
-#EXTINF:-1 group-title="Turkey VAVOO",BEIN SPORTS 3 (6)
+#EXTINF:-1 group-title="Turkey VAVOO",BEIN SPORTS 3 (5)
 https://vavoo.to/vavoo-iptv/play/2834514943d9fcc1df9594
 #EXTINF:-1 group-title="Turkey VAVOO",BEIN SPORTS 3 HD (4)
 https://vavoo.to/vavoo-iptv/play/17005958018c5d23b49ef0
-#EXTINF:-1 group-title="Turkey VAVOO",BEIN SPORTS 3 SD (2)
+#EXTINF:-1 group-title="Turkey VAVOO",BEIN SPORTS 3 SD
 https://vavoo.to/vavoo-iptv/play/206371329905d7f81fb9d
 #EXTINF:-1 group-title="Turkey VAVOO",BEIN SPORTS 3 UHD
 https://vavoo.to/vavoo-iptv/play/3410167560f6960a0d6de9
@@ -14781,6 +14837,8 @@ https://vavoo.to/vavoo-iptv/play/4228481876db7dd6acf5b
 https://vavoo.to/vavoo-iptv/play/19675163050cdefd6160c5
 #EXTINF:-1 group-title="Turkey VAVOO",BEST KOMEDI
 https://vavoo.to/vavoo-iptv/play/17233265984e83c5ef5947
+#EXTINF:-1 group-title="Turkey VAVOO",BEST KORKU
+https://vavoo.to/vavoo-iptv/play/2298271695faed3c96249f
 #EXTINF:-1 group-title="Turkey VAVOO",BEST LOCA 1
 https://vavoo.to/vavoo-iptv/play/1063857052f07e2eec0c52
 #EXTINF:-1 group-title="Turkey VAVOO",BEST LOCA 2
@@ -15035,7 +15093,7 @@ https://vavoo.to/vavoo-iptv/play/3624002307d3a1f474d7ce
 https://vavoo.to/vavoo-iptv/play/1161899432db055970dd1d
 #EXTINF:-1 group-title="Turkey VAVOO",DISNEY CHANNEL HD (3)
 https://vavoo.to/vavoo-iptv/play/3578544716a4cc42d03dcd
-#EXTINF:-1 group-title="Turkey VAVOO",DISNEY JR (2)
+#EXTINF:-1 group-title="Turkey VAVOO",DISNEY JR (3)
 https://vavoo.to/vavoo-iptv/play/396367809728cc9e22209f
 #EXTINF:-1 group-title="Turkey VAVOO",DISNEY JR HD
 https://vavoo.to/vavoo-iptv/play/4108765291d43a8a0a8088
@@ -15241,7 +15299,7 @@ https://vavoo.to/vavoo-iptv/play/38145219358d998f180862
 https://vavoo.to/vavoo-iptv/play/34586314617a4110b16336
 #EXTINF:-1 group-title="Turkey VAVOO",EUROSPORT 1 (23)
 https://vavoo.to/vavoo-iptv/play/3271328843ca1abfbfa420
-#EXTINF:-1 group-title="Turkey VAVOO",EUROSPORT 2 (22)
+#EXTINF:-1 group-title="Turkey VAVOO",EUROSPORT 2 (23)
 https://vavoo.to/vavoo-iptv/play/2307325429068c8e128ae6
 #EXTINF:-1 group-title="Turkey VAVOO",EUROSPORT 2 [LIVE DURING EVENTS ONLY] (3)
 https://vavoo.to/vavoo-iptv/play/1309778674228351c44311
@@ -15311,6 +15369,8 @@ https://vavoo.to/vavoo-iptv/play/1540748539780d20f1eec6
 https://vavoo.to/vavoo-iptv/play/925277730aa02afb5c3f6
 #EXTINF:-1 group-title="Turkey VAVOO",FIBERBOX KORKU
 https://vavoo.to/vavoo-iptv/play/380062362023f48b21f53
+#EXTINF:-1 group-title="Turkey VAVOO",FIBERBOX TURK
+https://vavoo.to/vavoo-iptv/play/284173847510aacb25a2b2
 #EXTINF:-1 group-title="Turkey VAVOO",FIGHT BOX (3)
 https://vavoo.to/vavoo-iptv/play/2516942999ece82564eabb
 #EXTINF:-1 group-title="Turkey VAVOO",FILBOX SPOR 1 MACZAMANI
@@ -15361,18 +15421,16 @@ https://vavoo.to/vavoo-iptv/play/1285510370f329ebb236e7
 https://vavoo.to/vavoo-iptv/play/425386382940c3dc27dbf2
 #EXTINF:-1 group-title="Turkey VAVOO",FMTV
 https://vavoo.to/vavoo-iptv/play/3681963823264351faabac
-#EXTINF:-1 group-title="Turkey VAVOO",FOX (11)
-https://vavoo.to/vavoo-iptv/play/14539175875ea1ccde8ce
 #EXTINF:-1 group-title="Turkey VAVOO",FOX (12)
+https://vavoo.to/vavoo-iptv/play/14539175875ea1ccde8ce
+#EXTINF:-1 group-title="Turkey VAVOO",FOX (13)
 https://vavoo.to/vavoo-iptv/play/1498459094c86300dd688c
-#EXTINF:-1 group-title="Turkey VAVOO",FOX CRIME (8)
+#EXTINF:-1 group-title="Turkey VAVOO",FOX CRIME (7)
 https://vavoo.to/vavoo-iptv/play/189093311701e249a07ebe
 #EXTINF:-1 group-title="Turkey VAVOO",FOX CRIME HEVC
 https://vavoo.to/vavoo-iptv/play/31503810386e1be804a835
-#EXTINF:-1 group-title="Turkey VAVOO",FOX LIFE (9)
+#EXTINF:-1 group-title="Turkey VAVOO",FOX LIFE (8)
 https://vavoo.to/vavoo-iptv/play/11310059853e618234a6b5
-#EXTINF:-1 group-title="Turkey VAVOO",FOX TV HD (H265)
-https://vavoo.to/vavoo-iptv/play/1345288490af706454a2b2
 #EXTINF:-1 group-title="Turkey VAVOO",FOX TV HEVC
 https://vavoo.to/vavoo-iptv/play/2907081311ea1629502e0f
 #EXTINF:-1 group-title="Turkey VAVOO",FOX TV RAW
@@ -15619,21 +15677,13 @@ https://vavoo.to/vavoo-iptv/play/7440218437e242db07f3d
 https://vavoo.to/vavoo-iptv/play/331907067022a220a07352
 #EXTINF:-1 group-title="Turkey VAVOO",KANAL T
 https://vavoo.to/vavoo-iptv/play/18316756832635b98c5840
-#EXTINF:-1 group-title="Turkey VAVOO",KANAL T (2)
-https://vavoo.to/vavoo-iptv/play/18316756832635b98c5840
 #EXTINF:-1 group-title="Turkey VAVOO",KANAL URFA
 https://vavoo.to/vavoo-iptv/play/847659673132d7ebf20cd
 #EXTINF:-1 group-title="Turkey VAVOO",KANAL URFA (2)
 https://vavoo.to/vavoo-iptv/play/8138315577bf2ae8bf70e
-#EXTINF:-1 group-title="Turkey VAVOO",KANAL URFA (3)
-https://vavoo.to/vavoo-iptv/play/847659673132d7ebf20cd
-#EXTINF:-1 group-title="Turkey VAVOO",KANAL URFA (4)
-https://vavoo.to/vavoo-iptv/play/8138315577bf2ae8bf70e
 #EXTINF:-1 group-title="Turkey VAVOO",KANAL V
 https://vavoo.to/vavoo-iptv/play/22154054220264091689b
 #EXTINF:-1 group-title="Turkey VAVOO",KANAL V (2)
-https://vavoo.to/vavoo-iptv/play/22154054220264091689b
-#EXTINF:-1 group-title="Turkey VAVOO",KANAL V (3)
 https://vavoo.to/vavoo-iptv/play/4014377632f76bd61156e
 #EXTINF:-1 group-title="Turkey VAVOO",KANAL Z
 https://vavoo.to/vavoo-iptv/play/336832863925e92ac188c1
@@ -15887,7 +15937,7 @@ https://vavoo.to/vavoo-iptv/play/1960546091bcaf052d3800
 https://vavoo.to/vavoo-iptv/play/332065496847e1d2ff5743
 #EXTINF:-1 group-title="Turkey VAVOO",NAT GEO WILD (22)
 https://vavoo.to/vavoo-iptv/play/1999823186f9934d6d684a
-#EXTINF:-1 group-title="Turkey VAVOO",NAT GEO WILD HD (5)
+#EXTINF:-1 group-title="Turkey VAVOO",NAT GEO WILD HD (6)
 https://vavoo.to/vavoo-iptv/play/1519237116daf8e783a22b
 #EXTINF:-1 group-title="Turkey VAVOO",NAT GEO WILD HD+ (2)
 https://vavoo.to/vavoo-iptv/play/124345657e7d701408114
@@ -15907,11 +15957,11 @@ https://vavoo.to/vavoo-iptv/play/85708551c8303cc96ebd
 https://vavoo.to/vavoo-iptv/play/70716309912fd7c8b433e
 #EXTINF:-1 group-title="Turkey VAVOO",NICK JUNIOR (7)
 https://vavoo.to/vavoo-iptv/play/1384991998bbb9bc709eb1
-#EXTINF:-1 group-title="Turkey VAVOO",NICKELODEON (22)
+#EXTINF:-1 group-title="Turkey VAVOO",NICKELODEON (21)
 https://vavoo.to/vavoo-iptv/play/3029254675256aa43dc772
-#EXTINF:-1 group-title="Turkey VAVOO",NICKELODEON (23)
+#EXTINF:-1 group-title="Turkey VAVOO",NICKELODEON (22)
 https://vavoo.to/vavoo-iptv/play/30925623016e4c1bb5c343
-#EXTINF:-1 group-title="Turkey VAVOO",NICKELODEON HD (5)
+#EXTINF:-1 group-title="Turkey VAVOO",NICKELODEON HD (6)
 https://vavoo.to/vavoo-iptv/play/503443750d4adaa3772e8
 #EXTINF:-1 group-title="Turkey VAVOO",NILOYA HD+
 https://vavoo.to/vavoo-iptv/play/692811579f95ab595b603
@@ -16297,6 +16347,8 @@ https://vavoo.to/vavoo-iptv/play/386858202535408958c42e
 https://vavoo.to/vavoo-iptv/play/27868531047ce3c7e0c624
 #EXTINF:-1 group-title="Turkey VAVOO",T.A.Y TV
 https://vavoo.to/vavoo-iptv/play/363376564553c0e5fb6262
+#EXTINF:-1 group-title="Turkey VAVOO",TABII SPOR 1 4K
+https://vavoo.to/vavoo-iptv/play/38306913165380d4cf64db
 #EXTINF:-1 group-title="Turkey VAVOO",TABII SPOR 1 720P
 https://vavoo.to/vavoo-iptv/play/36659147631b81d08d6c82
 #EXTINF:-1 group-title="Turkey VAVOO",TABII SPOR 1 UHD
@@ -16315,6 +16367,10 @@ https://vavoo.to/vavoo-iptv/play/13759861713a771b4b4726
 https://vavoo.to/vavoo-iptv/play/408817539739fafefc9d3b
 #EXTINF:-1 group-title="Turkey VAVOO",TABII SPOR 5 HD
 https://vavoo.to/vavoo-iptv/play/26619334135baa08b0bc1a
+#EXTINF:-1 group-title="Turkey VAVOO",TABII SPOR 5 UHD
+https://vavoo.to/vavoo-iptv/play/383933219867eefb660622
+#EXTINF:-1 group-title="Turkey VAVOO",TABII SPOR 6 HD
+https://vavoo.to/vavoo-iptv/play/270984838ca5cfbf75daa
 #EXTINF:-1 group-title="Turkey VAVOO",TABII SPOR 6 UHD
 https://vavoo.to/vavoo-iptv/play/37137089631c97c5b7ef8f
 #EXTINF:-1 group-title="Turkey VAVOO",TABII SPOR HD
@@ -16445,7 +16501,7 @@ https://vavoo.to/vavoo-iptv/play/328164178659cf433d3442
 https://vavoo.to/vavoo-iptv/play/2675123009e882be009e84
 #EXTINF:-1 group-title="Turkey VAVOO",TMB (2)
 https://vavoo.to/vavoo-iptv/play/3465087001358304a0f232
-#EXTINF:-1 group-title="Turkey VAVOO",TOM & JERRY (2)
+#EXTINF:-1 group-title="Turkey VAVOO",TOM & JERRY (3)
 https://vavoo.to/vavoo-iptv/play/410018565922373c7100a2
 #EXTINF:-1 group-title="Turkey VAVOO",TON TV
 https://vavoo.to/vavoo-iptv/play/385559741691e8e41971e8
@@ -16708,8 +16764,6 @@ https://vavoo.to/vavoo-iptv/play/2730047464284a34ade8a0
 #EXTINF:-1 group-title="Turkey VAVOO",VIASAT EXPLORE (6)
 https://vavoo.to/vavoo-iptv/play/118325844000b303729ade
 #EXTINF:-1 group-title="Turkey VAVOO",VIASAT EXPLORE (7)
-https://vavoo.to/vavoo-iptv/play/10982410761d6faced1faa
-#EXTINF:-1 group-title="Turkey VAVOO",VIASAT EXPLORE (8)
 https://vavoo.to/vavoo-iptv/play/17854799144cbb1c340ac1
 #EXTINF:-1 group-title="Turkey VAVOO",VIASAT HISTORY (10)
 https://vavoo.to/vavoo-iptv/play/1900945213599b64fe115b
@@ -16767,11 +16821,15 @@ https://vavoo.to/vavoo-iptv/play/394501159c3596812d61e
 https://vavoo.to/vavoo-iptv/play/12401366196105d6b0425b
 #EXTINF:-1 group-title="Turkey VAVOO",YILDIZ TV EN
 https://vavoo.to/vavoo-iptv/play/18243160161485b6b186e7
+#EXTINF:-1 group-title="Turkey VAVOO",YILDIZ TV EN (2)
+https://vavoo.to/vavoo-iptv/play/18243160161485b6b186e7
 #EXTINF:-1 group-title="Turkey VAVOO",YOL TV
 https://vavoo.to/vavoo-iptv/play/36035801315c2c657f7f29
 #EXTINF:-1 group-title="Turkey VAVOO",YOL TV (2)
-https://vavoo.to/vavoo-iptv/play/1377055653aae1eccd061c
+https://vavoo.to/vavoo-iptv/play/36035801315c2c657f7f29
 #EXTINF:-1 group-title="Turkey VAVOO",YOL TV (3)
+https://vavoo.to/vavoo-iptv/play/1377055653aae1eccd061c
+#EXTINF:-1 group-title="Turkey VAVOO",YOL TV (4)
 https://vavoo.to/vavoo-iptv/play/10711660543c82502a97f7
 #EXTINF:-1 group-title="Turkey VAVOO",YOL TV SD
 https://vavoo.to/vavoo-iptv/play/607077155292bdb1bc79a
@@ -16819,8 +16877,6 @@ https://vavoo.to/vavoo-iptv/play/33312680479e651e4b95d3
 https://vavoo.to/vavoo-iptv/play/3806225604e351ddd1669f
 #EXTINF:-1 group-title="United Kingdom VAVOO",AL JAZEERA (2)
 https://vavoo.to/vavoo-iptv/play/937337463bdc41111006
-#EXTINF:-1 group-title="United Kingdom VAVOO",AL JAZEERA HD
-https://vavoo.to/vavoo-iptv/play/15056796381235e0980b2d
 #EXTINF:-1 group-title="United Kingdom VAVOO",ALIBI
 https://vavoo.to/vavoo-iptv/play/139689462111d50893bd12
 #EXTINF:-1 group-title="United Kingdom VAVOO",ALJAZEERA NEWS
@@ -16847,7 +16903,7 @@ https://vavoo.to/vavoo-iptv/play/152035246923ac21a773ec
 https://vavoo.to/vavoo-iptv/play/383819062616ebab8da30b
 #EXTINF:-1 group-title="United Kingdom VAVOO",B4U PLUS (2)
 https://vavoo.to/vavoo-iptv/play/1051063026bc9659becffc
-#EXTINF:-1 group-title="United Kingdom VAVOO",BABY TV (19)
+#EXTINF:-1 group-title="United Kingdom VAVOO",BABY TV (21)
 https://vavoo.to/vavoo-iptv/play/288050100596cee3ea3d65
 #EXTINF:-1 group-title="United Kingdom VAVOO",BABY TV UK
 https://vavoo.to/vavoo-iptv/play/3305807951c41d3269b430
@@ -16941,8 +16997,6 @@ https://vavoo.to/vavoo-iptv/play/3241634213ce11ec413215
 https://vavoo.to/vavoo-iptv/play/244918217714dad8496dfb
 #EXTINF:-1 group-title="United Kingdom VAVOO",BOX NATION (BACKUP)
 https://vavoo.to/vavoo-iptv/play/3916244172746880fe4783
-#EXTINF:-1 group-title="United Kingdom VAVOO",BRIT ASIA TV
-https://vavoo.to/vavoo-iptv/play/319114006853e7c9089907
 #EXTINF:-1 group-title="United Kingdom VAVOO",BT SPORT 1
 https://vavoo.to/vavoo-iptv/play/3872970879cc727bad3b22
 #EXTINF:-1 group-title="United Kingdom VAVOO",BT SPORT 1 (BACKUP)
@@ -17047,7 +17101,7 @@ https://vavoo.to/vavoo-iptv/play/36909062616fa3a271c912
 https://vavoo.to/vavoo-iptv/play/3076266170bfe0a1ca0913
 #EXTINF:-1 group-title="United Kingdom VAVOO",COMEDY CENTRAL (14)
 https://vavoo.to/vavoo-iptv/play/6127866053a0bdbe1f0e8
-#EXTINF:-1 group-title="United Kingdom VAVOO",COMEDY CENTRAL EXTRA (3)
+#EXTINF:-1 group-title="United Kingdom VAVOO",COMEDY CENTRAL EXTRA (4)
 https://vavoo.to/vavoo-iptv/play/238077825d1a297c08730
 #EXTINF:-1 group-title="United Kingdom VAVOO",CRAFT EXTRA
 https://vavoo.to/vavoo-iptv/play/106516558104d5c71cd28a
@@ -17089,9 +17143,9 @@ https://vavoo.to/vavoo-iptv/play/454135378978614203796
 https://vavoo.to/vavoo-iptv/play/408461551717ccc5b88f28
 #EXTINF:-1 group-title="United Kingdom VAVOO",DISNEY JUNIOR (9)
 https://vavoo.to/vavoo-iptv/play/4020316698ffe2410aa9ff
-#EXTINF:-1 group-title="United Kingdom VAVOO",DISNEY XD (7)
+#EXTINF:-1 group-title="United Kingdom VAVOO",DISNEY XD (6)
 https://vavoo.to/vavoo-iptv/play/16432978714b8bb29ccad6
-#EXTINF:-1 group-title="United Kingdom VAVOO",DISNEY XD (8)
+#EXTINF:-1 group-title="United Kingdom VAVOO",DISNEY XD (7)
 https://vavoo.to/vavoo-iptv/play/2449536426596862547c9a
 #EXTINF:-1 group-title="United Kingdom VAVOO",DMAX (10)
 https://vavoo.to/vavoo-iptv/play/285095108763740ae01b08
@@ -17153,9 +17207,9 @@ https://vavoo.to/vavoo-iptv/play/22908047229b55a4696c9a
 https://vavoo.to/vavoo-iptv/play/36187716557d268bc20a9f
 #EXTINF:-1 group-title="United Kingdom VAVOO",EUROSPORT 1 HD (7)
 https://vavoo.to/vavoo-iptv/play/2737624792dea68aab9be4
-#EXTINF:-1 group-title="United Kingdom VAVOO",EUROSPORT 2 (23)
-https://vavoo.to/vavoo-iptv/play/3475676450e1ab57de5c62
 #EXTINF:-1 group-title="United Kingdom VAVOO",EUROSPORT 2 (24)
+https://vavoo.to/vavoo-iptv/play/3475676450e1ab57de5c62
+#EXTINF:-1 group-title="United Kingdom VAVOO",EUROSPORT 2 (25)
 https://vavoo.to/vavoo-iptv/play/241712539942169ffac25d
 #EXTINF:-1 group-title="United Kingdom VAVOO",EUROSPORT 2 HD (6)
 https://vavoo.to/vavoo-iptv/play/765710651582e3e457cd8
@@ -17177,7 +17231,7 @@ https://vavoo.to/vavoo-iptv/play/2569489873183932a6c8c4
 https://vavoo.to/vavoo-iptv/play/41494490712e61660d19be
 #EXTINF:-1 group-title="United Kingdom VAVOO",FOODXP
 https://vavoo.to/vavoo-iptv/play/2072991452b9931267347a
-#EXTINF:-1 group-title="United Kingdom VAVOO",FOX (13)
+#EXTINF:-1 group-title="United Kingdom VAVOO",FOX (14)
 https://vavoo.to/vavoo-iptv/play/2107712260c10ca884c446
 #EXTINF:-1 group-title="United Kingdom VAVOO",FOX NEWS
 https://vavoo.to/vavoo-iptv/play/2755612747efccdb2b107e
@@ -17323,7 +17377,7 @@ https://vavoo.to/vavoo-iptv/play/1252754905aca6cf957d58
 https://vavoo.to/vavoo-iptv/play/24050957327bd1180ee129
 #EXTINF:-1 group-title="United Kingdom VAVOO",KICC TV
 https://vavoo.to/vavoo-iptv/play/139311525745b1563858ec
-#EXTINF:-1 group-title="United Kingdom VAVOO",KIDS (4)
+#EXTINF:-1 group-title="United Kingdom VAVOO",KIDS (3)
 https://vavoo.to/vavoo-iptv/play/386737027097d4f5e797d0
 #EXTINF:-1 group-title="United Kingdom VAVOO",KISS
 https://vavoo.to/vavoo-iptv/play/4166013245ebfc5a805440
@@ -17385,7 +17439,7 @@ https://vavoo.to/vavoo-iptv/play/3819038124227bf4f65d5c
 https://vavoo.to/vavoo-iptv/play/253455748562c14e6f8b1b
 #EXTINF:-1 group-title="United Kingdom VAVOO",NAT GEO WILD (24)
 https://vavoo.to/vavoo-iptv/play/246896251191e693d4609d
-#EXTINF:-1 group-title="United Kingdom VAVOO",NATIONAL GEOGRAPHIC (4)
+#EXTINF:-1 group-title="United Kingdom VAVOO",NATIONAL GEOGRAPHIC (5)
 https://vavoo.to/vavoo-iptv/play/347287580520c8c124386c
 #EXTINF:-1 group-title="United Kingdom VAVOO",NDTV 24X7
 https://vavoo.to/vavoo-iptv/play/18595404443b237767936b
@@ -17396,16 +17450,18 @@ https://vavoo.to/vavoo-iptv/play/545089696a5997218fba8
 #EXTINF:-1 group-title="United Kingdom VAVOO",NICK JR (12)
 https://vavoo.to/vavoo-iptv/play/1472512000af7a09b9c489
 #EXTINF:-1 group-title="United Kingdom VAVOO",NICK JR TOO
+https://vavoo.to/vavoo-iptv/play/72721134880f12e20b755
+#EXTINF:-1 group-title="United Kingdom VAVOO",NICK JR TOO (2)
 https://vavoo.to/vavoo-iptv/play/19524916174dcbcadf18d5
 #EXTINF:-1 group-title="United Kingdom VAVOO",NICK JUNIOR (8)
 https://vavoo.to/vavoo-iptv/play/337718313a14120c52d4c
-#EXTINF:-1 group-title="United Kingdom VAVOO",NICKELODEON (24)
+#EXTINF:-1 group-title="United Kingdom VAVOO",NICKELODEON (23)
 https://vavoo.to/vavoo-iptv/play/406235616455f438a9bb72
-#EXTINF:-1 group-title="United Kingdom VAVOO",NICKELODEON (25)
+#EXTINF:-1 group-title="United Kingdom VAVOO",NICKELODEON (24)
 https://vavoo.to/vavoo-iptv/play/2904184817215153f410a2
-#EXTINF:-1 group-title="United Kingdom VAVOO",NICKTOONS (7)
-https://vavoo.to/vavoo-iptv/play/1756114272e4aafe831eb2
 #EXTINF:-1 group-title="United Kingdom VAVOO",NICKTOONS (8)
+https://vavoo.to/vavoo-iptv/play/1756114272e4aafe831eb2
+#EXTINF:-1 group-title="United Kingdom VAVOO",NICKTOONS (9)
 https://vavoo.to/vavoo-iptv/play/260665459732dd9de635b3
 #EXTINF:-1 group-title="United Kingdom VAVOO",NOOR TV
 https://vavoo.to/vavoo-iptv/play/2036686557069201c32984
@@ -17429,6 +17485,16 @@ https://vavoo.to/vavoo-iptv/play/7040249728f53e65ea560
 https://vavoo.to/vavoo-iptv/play/36577506330dd7b703ecaa
 #EXTINF:-1 group-title="United Kingdom VAVOO",PBS AMERICA
 https://vavoo.to/vavoo-iptv/play/3139430303d1bffef042d3
+#EXTINF:-1 group-title="United Kingdom VAVOO",PBS AMERICA (2)
+https://vavoo.to/vavoo-iptv/play/38277659300525e8d9339e
+#EXTINF:-1 group-title="United Kingdom VAVOO",PCNE CHINESE
+https://vavoo.to/vavoo-iptv/play/24787711952b4aebef97a2
+#EXTINF:-1 group-title="United Kingdom VAVOO",PEACE TV (4)
+https://vavoo.to/vavoo-iptv/play/35138327943d252ec6e33a
+#EXTINF:-1 group-title="United Kingdom VAVOO",PICK
+https://vavoo.to/vavoo-iptv/play/23283390969c30b2636c62
+#EXTINF:-1 group-title="United Kingdom VAVOO",PICK (2)
+https://vavoo.to/vavoo-iptv/play/3487062068d738441a33a4
 #EXTINF:-1 group-title="United Kingdom VAVOO",PICK+1
 https://vavoo.to/vavoo-iptv/play/2854656717f7c9003c0ca4
 #EXTINF:-1 group-title="United Kingdom VAVOO",PITAARA
@@ -17533,13 +17599,17 @@ https://vavoo.to/vavoo-iptv/play/2454851673c43bbea1a542
 https://vavoo.to/vavoo-iptv/play/26740224556181385ada2
 #EXTINF:-1 group-title="United Kingdom VAVOO",SKY ATLANTIC (6)
 https://vavoo.to/vavoo-iptv/play/1978603272ea7c48dc1d6
+#EXTINF:-1 group-title="United Kingdom VAVOO",SKY CINEMA ACTION & ADVENTURE
+https://vavoo.to/vavoo-iptv/play/2076828992fca12b8e89eb
 #EXTINF:-1 group-title="United Kingdom VAVOO",SKY CINEMA ACTION (5)
 https://vavoo.to/vavoo-iptv/play/1618904678c7bdd1ee6568
 #EXTINF:-1 group-title="United Kingdom VAVOO",SKY CINEMA ACTION (6)
 https://vavoo.to/vavoo-iptv/play/198546856792dee23a591f
 #EXTINF:-1 group-title="United Kingdom VAVOO",SKY CINEMA ANIMATION
 https://vavoo.to/vavoo-iptv/play/1774035442e210533fa1d
-#EXTINF:-1 group-title="United Kingdom VAVOO",SKY CINEMA COMEDY (3)
+#EXTINF:-1 group-title="United Kingdom VAVOO",SKY CINEMA COMEDY (4)
+https://vavoo.to/vavoo-iptv/play/26662907944db45407b4d3
+#EXTINF:-1 group-title="United Kingdom VAVOO",SKY CINEMA COMEDY (5)
 https://vavoo.to/vavoo-iptv/play/2294612123b39a06a93d03
 #EXTINF:-1 group-title="United Kingdom VAVOO",SKY CINEMA DISNEY
 https://vavoo.to/vavoo-iptv/play/294024623943b6036df424
@@ -17583,8 +17653,6 @@ https://vavoo.to/vavoo-iptv/play/2394496737aa81a6dd5abb
 https://vavoo.to/vavoo-iptv/play/15835255206109caea204
 #EXTINF:-1 group-title="United Kingdom VAVOO",SKY NEWS
 https://vavoo.to/vavoo-iptv/play/261085535435dd768e8ff9
-#EXTINF:-1 group-title="United Kingdom VAVOO",SKY NEWS (2)
-https://vavoo.to/vavoo-iptv/play/1872744987a405ded802d1
 #EXTINF:-1 group-title="United Kingdom VAVOO",SKY NEWS (BACKUP)
 https://vavoo.to/vavoo-iptv/play/119539989712fb87bf8b4c
 #EXTINF:-1 group-title="United Kingdom VAVOO",SKY SCI-FI & HORROR
@@ -17660,7 +17728,11 @@ https://vavoo.to/vavoo-iptv/play/3229984982098a52ae20cd
 #EXTINF:-1 group-title="United Kingdom VAVOO",SKY SPORTS GOLF HD
 https://vavoo.to/vavoo-iptv/play/292012930287070ba849c0
 #EXTINF:-1 group-title="United Kingdom VAVOO",SKY SPORTS MAIN EVENT
+https://vavoo.to/vavoo-iptv/play/10796207709129481d044e
+#EXTINF:-1 group-title="United Kingdom VAVOO",SKY SPORTS MAIN EVENT (2)
 https://vavoo.to/vavoo-iptv/play/67427762708663665a2e3
+#EXTINF:-1 group-title="United Kingdom VAVOO",SKY SPORTS MAIN EVENT HD
+https://vavoo.to/vavoo-iptv/play/1104967001280d6b7c6217
 #EXTINF:-1 group-title="United Kingdom VAVOO",SKY SPORTS MIX
 https://vavoo.to/vavoo-iptv/play/1694085323bf096cb8f33f
 #EXTINF:-1 group-title="United Kingdom VAVOO",SKY SPORTS MIX (2)
@@ -17697,6 +17769,8 @@ https://vavoo.to/vavoo-iptv/play/16107809566667fbacbd44
 https://vavoo.to/vavoo-iptv/play/1770964081fbddf605065b
 #EXTINF:-1 group-title="United Kingdom VAVOO",SKYS PORTS FOOTBALL
 https://vavoo.to/vavoo-iptv/play/34562830327e28c806dd3d
+#EXTINF:-1 group-title="United Kingdom VAVOO",SKYS PORTS MAIN EVENT
+https://vavoo.to/vavoo-iptv/play/325190310529f5ca3880c1
 #EXTINF:-1 group-title="United Kingdom VAVOO",SONY CHANNEL (2)
 https://vavoo.to/vavoo-iptv/play/3024378683978cfd69a714
 #EXTINF:-1 group-title="United Kingdom VAVOO",SONY MAX
