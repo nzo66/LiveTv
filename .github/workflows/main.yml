@@ -26,10 +26,6 @@ jobs:
       - name: Run Compiled Script
         run: |
           python m3u.py
-
-      - name: Run converter Script
-        run: |
-          python m3utojson.py
       
       - name: Configura Git
         run: |
