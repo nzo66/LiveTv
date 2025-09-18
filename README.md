@@ -1,9 +1,6 @@
 ## Playlist Description
 - **DLHD (daddylivehd)** → Includes **all 24/7 channels** plus **live events** (sports, shows, etc.).  
 - **VAVOO** → Includes **channels from all around the world**, covering multiple countries and genres.
-- **TVTAP** → Includes **channels from all around the world**, covering multiple countries and genres. 
-
-  **TVTAP also works without proxy.**
 
 ---
 
@@ -27,6 +24,7 @@ This proxy is required to ensure proper access and functionality.
 ---
 
 💡 **Tip:** If you want to merge both the **DLHD** and **VAVOO** playlists into a single combined list, you can do it easily through **easyproxy** or **mediaflow-proxy** — it supports merging multiple lists into one unified output.
+
 
 
 
