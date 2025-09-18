@@ -112,7 +112,7 @@ if __name__ == "__main__":
         m3u_content = f.read()
 
     json_result = m3u_to_nested_json_with_headers(m3u_content)
-    with open("playlist_nested_with_headers.json", "w", encoding="utf-8") as f:
+    with open("dhlh.json", "w", encoding="utf-8") as f:
         json.dump(json_result, f, indent=2, ensure_ascii=False)
 
-    print("Conversione completata: playlist_nested_with_headers.json")
+    print("Conversione completata: dlhd.json")
