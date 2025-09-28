@@ -47,39 +47,25 @@ def dlhd():
 
     # ========== ESTRAZIONE CANALI 24/7 ==========
     print("Estraendo canali 24/7...")
-    url = "https://dlhd.dad/24-7-channels.php"
+    json_url = "https://dlhd.dad/daddy.json"
 
     try:
-        # Aggiunto verify=False per bypassare l'errore di verifica del certificato SSL
-        response = requests.get(url, headers=HEADERS, timeout=15, verify=False)
+        response = requests.get(json_url, headers=HEADERS, timeout=15, verify=False)
         response.raise_for_status()
-        html = response.text
-
-        soup = BeautifulSoup(html, "html.parser")
+        data = response.json()
+ 
         channels_247 = []
-        seen_names = set()
  
-        # La struttura della pagina è cambiata. Ora i canali sono link <a> con classe "card".
-        channel_cards = soup.find_all("a", class_="card")
- 
-        for card in channel_cards:
-            href = card.get("href")
-            title_div = card.find("div", class_="card__title")
- 
-            if not href or not title_div:
+        for channel in data:
+            name = channel.get("channel_name")
+            channel_id = channel.get("channel_id")
+            if not name or not channel_id:
                 continue
  
-            name = title_div.get_text(strip=True)
- 
-            if name == "LA7d HD+ Italy":
-                name = "Canale 5 Italy"
             if name == "Sky Calcio 7 (257) Italy":
                 name = "DAZN"
- 
-            match = re.search(r'id=(\d+)', href)
-            if not match:
-                continue
-            channel_id = match.group(1)
+            if channel_id == "853":
+                name = "Canale 5 Italy"
             stream_url = f"https://dlhd.dad/watch.php?id={channel_id}"
             channels_247.append((name, stream_url))
 
