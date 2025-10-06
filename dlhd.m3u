@@ -106,9 +106,6 @@ https://ava.karmakurama.com/dokko1/premium539/mono.m3u8
 https://ava.karmakurama.com/ddy6/premium455/mono.m3u8
 
 #EXTINF:-1 group-title="Live Events",Soccer | Spain - Segunda Division : Cultural Leonesa vs Albacete (18:30)
-https://dlhd.dad/watch.php?id=1024
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - Segunda Division : Cultural Leonesa vs Albacete (18:30)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
@@ -167,9 +164,6 @@ https://ava.karmakurama.com/zeko/premium910/mono.m3u8
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/zeko/premium35/mono.m3u8
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Two : Harrogate Town vs Crewe Alexandra (19:00)
-https://dlhd.dad/watch.php?id=1023
 
 #EXTINF:-1 group-title="Live Events",Soccer | England - League Two : Harrogate Town vs Crewe Alexandra (19:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -351,12 +345,6 @@ https://ava.karmakurama.com/ddy6/premium494/mono.m3u8
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/nfs/premium133/mono.m3u8
 
-#EXTINF:-1 group-title="Live Events",Basketball | ABA League : Dubai vs Split (15:00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
-#EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/ddy6/premium135/mono.m3u8
-
 #EXTINF:-1 group-title="Live Events",Basketball | Slovenian league : Podčetrtek vs Šenčur (15:30)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
@@ -459,12 +447,6 @@ https://ava.karmakurama.com/nfs/premium6/mono.m3u8
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/zeko/premium905/mono.m3u8
 
-#EXTINF:-1 group-title="Live Events",Futsal | Romania, Liga 1 : Acs West Deva vs. Acs Sepsi Sic (15:00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
-#EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/nfs/premium402/mono.m3u8
-
 #EXTINF:-1 group-title="Live Events",Darts | PDC Darts 8x First Round Matches - Mattioli Arena, Leicester (17:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
@@ -526,7 +508,10 @@ https://ava.karmakurama.com/wind/premium50/mono.m3u8
 https://ava.karmakurama.com/wind/premium431/mono.m3u8
 
 #EXTINF:-1 group-title="Live Events",Volleyball | Serie A1 Women : Busto Arsizio W vs Conegliano W (18:30)
-https://dlhd.dad/watch.php?id=882
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/ddy6/premium882/mono.m3u8
 
 #EXTINF:-1 group-title="Live Events",Volleyball | Serie A1 Women : Monza W vs Bergamo W (18:30)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -551,447 +536,6 @@ https://ava.karmakurama.com/nfs/premium9/mono.m3u8
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/nfs/premium10/mono.m3u8
-
-#EXTINF:-1 group-title="Live Events",All matches | Ekaterina Alexandrova·Victoria Mboko (14:55)
-https://dlhd.dad/watch.php?id=8747331
-
-#EXTINF:-1 group-title="Live Events",All matches | Torreense U23·Estrela Amadora U23 (15:00)
-https://dlhd.dad/watch.php?id=8664514
-
-#EXTINF:-1 group-title="Live Events",All matches | Otelul Galati·Metaloglobus Bucuresti (15:30)
-https://dlhd.dad/watch.php?id=8236768
-
-#EXTINF:-1 group-title="Live Events",All matches | Petros Tsitsipas·Robert Strombachs (15:30)
-https://dlhd.dad/watch.php?id=8748784
-
-#EXTINF:-1 group-title="Live Events",All matches | Matej Dodig·Christopher Eubanks (15:30)
-https://dlhd.dad/watch.php?id=8749375
-
-#EXTINF:-1 group-title="Live Events",All matches | Glauco Pinheiro da Cruz Junior·Breno Braga (15:41)
-https://dlhd.dad/watch.php?id=8756621
-
-#EXTINF:-1 group-title="Live Events",All matches | Semen Pankin·Maxwell Castle (15:45)
-https://dlhd.dad/watch.php?id=8743903
-
-#EXTINF:-1 group-title="Live Events",All matches | Andrea Lazaro Garcia·Tamara Zidansek (15:45)
-https://dlhd.dad/watch.php?id=8747587
-
-#EXTINF:-1 group-title="Live Events",All matches | Ema Harajda·Nina Radovanovic (15:55)
-https://dlhd.dad/watch.php?id=8743926
-
-#EXTINF:-1 group-title="Live Events",All matches | ETHA Engomis·Anorthosis Famagusta (16:00)
-https://dlhd.dad/watch.php?id=8652176
-
-#EXTINF:-1 group-title="Live Events",All matches | BC Dubai·Split (16:00)
-https://dlhd.dad/watch.php?id=8664538
-
-#EXTINF:-1 group-title="Live Events",All matches | Diletta Cherubini·Chloe Noel (16:00)
-https://dlhd.dad/watch.php?id=8756798
-
-#EXTINF:-1 group-title="Live Events",All matches | Christasha McNeil·Ashley Lahey (16:01)
-https://dlhd.dad/watch.php?id=8756802
-
-#EXTINF:-1 group-title="Live Events",All matches | Julieta Pareja·Alina Shcherbinina (16:03)
-https://dlhd.dad/watch.php?id=8756793
-
-#EXTINF:-1 group-title="Live Events",All matches | Valeriya Strakhova·Edda Mamedova (16:05)
-https://dlhd.dad/watch.php?id=8756795
-
-#EXTINF:-1 group-title="Live Events",All matches | Ryan Augusto dos Santos·Gabriel Batagin (16:08)
-https://dlhd.dad/watch.php?id=8756622
-
-#EXTINF:-1 group-title="Live Events",All matches | Rafael Tosetto·Laelson Rodrigues (16:08)
-https://dlhd.dad/watch.php?id=8756627
-
-#EXTINF:-1 group-title="Live Events",All matches | Victor Alvares de Castro Rocha·Andre Souza (16:20)
-https://dlhd.dad/watch.php?id=8756624
-
-#EXTINF:-1 group-title="Live Events",All matches | Podcetrtek·Sencur (16:30)
-https://dlhd.dad/watch.php?id=8652679
-
-#EXTINF:-1 group-title="Live Events",All matches | Thiago Agustin Tirante·Aristotelis Thanos (16:35)
-https://dlhd.dad/watch.php?id=8755075
-
-#EXTINF:-1 group-title="Live Events",All matches | Luciano Emanuel Ambrogi·Benjamin Torrealba (16:35)
-https://dlhd.dad/watch.php?id=8755081
-
-#EXTINF:-1 group-title="Live Events",All matches | Juan Bautista Torres·Ignacio Monzon (16:35)
-https://dlhd.dad/watch.php?id=8755082
-
-#EXTINF:-1 group-title="Live Events",All matches | Julia Stusek·Oksana Selekhmeteva (16:41)
-https://dlhd.dad/watch.php?id=8747591
-
-#EXTINF:-1 group-title="Live Events",All matches | Azoty Pulawy·Piotrkow Trybunalski (17:00)
-https://dlhd.dad/watch.php?id=8639776
-
-#EXTINF:-1 group-title="Live Events",All matches | AEK Larnaca·Keravnos Strovolou (17:00)
-https://dlhd.dad/watch.php?id=8652178
-
-#EXTINF:-1 group-title="Live Events",All matches | Gorna Oryahovitsa·FC Fratria Varna (17:00)
-https://dlhd.dad/watch.php?id=8664524
-
-#EXTINF:-1 group-title="Live Events",All matches | Hamburger SV (F)·Hoffenheim (F) (17:00)
-https://dlhd.dad/watch.php?id=8664536
-
-#EXTINF:-1 group-title="Live Events",All matches | Partizan·Krka (17:00)
-https://dlhd.dad/watch.php?id=8664539
-
-#EXTINF:-1 group-title="Live Events",All matches | Fenerbahce·Petkim Spor (17:00)
-https://dlhd.dad/watch.php?id=8723737
-
-#EXTINF:-1 group-title="Live Events",All matches | Agustin Mastri·Charlie Swaine (17:00)
-https://dlhd.dad/watch.php?id=8742528
-
-#EXTINF:-1 group-title="Live Events",All matches | Pedro Martinez·Albert Ramos Vinolas (17:00)
-https://dlhd.dad/watch.php?id=8749662
-
-#EXTINF:-1 group-title="Live Events",All matches | Sofia Elena Cabezas Dominguez·Jiangxue Han (17:11)
-https://dlhd.dad/watch.php?id=8756803
-
-#EXTINF:-1 group-title="Live Events",All matches | Lokomotiv Plovdiv 1926·Cherno More (17:15)
-https://dlhd.dad/watch.php?id=8664540
-
-#EXTINF:-1 group-title="Live Events",All matches | Alana Smith·Sophie Llewellyn (17:18)
-https://dlhd.dad/watch.php?id=8756800
-
-#EXTINF:-1 group-title="Live Events",All matches | Draginja Vukovic·Sara Gvozdenovic (17:20)
-https://dlhd.dad/watch.php?id=8743409
-
-#EXTINF:-1 group-title="Live Events",All matches | Lillehammer·Narvik (17:30)
-https://dlhd.dad/watch.php?id=8664542
-
-#EXTINF:-1 group-title="Live Events",All matches | Sean Daryabeigi·James Weber (17:30)
-https://dlhd.dad/watch.php?id=8743552
-
-#EXTINF:-1 group-title="Live Events",All matches | Tom Paris·Otto Virtanen (17:30)
-https://dlhd.dad/watch.php?id=8749374
-
-#EXTINF:-1 group-title="Live Events",All matches | Aleksandr Kalinin·Charlie Swaine (17:30)
-https://dlhd.dad/watch.php?id=8755826
-
-#EXTINF:-1 group-title="Live Events",All matches | Maria Berlanga Bandera·Evialina Laskevich (17:31)
-https://dlhd.dad/watch.php?id=8756796
-
-#EXTINF:-1 group-title="Live Events",All matches | Guido Ivan Justo·Ryan Dickerson (17:40)
-https://dlhd.dad/watch.php?id=8755756
-
-#EXTINF:-1 group-title="Live Events",All matches | Mariano Kestelboim·Sebastian Gima (17:40)
-https://dlhd.dad/watch.php?id=8755904
-
-#EXTINF:-1 group-title="Live Events",All matches | J.A.Hernandez Serrano·Mateus Alves (17:40)
-https://dlhd.dad/watch.php?id=8755905
-
-#EXTINF:-1 group-title="Live Events",All matches | Sandviken IF·Orgryte (18:00)
-https://dlhd.dad/watch.php?id=8664546
-
-#EXTINF:-1 group-title="Live Events",All matches | Jonkopings Sodra·Skovde AIK (18:00)
-https://dlhd.dad/watch.php?id=8664548
-
-#EXTINF:-1 group-title="Live Events",All matches | Hvidovre·Lyngby (18:00)
-https://dlhd.dad/watch.php?id=8664553
-
-#EXTINF:-1 group-title="Live Events",All matches | Frederikshavn White Hawks·Herning Blue Fox (18:00)
-https://dlhd.dad/watch.php?id=8664554
-
-#EXTINF:-1 group-title="Live Events",All matches | Tess Bucher·Ariel Johnson (18:00)
-https://dlhd.dad/watch.php?id=8742241
-
-#EXTINF:-1 group-title="Live Events",All matches | Zachary Cohen·David Saye (18:00)
-https://dlhd.dad/watch.php?id=8743541
-
-#EXTINF:-1 group-title="Live Events",All matches | Ellison Reynoldson·Elizabeth Isyanov (18:00)
-https://dlhd.dad/watch.php?id=8744108
-
-#EXTINF:-1 group-title="Live Events",All matches | Landskrona·Varberg BoIS (18:00)
-https://dlhd.dad/watch.php?id=8747598
-
-#EXTINF:-1 group-title="Live Events",All matches | Jp Day·Rush Slivjanovski (18:00)
-https://dlhd.dad/watch.php?id=8750377
-
-#EXTINF:-1 group-title="Live Events",All matches | Justin Boulais·Evan Bynoe (18:00)
-https://dlhd.dad/watch.php?id=8755597
-
-#EXTINF:-1 group-title="Live Events",All matches | Kenta Miyoshi·Quinn Vandecasteele (18:00)
-https://dlhd.dad/watch.php?id=8755757
-
-#EXTINF:-1 group-title="Live Events",All matches | Spencer Johnson·Jay Dylan Hara Friend (18:00)
-https://dlhd.dad/watch.php?id=8755823
-
-#EXTINF:-1 group-title="Live Events",All matches | Tomas Martinez·Enzo Camargo Lima (18:00)
-https://dlhd.dad/watch.php?id=8756617
-
-#EXTINF:-1 group-title="Live Events",All matches | Billy Suarez·Carlos Eduardo Lino (18:00)
-https://dlhd.dad/watch.php?id=8756619
-
-#EXTINF:-1 group-title="Live Events",All matches | Sloga Uppsala·Umea IK (18:04)
-https://dlhd.dad/watch.php?id=8664557
-
-#EXTINF:-1 group-title="Live Events",All matches | Anastasia Tikhonova·Abigail Rencheli (18:18)
-https://dlhd.dad/watch.php?id=8756799
-
-#EXTINF:-1 group-title="Live Events",All matches | Martina Okalova·Ava Markham (18:22)
-https://dlhd.dad/watch.php?id=8756797
-
-#EXTINF:-1 group-title="Live Events",All matches | Botosani·UTA Arad (18:30)
-https://dlhd.dad/watch.php?id=8236763
-
-#EXTINF:-1 group-title="Live Events",All matches | Lubeck Schwartau·Huttenberg (18:30)
-https://dlhd.dad/watch.php?id=8551222
-
-#EXTINF:-1 group-title="Live Events",All matches | Julia Garcia Ruiz·Ellie Schoppe (18:31)
-https://dlhd.dad/watch.php?id=8756670
-
-#EXTINF:-1 group-title="Live Events",All matches | Sahaja Yamalapalli·Dalayna Hewitt (18:35)
-https://dlhd.dad/watch.php?id=8756669
-
-#EXTINF:-1 group-title="Live Events",All matches | Filip Misolic·Henry Bernet (18:40)
-https://dlhd.dad/watch.php?id=8749371
-
-#EXTINF:-1 group-title="Live Events",All matches | Le Mans·Paris (19:00)
-https://dlhd.dad/watch.php?id=8664561
-
-#EXTINF:-1 group-title="Live Events",All matches | Virtus Bologna·Napoli (19:00)
-https://dlhd.dad/watch.php?id=8664562
-
-#EXTINF:-1 group-title="Live Events",All matches | Crvena Zvezda·Zadar (19:00)
-https://dlhd.dad/watch.php?id=8664565
-
-#EXTINF:-1 group-title="Live Events",All matches | Vitesse Arnhem·Den Bosch (19:00)
-https://dlhd.dad/watch.php?id=8681550
-
-#EXTINF:-1 group-title="Live Events",All matches | Electrico·Torreense (19:00)
-https://dlhd.dad/watch.php?id=8687061
-
-#EXTINF:-1 group-title="Live Events",All matches | Atakan Karahan·Noa Vukadin (19:00)
-https://dlhd.dad/watch.php?id=8742463
-
-#EXTINF:-1 group-title="Live Events",All matches | Max Stenzer·Romain Gales (19:00)
-https://dlhd.dad/watch.php?id=8743569
-
-#EXTINF:-1 group-title="Live Events",All matches | Pedro Henrique Chabalgoity·Lorenzo Joaquin Rodriguez (19:00)
-https://dlhd.dad/watch.php?id=8756616
-
-#EXTINF:-1 group-title="Live Events",All matches | Ignacio Carou·Igor Gimenez (19:00)
-https://dlhd.dad/watch.php?id=8756782
-
-#EXTINF:-1 group-title="Live Events",All matches | Edward Winter·Jacob Brumm (19:10)
-https://dlhd.dad/watch.php?id=8755945
-
-#EXTINF:-1 group-title="Live Events",All matches | Strong Kirchheimer·Roger Pascual Ferra (19:10)
-https://dlhd.dad/watch.php?id=8755958
-
-#EXTINF:-1 group-title="Live Events",All matches | Darian King·Gus Grumet (19:10)
-https://dlhd.dad/watch.php?id=8756608
-
-#EXTINF:-1 group-title="Live Events",All matches | Mary Lewis·Dana Guzman (19:18)
-https://dlhd.dad/watch.php?id=8756804
-
-#EXTINF:-1 group-title="Live Events",All matches | Cultural Leonesa·Albacete (19:30)
-https://dlhd.dad/watch.php?id=8242150
-
-#EXTINF:-1 group-title="Live Events",All matches | Stal Mielec·Gwardia Opole (19:30)
-https://dlhd.dad/watch.php?id=8700623
-
-#EXTINF:-1 group-title="Live Events",All matches | Rose Seccia·Brooke Lynn Schafer (19:30)
-https://dlhd.dad/watch.php?id=8742247
-
-#EXTINF:-1 group-title="Live Events",All matches | Jeremy Zhang·Mitchell Sheldon (19:30)
-https://dlhd.dad/watch.php?id=8743548
-
-#EXTINF:-1 group-title="Live Events",All matches | Carson Dwyer·Sasha Colleu (19:30)
-https://dlhd.dad/watch.php?id=8744102
-
-#EXTINF:-1 group-title="Live Events",All matches | Harrogate Town·Crewe Alexandra (20:00)
-https://dlhd.dad/watch.php?id=8664566
-
-#EXTINF:-1 group-title="Live Events",All matches | San Lorenzo de Almagro (F)·Olimpia Asuncion (F) (20:00)
-https://dlhd.dad/watch.php?id=8664586
-
-#EXTINF:-1 group-title="Live Events",All matches | Deportivo Cali  (F)·Club Nacional Montevideo (F) (20:00)
-https://dlhd.dad/watch.php?id=8700624
-
-#EXTINF:-1 group-title="Live Events",All matches | Ekaterina Ivanova·Andrea Nova (20:00)
-https://dlhd.dad/watch.php?id=8744302
-
-#EXTINF:-1 group-title="Live Events",All matches | Gonzalo Villanueva·Juan Pablo Ficovich (20:00)
-https://dlhd.dad/watch.php?id=8750422
-
-#EXTINF:-1 group-title="Live Events",All matches | Nikolas Sanchez Izquierdo·Andrea Collarini (20:00)
-https://dlhd.dad/watch.php?id=8750423
-
-#EXTINF:-1 group-title="Live Events",All matches | Nicolas Kicker·Hady Habib (20:00)
-https://dlhd.dad/watch.php?id=8750427
-
-#EXTINF:-1 group-title="Live Events",All matches | Oscar Pinto Sansano·Manuel Plunger (20:10)
-https://dlhd.dad/watch.php?id=8743565
-
-#EXTINF:-1 group-title="Live Events",All matches | Gabe Avram·John Hallquist Lithen (20:10)
-https://dlhd.dad/watch.php?id=8743572
-
-#EXTINF:-1 group-title="Live Events",All matches | Micah Braswell·Oliver Tarvet (20:30)
-https://dlhd.dad/watch.php?id=8751273
-
-#EXTINF:-1 group-title="Live Events",All matches | Cannon Kingsley·Andrew Fenty (20:30)
-https://dlhd.dad/watch.php?id=8755074
-
-#EXTINF:-1 group-title="Live Events",All matches | Tricia Mar·Yulia Zhytelna (21:00)
-https://dlhd.dad/watch.php?id=8742251
-
-#EXTINF:-1 group-title="Live Events",All matches | Diordan Macababbad·Adam Jilly (21:00)
-https://dlhd.dad/watch.php?id=8743542
-
-#EXTINF:-1 group-title="Live Events",All matches | Kelly Keller·Olive Maunupau (21:00)
-https://dlhd.dad/watch.php?id=8743584
-
-#EXTINF:-1 group-title="Live Events",All matches | Tianna Rangan·Ariel Madatali (21:00)
-https://dlhd.dad/watch.php?id=8744111
-
-#EXTINF:-1 group-title="Live Events",All matches | Benedict Graft·Evan Sharygin (21:00)
-https://dlhd.dad/watch.php?id=8749950
-
-#EXTINF:-1 group-title="Live Events",All matches | Santiago Rodriguez Taverna·Nicolas Zanellato (21:00)
-https://dlhd.dad/watch.php?id=8756618
-
-#EXTINF:-1 group-title="Live Events",All matches | Olivia Gadecki·Kristina Novak (21:00)
-https://dlhd.dad/watch.php?id=8756667
-
-#EXTINF:-1 group-title="Live Events",All matches | Alexandra Osborne·Maria Kozyreva (21:00)
-https://dlhd.dad/watch.php?id=8756801
-
-#EXTINF:-1 group-title="Live Events",All matches | Samuel Alejandro Linde Palacios·Gonzalo Bueno (21:10)
-https://dlhd.dad/watch.php?id=8750426
-
-#EXTINF:-1 group-title="Live Events",All matches | Atletico Huila·Barranquilla (21:30)
-https://dlhd.dad/watch.php?id=8664594
-
-#EXTINF:-1 group-title="Live Events",All matches | Andre Ilagan·Kaylan Bigun (21:40)
-https://dlhd.dad/watch.php?id=8751272
-
-#EXTINF:-1 group-title="Live Events",All matches | Mats Rosenkranz·Tristan Mccormick (21:40)
-https://dlhd.dad/watch.php?id=8751278
-
-#EXTINF:-1 group-title="Live Events",All matches | Henrik Bladelius·Massimo Pizzigoni (22:00)
-https://dlhd.dad/watch.php?id=8743551
-
-#EXTINF:-1 group-title="Live Events",All matches | Ivan Dreycopp·Edoardo Cherie Ligniere (22:00)
-https://dlhd.dad/watch.php?id=8743571
-
-#EXTINF:-1 group-title="Live Events",All matches | General Caballero JLM·Nacional Asuncion (22:30)
-https://dlhd.dad/watch.php?id=8650207
-
-#EXTINF:-1 group-title="Live Events",All matches | CDT Real Oruro·ABB (22:30)
-https://dlhd.dad/watch.php?id=8675183
-
-#EXTINF:-1 group-title="Live Events",All matches | Deportivo Riestra·Velez Sarsfield (23:00)
-https://dlhd.dad/watch.php?id=8658577
-
-#EXTINF:-1 group-title="Live Events",All matches | Harbour View·Dunbeholden (23:00)
-https://dlhd.dad/watch.php?id=8660059
-
-#EXTINF:-1 group-title="Live Events",All matches | Defensor Sporting·Montevideo Wanderers (23:00)
-https://dlhd.dad/watch.php?id=8676866
-
-#EXTINF:-1 group-title="Live Events",All matches | Philadelphia Phillies·Los Angeles Dodgers (23:08)
-https://dlhd.dad/watch.php?id=8731597
-
-#EXTINF:-1 group-title="Live Events",All matches | Tigres FC·Patriotas Boyaca (23:30)
-https://dlhd.dad/watch.php?id=8664591
-
-#EXTINF:-1 group-title="Live Events",All matches | Honka·Salon Vilpas (16:30)
-https://dlhd.dad/watch.php?id=8669530
-
-#EXTINF:-1 group-title="Live Events",All matches | Detroit Tigers·Seattle Mariners (21:08)
-https://dlhd.dad/watch.php?id=8735640
-
-#EXTINF:-1 group-title="Live Events",All matches | Florida Panthers·Chicago Blackhawks (22:00)
-https://dlhd.dad/watch.php?id=8287947
-
-#EXTINF:-1 group-title="Live Events",All matches | Oman·Qatar (16:00)
-https://dlhd.dad/watch.php?id=8629256
-
-#EXTINF:-1 group-title="Live Events",All matches | Sierra Leone·Burkina Faso (17:00)
-https://dlhd.dad/watch.php?id=8664479
-
-#EXTINF:-1 group-title="Live Events",All matches | Ciad·Mali (17:00)
-https://dlhd.dad/watch.php?id=8664500
-
-#EXTINF:-1 group-title="Live Events",All matches | Republica Centrafricana·Ghana (17:00)
-https://dlhd.dad/watch.php?id=8664501
-
-#EXTINF:-1 group-title="Live Events",All matches | Insulele Comore·Madagascar (17:00)
-https://dlhd.dad/watch.php?id=8664502
-
-#EXTINF:-1 group-title="Live Events",All matches | Indonezia·Arabia Saudita (18:15)
-https://dlhd.dad/watch.php?id=8629260
-
-#EXTINF:-1 group-title="Live Events",All matches | Tanzania·Zambia (20:00)
-https://dlhd.dad/watch.php?id=8664490
-
-#EXTINF:-1 group-title="Live Events",All matches | Niger·Congo (20:00)
-https://dlhd.dad/watch.php?id=8664491
-
-#EXTINF:-1 group-title="Live Events",All matches | Mozambic·Guineea (17:00)
-https://dlhd.dad/watch.php?id=8664495
-
-#EXTINF:-1 group-title="Live Events",All matches | Botswana·Uganda (17:00)
-https://dlhd.dad/watch.php?id=8664496
-
-#EXTINF:-1 group-title="Live Events",All matches | Malawi·Guineea Ecuatoriala (17:00)
-https://dlhd.dad/watch.php?id=8664498
-
-#EXTINF:-1 group-title="Live Events",All matches | Liberia·Namibia (17:00)
-https://dlhd.dad/watch.php?id=8664499
-
-#EXTINF:-1 group-title="Live Events",All matches | Bergischer·Wetzlar (18:00)
-https://dlhd.dad/watch.php?id=8551230
-
-#EXTINF:-1 group-title="Live Events",All matches | Rhein Neckar Lowen·Goppingen (18:00)
-https://dlhd.dad/watch.php?id=8551232
-
-#EXTINF:-1 group-title="Live Events",All matches | Gummersbach·Erlangen (18:00)
-https://dlhd.dad/watch.php?id=8551234
-
-#EXTINF:-1 group-title="Live Events",All matches | Fribourg Gotteron·Kloten (19:00)
-https://dlhd.dad/watch.php?id=8681917
-
-#EXTINF:-1 group-title="Live Events",All matches | Melsungen·Leipzig (18:00)
-https://dlhd.dad/watch.php?id=8682942
-
-#EXTINF:-1 group-title="Live Events",All matches | Bidasoa Irun·Huesca (18:00)
-https://dlhd.dad/watch.php?id=8687524
-
-#EXTINF:-1 group-title="Live Events",All matches | Olimpija Ljubljana·Black Wings Linz (18:15)
-https://dlhd.dad/watch.php?id=8534436
-
-#EXTINF:-1 group-title="Live Events",All matches | RB Salzburg·Vienna Capitals (18:15)
-https://dlhd.dad/watch.php?id=8534437
-
-#EXTINF:-1 group-title="Live Events",All matches | Lugano·Langenau Tigers (18:45)
-https://dlhd.dad/watch.php?id=8534439
-
-#EXTINF:-1 group-title="Live Events",All matches | Ambri Piotta·Ajoie (18:45)
-https://dlhd.dad/watch.php?id=8612842
-
-#EXTINF:-1 group-title="Live Events",All matches | Lausanne·Biel Bienne (18:45)
-https://dlhd.dad/watch.php?id=8687628
-
-#EXTINF:-1 group-title="Live Events",All matches | Rapperswil Jona Lakers·ZSC Lions (18:45)
-https://dlhd.dad/watch.php?id=8687630
-
-#EXTINF:-1 group-title="Live Events",All matches | EV Zug·Geneve Servette (18:45)
-https://dlhd.dad/watch.php?id=8687632
-
-#EXTINF:-1 group-title="Live Events",All matches | Angel Ximenez·Ademar Leon (19:30)
-https://dlhd.dad/watch.php?id=8687775
-
-#EXTINF:-1 group-title="Live Events",All matches | Nanterre·Limoges (19:30)
-https://dlhd.dad/watch.php?id=8687784
-
-#EXTINF:-1 group-title="DLHD 24/7",ABC USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
-#EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/zeko/premium51/mono.m3u8
 
 #EXTINF:-1 group-title="DLHD 24/7",AHC (American Heroes Channel)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -1280,18 +824,6 @@ https://ava.karmakurama.com/nfs/premium944/mono.m3u8
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/nfs/premium945/mono.m3u8
-
-#EXTINF:-1 group-title="DLHD 24/7",Arte France
-https://dlhd.dad/watch.php?id=958
-
-#EXTINF:-1 group-title="DLHD 24/7",Automoto La chaîne
-https://dlhd.dad/watch.php?id=961
-
-#EXTINF:-1 group-title="DLHD 24/7",ATV Turkey
-https://dlhd.dad/watch.php?id=1000
-
-#EXTINF:-1 group-title="DLHD 24/7",A Spor Turkey
-https://dlhd.dad/watch.php?id=1011
 
 #EXTINF:-1 group-title="DLHD 24/7",beIN Sports MENA English 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -1617,9 +1149,6 @@ https://ava.karmakurama.com/nfs/premium713/mono.m3u8
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/nfs/premium714/mono.m3u8
 
-#EXTINF:-1 group-title="DLHD 24/7",BFM TV France
-https://dlhd.dad/watch.php?id=957
-
 #EXTINF:-1 group-title="DLHD 24/7",bein Sports 5 Turkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
@@ -1920,9 +1449,6 @@ https://ava.karmakurama.com/zeko/premium549/mono.m3u8
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/zeko/premium551/mono.m3u8
 
-#EXTINF:-1 group-title="DLHD 24/7",Channel 14 Israel
-https://dlhd.dad/watch.php?id=552
-
 #EXTINF:-1 group-title="DLHD 24/7",C More First Sweden
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
@@ -2031,15 +1557,6 @@ https://ava.karmakurama.com/nfs/premium933/mono.m3u8
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/zeko/premium936/mono.m3u8
 
-#EXTINF:-1 group-title="DLHD 24/7",C8 France
-https://dlhd.dad/watch.php?id=956
-
-#EXTINF:-1 group-title="DLHD 24/7",CNews France
-https://dlhd.dad/watch.php?id=964
-
-#EXTINF:-1 group-title="DLHD 24/7",Canal+ Sport CZ
-https://dlhd.dad/watch.php?id=1020
-
 #EXTINF:-1 group-title="DLHD 24/7",CT Sport CZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
@@ -2069,21 +1586,6 @@ https://ava.karmakurama.com/wind/premium911/mono.m3u8
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/wind/premium912/mono.m3u8
-
-#EXTINF:-1 group-title="DLHD 24/7",Cytavision Sports 3 Cyprus
-https://dlhd.dad/watch.php?id=913
-
-#EXTINF:-1 group-title="DLHD 24/7",Cytavision Sports 4 Cyprus
-https://dlhd.dad/watch.php?id=914
-
-#EXTINF:-1 group-title="DLHD 24/7",Cytavision Sports 5 Cyprus
-https://dlhd.dad/watch.php?id=915
-
-#EXTINF:-1 group-title="DLHD 24/7",Cytavision Sports 6 Cyprus
-https://dlhd.dad/watch.php?id=916
-
-#EXTINF:-1 group-title="DLHD 24/7",Cytavision Sports 7 Cyprus
-https://dlhd.dad/watch.php?id=917
 
 #EXTINF:-1 group-title="DLHD 24/7",DAZN 1 UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -2145,9 +1647,6 @@ https://ava.karmakurama.com/dokko1/premium537/mono.m3u8
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/dokko1/premium538/mono.m3u8
 
-#EXTINF:-1 group-title="DLHD 24/7",DAZN Portugal FIFA Mundial de Clubes
-https://dlhd.dad/watch.php?id=918
-
 #EXTINF:-1 group-title="DLHD 24/7",DR1 Denmark
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
@@ -2159,9 +1658,6 @@ https://ava.karmakurama.com/dokko1/premium801/mono.m3u8
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/dokko1/premium802/mono.m3u8
-
-#EXTINF:-1 group-title="DLHD 24/7",DAZN Ligue 1 France
-https://dlhd.dad/watch.php?id=960
 
 #EXTINF:-1 group-title="DLHD 24/7",Digi Sport 1 Romania
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -2240,15 +1736,6 @@ https://ava.karmakurama.com/dokko1/premium606/mono.m3u8
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/dokko1/premium608/mono.m3u8
-
-#EXTINF:-1 group-title="DLHD 24/7",DSTV Mzansi Magic
-https://dlhd.dad/watch.php?id=786
-
-#EXTINF:-1 group-title="DLHD 24/7",DSTV M-Net
-https://dlhd.dad/watch.php?id=827
-
-#EXTINF:-1 group-title="DLHD 24/7",DSTV kykNET & kie
-https://dlhd.dad/watch.php?id=828
 
 #EXTINF:-1 group-title="DLHD 24/7",DAZN ZONA Italy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -2381,12 +1868,6 @@ https://ava.karmakurama.com/wind/premium458/mono.m3u8
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/wind/premium459/mono.m3u8
-
-#EXTINF:-1 group-title="DLHD 24/7",EuroSport 1 Greece
-https://dlhd.dad/watch.php?id=41
-
-#EXTINF:-1 group-title="DLHD 24/7",EuroSport 2 Greece
-https://dlhd.dad/watch.php?id=42
 
 #EXTINF:-1 group-title="DLHD 24/7",EuroSport 1 Poland
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -2778,9 +2259,6 @@ https://ava.karmakurama.com/zeko/premium768/mono.m3u8
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/zeko/premium775/mono.m3u8
 
-#EXTINF:-1 group-title="DLHD 24/7",FanDuel Sports Network Arizona
-https://dlhd.dad/watch.php?id=890
-
 #EXTINF:-1 group-title="DLHD 24/7",FanDuel Sports Network Detroit
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
@@ -2894,9 +2372,6 @@ https://ava.karmakurama.com/dokko1/premium951/mono.m3u8
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/nfs/premium952/mono.m3u8
-
-#EXTINF:-1 group-title="DLHD 24/7",France 5
-https://dlhd.dad/watch.php?id=953
 
 #EXTINF:-1 group-title="DLHD 24/7",GOL PLAY Spain
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -3132,9 +2607,6 @@ https://ava.karmakurama.com/dokko1/premium804/mono.m3u8
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/ddy6/premium731/mono.m3u8
 
-#EXTINF:-1 group-title="DLHD 24/7",Kanal D Turkey
-https://dlhd.dad/watch.php?id=1001
-
 #EXTINF:-1 group-title="DLHD 24/7",LaLigaTV UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
@@ -3182,9 +2654,6 @@ https://ava.karmakurama.com/wind/premium849/mono.m3u8
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/nfs/premium924/mono.m3u8
-
-#EXTINF:-1 group-title="DLHD 24/7",LCI France
-https://dlhd.dad/watch.php?id=962
 
 #EXTINF:-1 group-title="DLHD 24/7",Lifetime Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -3510,9 +2979,6 @@ https://ava.karmakurama.com/dokko1/premium633/mono.m3u8
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/dokko1/premium634/mono.m3u8
 
-#EXTINF:-1 group-title="DLHD 24/7",Nova Sports 5 Greece
-https://dlhd.dad/watch.php?id=635
-
 #EXTINF:-1 group-title="DLHD 24/7",Nova Sports 6 Greece
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
@@ -3536,9 +3002,6 @@ https://ava.karmakurama.com/dokko1/premium637/mono.m3u8
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/dokko1/premium638/mono.m3u8
-
-#EXTINF:-1 group-title="DLHD 24/7",Nova Sports News Greece
-https://dlhd.dad/watch.php?id=639
 
 #EXTINF:-1 group-title="DLHD 24/7",Nick Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -3672,27 +3135,6 @@ https://ava.karmakurama.com/dokko1/premium835/mono.m3u8
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/dokko1/premium845/mono.m3u8
 
-#EXTINF:-1 group-title="DLHD 24/7",NOW TV Turkey
-https://dlhd.dad/watch.php?id=1003
-
-#EXTINF:-1 group-title="DLHD 24/7",Nova Sport 1 CZ
-https://dlhd.dad/watch.php?id=1021
-
-#EXTINF:-1 group-title="DLHD 24/7",Nova Sport 2 CZ
-https://dlhd.dad/watch.php?id=1022
-
-#EXTINF:-1 group-title="DLHD 24/7",Nova Sport 3 CZ
-https://dlhd.dad/watch.php?id=1023
-
-#EXTINF:-1 group-title="DLHD 24/7",Nova Sport 4 CZ
-https://dlhd.dad/watch.php?id=1024
-
-#EXTINF:-1 group-title="DLHD 24/7",Nova Sport 5 CZ
-https://dlhd.dad/watch.php?id=1025
-
-#EXTINF:-1 group-title="DLHD 24/7",Nova Sport 6 CZ
-https://dlhd.dad/watch.php?id=1026
-
 #EXTINF:-1 group-title="DLHD 24/7",OnTime Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
@@ -3711,18 +3153,6 @@ https://ava.karmakurama.com/wind/premium541/mono.m3u8
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/ddy6/premium542/mono.m3u8
 
-#EXTINF:-1 group-title="DLHD 24/7",Orange Sport 1 Romania
-https://dlhd.dad/watch.php?id=439
-
-#EXTINF:-1 group-title="DLHD 24/7",Orange Sport 2 Romania
-https://dlhd.dad/watch.php?id=440
-
-#EXTINF:-1 group-title="DLHD 24/7",Orange Sport 3 Romania
-https://dlhd.dad/watch.php?id=441
-
-#EXTINF:-1 group-title="DLHD 24/7",Orange Sport 4 Romania
-https://dlhd.dad/watch.php?id=442
-
 #EXTINF:-1 group-title="DLHD 24/7",Oprah Winfrey Network (OWN)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
@@ -3740,15 +3170,6 @@ https://ava.karmakurama.com/wind/premium332/mono.m3u8
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/zeko/premium848/mono.m3u8
-
-#EXTINF:-1 group-title="DLHD 24/7",Oneplay Sport 1 CZ
-https://dlhd.dad/watch.php?id=1027
-
-#EXTINF:-1 group-title="DLHD 24/7",Oneplay Sport 2 CZ
-https://dlhd.dad/watch.php?id=1028
-
-#EXTINF:-1 group-title="DLHD 24/7",Oneplay Sport 3 CZ
-https://dlhd.dad/watch.php?id=1029
 
 #EXTINF:-1 group-title="DLHD 24/7",Polsat Poland
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -3864,18 +3285,6 @@ https://ava.karmakurama.com/ddy6/premium653/mono.m3u8
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/zeko/premium799/mono.m3u8
 
-#EXTINF:-1 group-title="DLHD 24/7",Prima TV RO
-https://dlhd.dad/watch.php?id=843
-
-#EXTINF:-1 group-title="DLHD 24/7",Premier Sport 1 CZ
-https://dlhd.dad/watch.php?id=1030
-
-#EXTINF:-1 group-title="DLHD 24/7",Premier Sport 2 CZ
-https://dlhd.dad/watch.php?id=1031
-
-#EXTINF:-1 group-title="DLHD 24/7",Premier Sport 3 CZ
-https://dlhd.dad/watch.php?id=1032
-
 #EXTINF:-1 group-title="DLHD 24/7",Pac-12 Network USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
@@ -3917,9 +3326,6 @@ https://ava.karmakurama.com/zeko/premium119/mono.m3u8
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/ddy6/premium120/mono.m3u8
-
-#EXTINF:-1 group-title="DLHD 24/7",RMC Story France
-https://dlhd.dad/watch.php?id=954
 
 #EXTINF:-1 group-title="DLHD 24/7",RTP 1 Portugal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -4214,21 +3620,6 @@ https://ava.karmakurama.com/wind/premium886/mono.m3u8
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/wind/premium887/mono.m3u8
-
-#EXTINF:-1 group-title="DLHD 24/7",Sky Sport Bundesliga 2
-https://dlhd.dad/watch.php?id=946
-
-#EXTINF:-1 group-title="DLHD 24/7",Sky Sport Bundesliga 3
-https://dlhd.dad/watch.php?id=947
-
-#EXTINF:-1 group-title="DLHD 24/7",Sky Sport Bundesliga 4
-https://dlhd.dad/watch.php?id=948
-
-#EXTINF:-1 group-title="DLHD 24/7",Sky Sport Bundesliga 5
-https://dlhd.dad/watch.php?id=949
-
-#EXTINF:-1 group-title="DLHD 24/7",Sport en France
-https://dlhd.dad/watch.php?id=965
 
 #EXTINF:-1 group-title="DLHD 24/7",Starz Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -4560,9 +3951,6 @@ https://ava.karmakurama.com/wind/premium420/mono.m3u8
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/zeko/premium421/mono.m3u8
 
-#EXTINF:-1 group-title="DLHD 24/7",SuperSport Golf
-https://dlhd.dad/watch.php?id=422
-
 #EXTINF:-1 group-title="DLHD 24/7",SuperSport Tennis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
@@ -4585,7 +3973,7 @@ https://ava.karmakurama.com/zeko/premium56/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/zeko/premium368/mono.m3u8
+https://ava.karmakurama.com/dokko1/premium368/mono.m3u8
 
 #EXTINF:-1 group-title="DLHD 24/7",SuperSport MaXimo 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -4706,9 +4094,6 @@ https://ava.karmakurama.com/wind/premium680/mono.m3u8
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/ddy6/premium681/mono.m3u8
-
-#EXTINF:-1 group-title="DLHD 24/7",Showtime SHOxBET USA
-https://dlhd.dad/watch.php?id=695
 
 #EXTINF:-1 group-title="DLHD 24/7",SEE Denmark
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -4902,12 +4287,6 @@ https://ava.karmakurama.com/ddy6/premium618/mono.m3u8
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/dokko1/premium619/mono.m3u8
 
-#EXTINF:-1 group-title="DLHD 24/7",SSC Sport Extra 2
-https://dlhd.dad/watch.php?id=620
-
-#EXTINF:-1 group-title="DLHD 24/7",SSC Sport Extra 3
-https://dlhd.dad/watch.php?id=621
-
 #EXTINF:-1 group-title="DLHD 24/7",Sport 1 Israel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
@@ -4966,7 +4345,7 @@ https://ava.karmakurama.com/ddy6/premium148/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/nfs/premium294/mono.m3u8
+https://ava.karmakurama.com/zeko/premium294/mono.m3u8
 
 #EXTINF:-1 group-title="DLHD 24/7",Showtime USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -5064,9 +4443,6 @@ https://ava.karmakurama.com/zeko/premium883/mono.m3u8
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/dokko1/premium811/mono.m3u8
 
-#EXTINF:-1 group-title="DLHD 24/7",Star Sports 1 IN
-https://dlhd.dad/watch.php?id=267
-
 #EXTINF:-1 group-title="DLHD 24/7",Star Sports Hindi IN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
@@ -5120,12 +4496,6 @@ https://ava.karmakurama.com/dokko1/premium921/mono.m3u8
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/nfs/premium922/mono.m3u8
-
-#EXTINF:-1 group-title="DLHD 24/7",Show TV Turkey
-https://dlhd.dad/watch.php?id=1002
-
-#EXTINF:-1 group-title="DLHD 24/7",Star TV Turkey
-https://dlhd.dad/watch.php?id=1004
 
 #EXTINF:-1 group-title="DLHD 24/7",TNT Sports 1 UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -5529,12 +4899,6 @@ https://ava.karmakurama.com/zeko/premium707/mono.m3u8
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/nfs/premium747/mono.m3u8
 
-#EXTINF:-1 group-title="DLHD 24/7",Tennis+ 10
-https://dlhd.dad/watch.php?id=709
-
-#EXTINF:-1 group-title="DLHD 24/7",Tennis+ 12
-https://dlhd.dad/watch.php?id=711
-
 #EXTINF:-1 group-title="DLHD 24/7",TRT Spor TR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
@@ -5546,9 +4910,6 @@ https://ava.karmakurama.com/wind/premium889/mono.m3u8
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/nfs/premium343/mono.m3u8
-
-#EXTINF:-1 group-title="DLHD 24/7",Universal Kids USA
-https://dlhd.dad/watch.php?id=668
 
 #EXTINF:-1 group-title="DLHD 24/7",Univision
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -5753,9 +5114,6 @@ https://ava.karmakurama.com/ddy6/premium727/mono.m3u8
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/ddy6/premium728/mono.m3u8
-
-#EXTINF:-1 group-title="DLHD 24/7",6ter France
-https://dlhd.dad/watch.php?id=963
 
 #EXTINF:-1 group-title="DLHD 24/7",20 Mediaset Italy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
