@@ -21,6 +21,83 @@ except ImportError:
 # Disabilita gli avvisi di sicurezza per le richieste senza verifica SSL
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
+def headers_to_extvlcopt(headers):
+    """Converte un dizionario di header in una lista di stringhe #EXTVLCOPT per VLC."""
+    vlc_opts = []
+    for key, value in headers.items():
+        # VLC usa nomi di header in minuscolo
+        vlc_opts.append(f'#EXTVLCOPT:http-{key.lower()}={value}')
+    return vlc_opts
+
+def search_m3u8_in_sites(channel_id, is_tennis=False, session=None):
+    """
+    Cerca i file .m3u8 nei siti specificati per i canali daddy e tennis
+    """
+    # Se non viene passata una sessione, ne crea una temporanea
+    if session is None:
+        session = requests.Session()
+
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+        "X-Requested-With": "XMLHttpRequest",
+        "X-Forwarded-For": "127.0.0.1",
+        # Il Referer viene impostato dinamicamente
+        "Referer": "https://ava.karmakurama.com/"
+    }
+
+    # Logica per canali TENNIS con ID specifico (es. 15xx)
+    if is_tennis and len(str(channel_id)) == 4 and str(channel_id).startswith('15'):
+        tennis_suffix = str(channel_id)[2:]  # Prende le ultime due cifre
+        folder_name = f"wikiten{tennis_suffix}"
+        base_url = "https://ava.karmakurama.com/wikihz/"
+        test_url = f"{base_url}{folder_name}/mono.m3u8"
+        current_headers = headers.copy()
+        current_headers["Referer"] = base_url # Aggiorna il referer per i canali tennis
+        
+        try:
+            response = session.head(test_url, timeout=5, headers=current_headers)
+            if response.status_code == 200:
+                print(f"[✓] Stream tennis trovato: {test_url}")
+                return test_url
+        except requests.exceptions.RequestException as e:
+            print(f"[!] Errore durante il test di {test_url}: {e}")
+    # Logica per tutti gli altri canali DADDY (inclusi quelli "tennis" senza ID specifico)
+    else: 
+        # Per i canali daddy, cerca nei siti specificati
+        daddy_sites = [
+            "https://ava.karmakurama.com/wind/",
+            "https://ava.karmakurama.com/ddy6/", 
+            "https://ava.karmakurama.com/zeko/",
+            "https://ava.karmakurama.com/nfs/",
+            "https://ava.karmakurama.com/dokko1/"
+        ]
+        folder_name = f"premium{channel_id}"
+
+        def check_url(site):
+            url = f"{site}{folder_name}/mono.m3u8"
+            req_headers = headers.copy()
+            req_headers["Referer"] = site
+            try:
+                response = session.head(url, timeout=5, headers=req_headers)
+                if response.status_code == 200:
+                    return url
+            except requests.exceptions.RequestException:
+                # Gli errori di connessione sono normali, non li stampiamo per non affollare il log
+                pass
+            return None
+
+        # Esegue le richieste in parallelo e restituisce il primo risultato valido
+        with concurrent.futures.ThreadPoolExecutor(max_workers=len(daddy_sites)) as executor:
+            future_to_url = {executor.submit(check_url, site): site for site in daddy_sites}
+            for future in concurrent.futures.as_completed(future_to_url):
+                result = future.result()
+                if result:
+                    print(f"[✓] Stream daddy trovato: {result}")
+                    return result
+    
+    # Se la ricerca fallisce, non stampare nulla qui, verrà gestito dal chiamante
+    return None
+
 def dlhd():
     """
     Estrae canali 24/7 e eventi live da DaddyLive e li salva in un unico file M3U.
@@ -48,6 +125,7 @@ def dlhd():
     # ========== ESTRAZIONE CANALI 24/7 ==========
     print("Estraendo canali 24/7...")
     json_url = "https://dlhd.dad/daddy.json"
+    session = requests.Session() # Crea una sessione per riutilizzare le connessioni
 
     try:
         response = requests.get(json_url, headers=HEADERS, timeout=15, verify=False)
@@ -66,8 +144,19 @@ def dlhd():
                 name = "DAZN"
             if channel_id == "853":
                 name = "Canale 5 Italy"
-            stream_url = f"https://dlhd.dad/watch.php?id={channel_id}"
-            channels_247.append((name, stream_url))
+            
+            # Cerca prima lo stream .m3u8
+            stream_url = search_m3u8_in_sites(channel_id, is_tennis="tennis" in name.lower(), session=session)
+            # Se non trovato, usa il fallback .php
+            if not stream_url:
+                stream_url = get_stream_from_channel_id(channel_id)
+            
+            if stream_url:
+                # Aggiungi l'ID solo agli URL .php per la logica di rename
+                if stream_url.endswith('.php'):
+                    stream_url = f"{stream_url}&id={channel_id}"
+                channels_247.append((name, stream_url))
+
 
         # Conta le occorrenze di ogni nome di canale
         name_counts = {}
@@ -180,10 +269,14 @@ def dlhd():
             # Converti in lista per il file M3U
             for category, channels in categorized_channels.items():
                 for ch in channels:
-                    try:
-                        stream = get_stream_from_channel_id(ch["channel_id"])
+                    try: 
+                        # Cerca prima lo stream .m3u8
+                        stream = search_m3u8_in_sites(ch["channel_id"], is_tennis="tennis" in ch["channel_name"].lower(), session=session)
+                        # Se non trovato, usa il fallback .php
+                        if not stream:
+                            stream = get_stream_from_channel_id(ch["channel_id"])
                         if stream:
-                            live_events.append((f"{category} | {ch['tvg_name']} | {ch['channel_name']}", stream))
+                            live_events.append((f"{category} | {ch['tvg_name']}", stream))
                     except Exception as e:
                         print(f"Errore su {ch['tvg_name']}: {e}")
 
@@ -207,12 +300,24 @@ def dlhd():
             f.write("https://example.com.m3u8\n\n")
 
             for name, url in live_events:
-                f.write(f'#EXTINF:-1 group-title="Live Events",{name}\n{url}\n\n')
+                f.write(f'#EXTINF:-1 group-title="Live Events",{name}\n')
+                if "ava.karmakurama.com" in url and not url.endswith('.php'):
+                    daddy_headers = {"User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1", "Referrer": "https://ava.karmakurama.com/", "Origin": "https://ava.karmakurama.com"}
+                    vlc_opt_lines = headers_to_extvlcopt(daddy_headers)
+                    for line in vlc_opt_lines:
+                        f.write(f'{line}\n')
+                f.write(f'{url}\n\n')
 
         # Aggiungi canali 24/7
         if channels_247:
             for name, url in channels_247:
-                f.write(f'#EXTINF:-1 group-title="DLHD 24/7",{name}\n{url}\n\n')
+                f.write(f'#EXTINF:-1 group-title="DLHD 24/7",{name}\n')
+                if "ava.karmakurama.com" in url and not url.endswith('.php'):
+                    daddy_headers = {"User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1", "Referrer": "https://ava.karmakurama.com/", "Origin": "https://ava.karmakurama.com"}
+                    vlc_opt_lines = headers_to_extvlcopt(daddy_headers)
+                    for line in vlc_opt_lines:
+                        f.write(f'{line}\n')
+                f.write(f'{url}\n\n')
 
     total_channels = len(channels_247) + len(live_events)
     print(f"Creato file {OUTPUT_FILE} con {total_channels} canali totali:")
