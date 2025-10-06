@@ -147,14 +147,8 @@ def dlhd():
             
             # Cerca prima lo stream .m3u8
             stream_url = search_m3u8_in_sites(channel_id, is_tennis="tennis" in name.lower(), session=session)
-            # Se non trovato, usa il fallback .php
-            if not stream_url:
-                stream_url = get_stream_from_channel_id(channel_id)
             
             if stream_url:
-                # Aggiungi l'ID solo agli URL .php per la logica di rename
-                if stream_url.endswith('.php'):
-                    stream_url = f"{stream_url}&id={channel_id}"
                 channels_247.append((name, stream_url))
 
 
@@ -271,10 +265,7 @@ def dlhd():
                 for ch in channels:
                     try: 
                         # Cerca prima lo stream .m3u8
-                        stream = search_m3u8_in_sites(ch["channel_id"], is_tennis="tennis" in ch["channel_name"].lower(), session=session)
-                        # Se non trovato, usa il fallback .php
-                        if not stream:
-                            stream = get_stream_from_channel_id(ch["channel_id"])
+                        stream = search_m3u8_in_sites(ch["channel_id"], is_tennis="tennis" in ch["channel_name"].lower(), session=session)                        
                         if stream:
                             live_events.append((f"{category} | {ch['tvg_name']}", stream))
                     except Exception as e:
