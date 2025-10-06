@@ -156,17 +156,16 @@ def dlhd():
         name_counts = {}
         for name, _ in channels_247:
             name_counts[name] = name_counts.get(name, 0) + 1
-
+ 
         # Aggiungi un contatore ai nomi duplicati
         final_channels = []
         name_counter = {}
-
+ 
         for name, stream_url in channels_247:
             if name_counts[name] > 1:
                 if name not in name_counter:
                     # Prima occorrenza di un duplicato, mantieni il nome originale
                     name_counter[name] = 1
-                    final_channels.append((name, stream_url))
                 else:
                     # Occorrenze successive, aggiungi contatore
                     name_counter[name] += 1
@@ -175,7 +174,6 @@ def dlhd():
             else:
                 final_channels.append((name, stream_url))
 
-        channels_247.sort(key=lambda x: x[0].lower())
         print(f"Trovati {len(channels_247)} canali 24/7")
         channels_247 = final_channels
     except Exception as e:
