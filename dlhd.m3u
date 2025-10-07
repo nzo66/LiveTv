@@ -3,449 +3,1001 @@
 #EXTINF:-1 group-title="Live Events",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 group-title="Live Events",Soccer | Germany - Frauen-Bundesliga : Hamburger SV vs Hoffenheim (16:00)
+#EXTINF:-1 group-title="Live Events",Soccer | England - EFL Trophy : Salford City vs Stockport County (18:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/nfs/premium1/mono.m3u8
+https://ava.karmakurama.com/ddy6/premium55/mono.m3u8
 
-#EXTINF:-1 group-title="Live Events",Soccer | Germany - Frauen-Bundesliga : Hamburger SV vs Hoffenheim (16:00)
+#EXTINF:-1 group-title="Live Events",Soccer | England - EFL Trophy : Cambridge United vs Luton Town (18:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/ddy6/premium641/mono.m3u8
+https://ava.karmakurama.com/wind/premium59/mono.m3u8
 
-#EXTINF:-1 group-title="Live Events",Soccer | Germany - Frauen-Bundesliga : Hamburger SV vs Hoffenheim (16:00)
+#EXTINF:-1 group-title="Live Events",Soccer | England - EFL Trophy : Wycombe Wanderers vs Fulham U21 (18:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/ddy6/premium426/mono.m3u8
+https://ava.karmakurama.com/wind/premium68/mono.m3u8
 
-#EXTINF:-1 group-title="Live Events",Soccer | Bosnia and Herzegovina - Premijer Liga : Sarajevo vs Zrinjski (16:00)
+#EXTINF:-1 group-title="Live Events",Soccer | England - EFL Trophy : Leyton Orient vs Crawley Town (18:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/wind/premium581/mono.m3u8
+https://ava.karmakurama.com/ddy6/premium69/mono.m3u8
 
-#EXTINF:-1 group-title="Live Events",Soccer | Bosnia and Herzegovina - Premijer Liga : Sarajevo vs Zrinjski (16:00)
+#EXTINF:-1 group-title="Live Events",Soccer | England - EFL Trophy : Stevenage vs Bromley (18:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/zeko/premium433/mono.m3u8
+https://ava.karmakurama.com/wind/premium76/mono.m3u8
 
-#EXTINF:-1 group-title="Live Events",Soccer | Bulgaria, Second Professional League - Gorna Oryahovitsa vs. FC Fratria Varna (16:00)
+#EXTINF:-1 group-title="Live Events",Soccer | England - EFL Trophy : Reading vs Milton Keynes Dons (18:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/wind/premium465/mono.m3u8
+https://ava.karmakurama.com/nfs/premium77/mono.m3u8
 
-#EXTINF:-1 group-title="Live Events",Soccer | Bulgaria, Second Professional League - Gorna Oryahovitsa vs. FC Fratria Varna (16:00)
+#EXTINF:-1 group-title="Live Events",Soccer | England - EFL Trophy : Walsall vs Northampton Town (18:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/nfs/premium103/mono.m3u8
+https://ava.karmakurama.com/dokko1/premium86/mono.m3u8
 
-#EXTINF:-1 group-title="Live Events",Soccer | Russia - FNL : KAMAZ vs Ural (16:30)
+#EXTINF:-1 group-title="Live Events",Soccer | England - EFL Trophy : Cheltenham Town vs Bristol Rovers (18:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/ddy6/premium573/mono.m3u8
+https://ava.karmakurama.com/ddy6/premium105/mono.m3u8
 
-#EXTINF:-1 group-title="Live Events",Soccer | Russia - FNL : KAMAZ vs Ural (16:30)
+#EXTINF:-1 group-title="Live Events",Soccer | England - EFL Trophy : Chesterfield vs Burton Albion (18:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/ddy6/premium127/mono.m3u8
+https://ava.karmakurama.com/ddy6/premium106/mono.m3u8
 
-#EXTINF:-1 group-title="Live Events",Soccer | Sweden - Superettan : Sandviken vs Örgryte (17:00)
+#EXTINF:-1 group-title="Live Events",Soccer | England - EFL Trophy : Fleetwood Town vs Leeds United U21 (18:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/nfs/premium2/mono.m3u8
+https://ava.karmakurama.com/ddy6/premium107/mono.m3u8
 
-#EXTINF:-1 group-title="Live Events",Soccer | Denmark Betinia Liga : Hvidovre vs Lyngby (17:00)
+#EXTINF:-1 group-title="Live Events",Soccer | England - EFL Trophy : Rotherham United vs Oldham Athletic (18:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/ddy6/premium809/mono.m3u8
+https://ava.karmakurama.com/ddy6/premium108/mono.m3u8
 
-#EXTINF:-1 group-title="Live Events",Soccer | Romania - Liga I : Botoşani vs UTA Arad (17:30)
+#EXTINF:-1 group-title="Live Events",Soccer | England - EFL Trophy : Grimsby Town vs Doncaster Rovers (18:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/nfs/premium400/mono.m3u8
+https://ava.karmakurama.com/ddy6/premium109/mono.m3u8
 
-#EXTINF:-1 group-title="Live Events",Soccer | Romania - Liga I : Botoşani vs UTA Arad (17:30)
+#EXTINF:-1 group-title="Live Events",Soccer | England - EFL Trophy : Wigan Athletic vs Wolves U21 (18:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/nfs/premium583/mono.m3u8
+https://ava.karmakurama.com/ddy6/premium110/mono.m3u8
 
-#EXTINF:-1 group-title="Live Events",Soccer | Romania - Liga I : Botoşani vs UTA Arad (17:30)
+#EXTINF:-1 group-title="Live Events",Soccer | England - EFL Trophy : Barrow vs Tranmere Rovers (18:30)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/wind/premium580/mono.m3u8
+https://ava.karmakurama.com/ddy6/premium151/mono.m3u8
 
-#EXTINF:-1 group-title="Live Events",Soccer | Netherlands - Eerste Divisie : Vitesse vs Den Bosch (18:00)
+#EXTINF:-1 group-title="Live Events",Soccer | England - EFL Trophy : Accrington Stanley vs Port Vale (18:45)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/ddy6/premium152/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Soccer | England - EFL Trophy : Cardiff City vs Newport County (18:45)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/dokko1/premium153/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Soccer | England - EFL Trophy : Colchester United vs Gillingham (18:45)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/ddy6/premium154/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Soccer | Netherlands - Eredivisie Women : Utrecht vs Feyenoord (16:45)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/zeko/premium379/mono.m3u8
 
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - Segunda Division : Cultural Leonesa vs Albacete (18:30)
+#EXTINF:-1 group-title="Live Events",Soccer | Europe - UEFA Women's Champions League : Juventus vs SL Benfica (16:45)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/dokko1/premium539/mono.m3u8
+https://ava.karmakurama.com/dokko1/premium380/mono.m3u8
 
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - Segunda Division : Cultural Leonesa vs Albacete (18:30)
+#EXTINF:-1 group-title="Live Events",Soccer | Europe - UEFA Women's Champions League : Juventus vs SL Benfica (16:45)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/ddy6/premium455/mono.m3u8
+https://ava.karmakurama.com/ddy6/premium719/mono.m3u8
 
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - Segunda Division : Cultural Leonesa vs Albacete (18:30)
+#EXTINF:-1 group-title="Live Events",Soccer | Europe - UEFA Women's Champions League : Juventus vs SL Benfica (16:45)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/nfs/premium403/mono.m3u8
+https://ava.karmakurama.com/nfs/premium932/mono.m3u8
 
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - Segunda Division : Cultural Leonesa vs Albacete (18:30)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
-#EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/nfs/premium585/mono.m3u8
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - Segunda Division : Cultural Leonesa vs Albacete (18:30)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
-#EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/ddy6/premium137/mono.m3u8
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - Segunda Division : Cultural Leonesa vs Albacete (18:30)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
-#EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/nfs/premium712/mono.m3u8
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - Segunda Division : Cultural Leonesa vs Albacete (18:30)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
-#EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/nfs/premium3/mono.m3u8
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - Segunda Division : Cultural Leonesa vs Albacete (18:30)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
-#EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/ddy6/premium434/mono.m3u8
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - Segunda Division : Cultural Leonesa vs Albacete (18:30)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
-#EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/dokko1/premium637/mono.m3u8
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - Segunda Division : Cultural Leonesa vs Albacete (18:30)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
-#EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/wind/premium475/mono.m3u8
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Two : Harrogate Town vs Crewe Alexandra (19:00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
-#EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/zeko/premium910/mono.m3u8
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Two : Harrogate Town vs Crewe Alexandra (19:00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
-#EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/zeko/premium35/mono.m3u8
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Two : Harrogate Town vs Crewe Alexandra (19:00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
-#EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/wind/premium124/mono.m3u8
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Two : Harrogate Town vs Crewe Alexandra (19:00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
-#EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/ddy6/premium493/mono.m3u8
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Two : Harrogate Town vs Crewe Alexandra (19:00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
-#EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/zeko/premium430/mono.m3u8
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Two : Harrogate Town vs Crewe Alexandra (19:00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
-#EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/wind/premium466/mono.m3u8
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Two : Harrogate Town vs Crewe Alexandra (19:00)
+#EXTINF:-1 group-title="Live Events",Soccer | Europe - UEFA Women's Champions League : Juventus vs SL Benfica (16:45)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/wind/premium61/mono.m3u8
 
-#EXTINF:-1 group-title="Live Events",Soccer | Argentina - Primera División : Deportivo Riestra vs Vélez Sarsfield (22:00)
+#EXTINF:-1 group-title="Live Events",Soccer | Romania - Liga II : ASA Târgu Mureş vs Gloria Bistriţa (17:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/wind/premium387/mono.m3u8
+https://ava.karmakurama.com/nfs/premium400/mono.m3u8
 
-#EXTINF:-1 group-title="Live Events",Soccer | Uruguay - Primera Division : Defensor Sporting vs Wanderers (22:00)
+#EXTINF:-1 group-title="Live Events",Soccer | Romania - Liga II : ASA Târgu Mureş vs Gloria Bistriţa (17:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/nfs/premium391/mono.m3u8
+https://ava.karmakurama.com/nfs/premium583/mono.m3u8
 
-#EXTINF:-1 group-title="Live Events",Soccer | Uruguay - Primera Division : Defensor Sporting vs Wanderers (22:00)
+#EXTINF:-1 group-title="Live Events",Soccer | France - National 1 : Versailles vs Villefranche (17:30)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/zeko/premium597/mono.m3u8
+https://ava.karmakurama.com/nfs/premium10/mono.m3u8
 
-#EXTINF:-1 group-title="Live Events",Soccer | Copa Libertadores Femenina : São Paulo vs Colo Colo (23:00)
+#EXTINF:-1 group-title="Live Events",Soccer | Europe - UEFA Women's Champions League : Arsenal vs Olympique Lyonnais (19:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/ddy6/premium78/mono.m3u8
+https://ava.karmakurama.com/zeko/premium308/mono.m3u8
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Hamburger SV W vs Hoffenheim W (16:00)
+#EXTINF:-1 group-title="Live Events",Soccer | Europe - UEFA Women's Champions League : Arsenal vs Olympique Lyonnais (19:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/dokko1/premium645/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Soccer | Europe - UEFA Women's Champions League : Arsenal vs Olympique Lyonnais (19:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/dokko1/premium1033/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Soccer | Europe - UEFA Women's Champions League : Arsenal vs Olympique Lyonnais (19:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium712/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Soccer | Europe - UEFA Women's Champions League : Arsenal vs Olympique Lyonnais (19:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/dokko1/premium94/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Soccer | Europe - UEFA Women's Champions League : Arsenal vs Olympique Lyonnais (19:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/wind/premium61/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Soccer | Europe - UEFA Women's Champions League : Paris vs OH Leuven (19:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium713/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Soccer | Europe - UEFA Women's Champions League : Paris vs OH Leuven (19:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/ddy6/premium100/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Soccer | Europe - UEFA Women's Champions League : Barcelona vs Bayern (19:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/zeko/premium90/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Soccer | FIFA U-20 World Cup : Ukraine U20 vs Spain U20 (19:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/zeko/premium758/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Soccer | FIFA U-20 World Cup : Ukraine U20 vs Spain U20 (19:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/dokko1/premium845/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Soccer | FIFA U-20 World Cup : Ukraine U20 vs Spain U20 (19:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/zeko/premium115/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Soccer | FIFA U-20 World Cup : Ukraine U20 vs Spain U20 (19:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/ddy6/premium127/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Soccer | FIFA U-20 World Cup : Ukraine U20 vs Spain U20 (19:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/ddy6/premium136/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Soccer | FIFA U-20 World Cup : Chile U20 vs Mexico U20 (23:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/zeko/premium758/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Soccer | FIFA U-20 World Cup : Chile U20 vs Mexico U20 (23:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/zeko/premium113/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Soccer | FIFA U-20 World Cup : Chile U20 vs Mexico U20 (23:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/zeko/premium115/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Soccer | FIFA U-20 World Cup : Chile U20 vs Mexico U20 (23:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/ddy6/premium127/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Soccer | FIFA U-20 World Cup : Chile U20 vs Mexico U20 (23:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/ddy6/premium136/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Soccer | United States - NCAA Men's Soccer : Georgetown vs Denver (23:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/zeko/premium316/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Soccer | United States - NCAA Men's Soccer : Harvard vs Vermont (23:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium762/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Juventus W vs Benfica W (16:45)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium1/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Juventus W vs Benfica W (16:45)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/dokko1/premium452/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Juventus W vs Benfica W (16:45)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/wind/premium467/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Scunthorpe United vs Morecambe (18:45)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/nfs/premium2/mono.m3u8
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Sandviken vs Orgryte (17:00)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Arsenal vs Olympique Lyonnais (19:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/nfs/premium3/mono.m3u8
+https://ava.karmakurama.com/dokko1/premium452/mono.m3u8
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : FC Botosani vs UTA Arad (17:30)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
-#EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/nfs/premium4/mono.m3u8
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : FC Botosani vs UTA Arad (17:30)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
-#EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/wind/premium459/mono.m3u8
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Vitesse vs FC Den Bosch (18:00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
-#EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/nfs/premium5/mono.m3u8
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Cultural Leonesa vs Albacete (18:30)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
-#EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/nfs/premium6/mono.m3u8
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Cultural Leonesa vs Albacete (18:30)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
-#EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/wind/premium456/mono.m3u8
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Cultural Leonesa vs Albacete (18:30)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
-#EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/wind/premium473/mono.m3u8
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Harrogate Town vs Crewe Alexandra (19:00)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Barcelona vs Bayern (19:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/ddy6/premium455/mono.m3u8
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : São Paulo vs Colo Colo (23:00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
-#EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/wind/premium468/mono.m3u8
-
-#EXTINF:-1 group-title="Live Events",Motorsport | SGB Premiership : Leicester Lions vs Ipswich (18:30)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
-#EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/nfs/premium31/mono.m3u8
-
-#EXTINF:-1 group-title="Live Events",Snooker | Ultimate Pool: Pairs Cup (17:00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
-#EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/nfs/premium33/mono.m3u8
-
-#EXTINF:-1 group-title="Live Events",Snooker | Ultimate Pool: Pairs Cup (17:00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
-#EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/dokko1/premium591/mono.m3u8
-
-#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Los Angeles Dodgers vs Philadelphia Phillies (22:00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
-#EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/nfs/premium4/mono.m3u8
-
-#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Los Angeles Dodgers vs Philadelphia Phillies (22:00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
-#EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/zeko/premium336/mono.m3u8
-
-#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Los Angeles Dodgers vs Philadelphia Phillies (22:00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
-#EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/dokko1/premium341/mono.m3u8
-
-#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Los Angeles Dodgers vs Philadelphia Phillies (22:00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
-#EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/wind/premium408/mono.m3u8
-
-#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Los Angeles Dodgers vs Philadelphia Phillies (22:00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
-#EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/wind/premium406/mono.m3u8
-
-#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Los Angeles Dodgers vs Philadelphia Phillies (22:00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
-#EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/wind/premium407/mono.m3u8
-
-#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Los Angeles Dodgers vs Philadelphia Phillies (22:00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
-#EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/ddy6/premium494/mono.m3u8
-
-#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Los Angeles Dodgers vs Philadelphia Phillies (22:00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
-#EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/nfs/premium133/mono.m3u8
-
-#EXTINF:-1 group-title="Live Events",Basketball | Slovenian league : Podčetrtek vs Šenčur (15:30)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
-#EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/nfs/premium104/mono.m3u8
-
-#EXTINF:-1 group-title="Live Events",Basketball | Poland, PLK : Anwil Wroclawek vs. GTK Gliwice (16:00)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Paris FC W vs Oud-Heverlee Leuven W (10:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/nfs/premium5/mono.m3u8
 
-#EXTINF:-1 group-title="Live Events",Basketball | Süper Ligi : Fenerbahce Istanbul vs. Petkim Spor Aliaga (16:00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
-#EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/nfs/premium1010/mono.m3u8
-
-#EXTINF:-1 group-title="Live Events",Basketball | Süper Ligi : Fenerbahce Istanbul vs. Petkim Spor Aliaga (16:00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
-#EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/nfs/premium3/mono.m3u8
-
-#EXTINF:-1 group-title="Live Events",Basketball | ABA League : Partizan vs KK Krka Novo Mesto (16:00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
-#EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/wind/premium134/mono.m3u8
-
-#EXTINF:-1 group-title="Live Events",Basketball | Bulgaria, NBL : Lokomotiv Plovdiv 1926 vs. Cherno More IG (16:15)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
-#EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/wind/premium473/mono.m3u8
-
-#EXTINF:-1 group-title="Live Events",Basketball | ABA League : Crvena zvezda vs Zadar (18:00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
-#EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/wind/premium134/mono.m3u8
-
-#EXTINF:-1 group-title="Live Events",Basketball | LNB : Le Mans vs Paris (18:00)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Ukraine U20 vs Spain U20 (19:30)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/nfs/premium6/mono.m3u8
 
-#EXTINF:-1 group-title="Live Events",Basketball | LNB : Le Mans vs Paris (18:00)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Ukraine U20 vs Spain U20 (19:30)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/ddy6/premium101/mono.m3u8
+https://ava.karmakurama.com/ddy6/premium461/mono.m3u8
 
-#EXTINF:-1 group-title="Live Events",Basketball | Lega A : Virtus Bologna vs Basket Napoli (18:00)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Envigado vs Pereira (20:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/ddy6/premium135/mono.m3u8
+https://ava.karmakurama.com/nfs/premium7/mono.m3u8
 
-#EXTINF:-1 group-title="Live Events",Basketball | Lega A : Virtus Bologna vs Basket Napoli (18:00)
+#EXTINF:-1 group-title="Live Events",Cricket | ICC World Cup Women : Bangladesh W vs England W (09:30)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/ddy6/premium432/mono.m3u8
+https://ava.karmakurama.com/zeko/premium346/mono.m3u8
 
-#EXTINF:-1 group-title="Live Events",Basketball | Lega A : Virtus Bologna vs Basket Napoli (18:00)
+#EXTINF:-1 group-title="Live Events",Cricket | ICC World Cup Women : Bangladesh W vs England W (09:30)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/zeko/premium140/mono.m3u8
+https://ava.karmakurama.com/dokko1/premium65/mono.m3u8
 
-#EXTINF:-1 group-title="Live Events",Basketball | Le Mans vs Paris (18:00)
+#EXTINF:-1 group-title="Live Events",Cricket | ICC World Cup Women : Bangladesh W vs England W (09:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/zeko/premium370/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Cricket | ICC World Cup Women : Bangladesh W vs England W (09:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/zeko/premium38/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Cricket | ICC World Cup Women : Bangladesh W vs England W (09:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/dokko1/premium588/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Cricket | National League Women : Victorian Spirit W vs Tasmanian Roar W (23:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/dokko1/premium591/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Tennis ATP - SHANGHAI | ATP - SHANGHAI : Munar J. vs Djokovic N. (10:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/ddy6/premium40/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Tennis WTA - WUHAN | WTA - WUHAN : Raducanu E. vs Li A. (04:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/wikihz/wikiten24/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Tennis WTA - WUHAN | WTA - WUHAN : Navarro E. vs Zhang S. (06:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/wikihz/wikiten24/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Tennis WTA - WUHAN | WTA - WUHAN : Bouzkova M. vs Swiatek I. (11:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/wikihz/wikiten24/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Tennis WTA - WUHAN | WTA - WUHAN : Andreeva M. vs Siegemund L. (12:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/wikihz/wikiten24/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Tennis | Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (12:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/ddy6/premium40/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Tennis | Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (12:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/zeko/premium36/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Tennis | Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (12:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/zeko/premium117/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Tennis | Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (12:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/wind/premium46/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Tennis | Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (12:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/wind/premium884/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Tennis | Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (12:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/ddy6/premium576/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Tennis | Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (12:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/zeko/premium701/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Tennis | Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (12:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/ddy6/premium612/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Tennis | Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (12:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/ddy6/premium102/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Tennis | Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (12:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/wind/premium472/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Tennis | Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (12:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium919/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Tennis | Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (12:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/ddy6/premium393/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Tennis | Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (12:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/ddy6/premium491/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Tennis | Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (12:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/ddy6/premium492/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Tennis | Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (12:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/wind/premium396/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Tennis | Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (12:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/wind/premium453/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Tennis | Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (12:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium713/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Golf | College Golf 2025 NB3 Collegiate Match Play, Day 1 (21:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/zeko/premium318/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Snooker | Xi'an Grand Prix | Round 1 (06:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium31/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Snooker | Xi'an Grand Prix | Round 1 (06:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/wind/premium57/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Snooker | Xi'an Grand Prix | Round 1 (06:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/zeko/premium524/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Snooker | Xi'an Grand Prix | Round 1 (06:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/ddy6/premium772/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Snooker | Xi'an Grand Prix | Round 1 (06:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/wind/premium231/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Snooker | Xi'an Grand Prix | Round 1 (06:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/wind/premium878/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Snooker | Xi'an Grand Prix | Round 1 (11:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium33/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Snooker | Xi'an Grand Prix | Round 1 (11:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/wind/premium57/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Snooker | Xi'an Grand Prix | Round 1 (11:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/zeko/premium524/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Snooker | Xi'an Grand Prix | Round 1 (11:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/ddy6/premium772/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Snooker | Xi'an Grand Prix | Round 1 (11:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/wind/premium231/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Snooker | Xi'an Grand Prix | Round 1 (11:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/wind/premium878/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Snooker | Snooker Xi'an Grand Prix (06:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/nfs/premium11/mono.m3u8
 
-#EXTINF:-1 group-title="Live Events",Basketball | Virtus Bologna vs Basket Napoli (18:00)
+#EXTINF:-1 group-title="Live Events",Snooker | Snooker Xi'an Grand Prix (11:30)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/nfs/premium12/mono.m3u8
 
-#EXTINF:-1 group-title="Live Events",Basketball | NBA : Miami Heat vs Milwaukee Bucks (23:30)
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Seattle Mariners vs Detroit Tigers (20:08)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/zeko/premium39/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Seattle Mariners vs Detroit Tigers (20:08)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/dokko1/premium643/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Basketball | Eurocup : Neptunas vs Cluj Napoca (16:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium1/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Basketball | Eurocup : Neptunas vs Cluj Napoca (16:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/ddy6/premium135/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Basketball | Eurocup : Neptunas vs Cluj Napoca (16:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/dokko1/premium637/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Basketball | Eurocup : Neptunas vs Cluj Napoca (16:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium11/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Basketball | Eurocup : Neptunas vs Cluj Napoca (16:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/ddy6/premium102/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Basketball | ABA League 2 : Podgorica vs Borac (16:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/zeko/premium430/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Basketball | Champions League : Lietuvos Rytas vs Legia (17:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium128/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Basketball | Champions League : Lietuvos Rytas vs Legia (17:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium12/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Basketball | Eurocup : Ulm vs Panionios (17:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium2/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Basketball | Eurocup : Ulm vs Panionios (17:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium4/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Basketball | Eurocup : Ulm vs Panionios (17:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/dokko1/premium638/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Basketball | Eurocup : Ulm vs Panionios (17:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/nfs/premium13/mono.m3u8
 
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Miami Heat vs Milwaukee Bucks (23:30)
+#EXTINF:-1 group-title="Live Events",Basketball | Eurocup : Ulm vs Panionios (17:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/wind/premium472/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Basketball | Eurocup : Ulm vs Panionios (17:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium103/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Basketball | Eurocup : Ulm vs Panionios (17:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/zeko/premium140/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Basketball | Eurocup : Besiktas vs London Lions (17:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium3/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Basketball | Eurocup : Besiktas vs London Lions (17:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/dokko1/premium74/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Basketball | Eurocup : Besiktas vs London Lions (17:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/dokko1/premium634/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Basketball | Eurocup : Besiktas vs London Lions (17:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/ddy6/premium139/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Basketball | Eurocup : Besiktas vs London Lions (17:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium14/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Basketball | Eurocup : Besiktas vs London Lions (17:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/wind/premium473/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Basketball | Eurocup : Besiktas vs London Lions (17:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/ddy6/premium101/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Basketball | Champions League : Galatasaray vs Igokea (17:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/wind/premium134/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Basketball | ABA League 2 : MZT Skopje vs Vrsac (18:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/zeko/premium430/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Basketball | Promitheas vs Heidelberg (16:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium17/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Basketball | Neptunas vs Cluj-Napoca (16:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium18/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Basketball | Nymburk vs Sabah Baku (16:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium19/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Basketball | Wurzburg vs Trieste (16:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium20/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Basketball | Galatasaray vs Igokea (17:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium21/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Basketball | Rytas vs Legia (17:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium22/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Basketball | Besiktas vs London Lions (17:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium23/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Basketball | Besiktas vs London Lions (17:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/wind/premium463/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Basketball | Ulm vs Panionios (17:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium24/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Basketball | VEF Riga vs AEK Athens (18:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium25/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Basketball | Joventut Badalona vs Cholet (18:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium26/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Basketball | Benfica vs Gran Canaria (19:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium27/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Basketball | NBA : Cleveland Cavaliers vs Chicago Bulls (23:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium28/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Cleveland Cavaliers vs Chicago Bulls (23:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/nfs/premium6/mono.m3u8
 
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Miami Heat vs Milwaukee Bucks (23:30)
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Cleveland Cavaliers vs Chicago Bulls (23:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/zeko/premium905/mono.m3u8
+https://ava.karmakurama.com/zeko/premium111/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Cleveland Cavaliers vs Chicago Bulls (23:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/zeko/premium114/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Cleveland Cavaliers vs Chicago Bulls (23:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium8/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Cleveland Cavaliers vs Chicago Bulls (23:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/wind/premium776/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",NBA | NBA : Cleveland Cavaliers vs Chicago Bulls (23:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium899/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Cycling | Tre Valli Varesine Women | Busto Arsizio – Varese (136.3km) (09:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium32/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Cycling | Tre Valli Varesine Women | Busto Arsizio – Varese (136.3km) (09:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/wind/premium58/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Cycling | Tre Valli Varesine Women | Busto Arsizio – Varese (136.3km) (09:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/ddy6/premium525/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Cycling | Tre Valli Varesine Women | Busto Arsizio – Varese (136.3km) (09:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/ddy6/premium773/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Cycling | Tre Valli Varesine Women | Busto Arsizio – Varese (136.3km) (09:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/wind/premium232/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Cycling | Tre Valli Varesine Women | Busto Arsizio – Varese (136.3km) (09:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/wind/premium879/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Cycling | Tre Valli Varesine Women | Busto Arsizio – Varese (136.3km) (09:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/wind/premium232/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Cycling | Binche-Chimay-Binche Women | Chimay - Binche (121.4km) (11:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium31/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Cycling | Binche-Chimay-Binche Women | Chimay - Binche (121.4km) (11:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/wind/premium58/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Cycling | Binche-Chimay-Binche Women | Chimay - Binche (121.4km) (11:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/ddy6/premium525/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Cycling | Binche-Chimay-Binche Women | Chimay - Binche (121.4km) (11:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/ddy6/premium773/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Cycling | Binche-Chimay-Binche Women | Chimay - Binche (121.4km) (11:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/wind/premium232/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Cycling | Binche-Chimay-Binche Women | Chimay - Binche (121.4km) (11:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/wind/premium879/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Cycling | Binche-Chimay-Binche Women | Chimay - Binche (121.4km) (11:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/wind/premium232/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Cycling | Tre Valli Varesine Men | Busto Arsizio - Varese (200.3km) (12:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium32/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Cycling | Tre Valli Varesine Men | Busto Arsizio - Varese (200.3km) (12:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/wind/premium58/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Cycling | Tre Valli Varesine Men | Busto Arsizio - Varese (200.3km) (12:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/ddy6/premium525/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Cycling | Tre Valli Varesine Men | Busto Arsizio - Varese (200.3km) (12:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/ddy6/premium773/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Cycling | Tre Valli Varesine Men | Busto Arsizio - Varese (200.3km) (12:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/wind/premium232/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Cycling | Tre Valli Varesine Men | Busto Arsizio - Varese (200.3km) (12:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/wind/premium879/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Cycling | Tre Valli Varesine Men | Busto Arsizio - Varese (200.3km) (12:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/wind/premium232/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Cycling | Binche-Chimay-Binche Men | Binche (203.2km) (12:45)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium31/mono.m3u8
 
 #EXTINF:-1 group-title="Live Events",Darts | PDC Darts 8x First Round Matches - Mattioli Arena, Leicester (17:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -469,73 +1021,307 @@ https://ava.karmakurama.com/ddy6/premium641/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/dokko1/premium589/mono.m3u8
-
-#EXTINF:-1 group-title="Live Events",Darts | PDC Darts 8x First Round Matches - Mattioli Arena, Leicester (17:00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
-#EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/zeko/premium38/mono.m3u8
 
 #EXTINF:-1 group-title="Live Events",Darts | PDC Darts 8x First Round Matches - Mattioli Arena, Leicester (17:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/ddy6/premium223/mono.m3u8
+https://ava.karmakurama.com/ddy6/premium809/mono.m3u8
 
 #EXTINF:-1 group-title="Live Events",Darts | PDC Darts 8x First Round Matches - Mattioli Arena, Leicester (17:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/dokko1/premium589/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Darts | World Grand Prix Day 2 (17:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium13/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Darts | World Grand Prix Day 2 (17:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/wind/premium451/mono.m3u8
 
-#EXTINF:-1 group-title="Live Events",Handball | Serbia Super Liga, Women : GŽRK Napredak vs ŽRK Mladost Nova Pazova (17:00)
+#EXTINF:-1 group-title="Live Events",Futsal | Serie A : Sala Consilina vs Came Treviso (18:30)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/zeko/premium430/mono.m3u8
+https://ava.karmakurama.com/wind/premium870/mono.m3u8
 
-#EXTINF:-1 group-title="Live Events",Handball | Poland, Superliga : SPR Stal Mielec vs. KPR Gwardia Opole (18:30)
+#EXTINF:-1 group-title="Live Events",Handball | Czech Republic, Extraliga : Jicin vs. HC Zlin (15:30)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/wind/premium50/mono.m3u8
+https://ava.karmakurama.com/dokko1/premium1033/mono.m3u8
 
-#EXTINF:-1 group-title="Live Events",Ice Hockey | KHL : Lokomotiv Yaroslavl vs SKA St. Petersburg (16:00)
+#EXTINF:-1 group-title="Live Events",Handball | Denmark, Handboldligaen : Fredericia HK 1990 vs. Tth Holstebro (18:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/wind/premium431/mono.m3u8
+https://ava.karmakurama.com/ddy6/premium817/mono.m3u8
 
-#EXTINF:-1 group-title="Live Events",Volleyball | Serie A1 Women : Busto Arsizio W vs Conegliano W (18:30)
+#EXTINF:-1 group-title="Live Events",Horse Racing | Live racing from around the UK (12:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/ddy6/premium882/mono.m3u8
+https://ava.karmakurama.com/wind/premium554/mono.m3u8
 
-#EXTINF:-1 group-title="Live Events",Volleyball | Serie A1 Women : Monza W vs Bergamo W (18:30)
+#EXTINF:-1 group-title="Live Events",Horse Racing | Live racing from Leicester, Huntingdon and Galway (13:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/nfs/premium877/mono.m3u8
+https://ava.karmakurama.com/zeko/premium555/mono.m3u8
 
-#EXTINF:-1 group-title="Live Events",Volleyball | Athletes Unlimited Pro Volleyball Teams TBA E (22:30)
+#EXTINF:-1 group-title="Live Events",Ice Hockey | Finland Mestis - RoKi vs IPK (15:30)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/zeko/premium316/mono.m3u8
+https://ava.karmakurama.com/nfs/premium15/mono.m3u8
 
-#EXTINF:-1 group-title="Live Events",Baseball | MLB : Philadelphia Phillies vs Los Angeles Dodgers (23:00)
+#EXTINF:-1 group-title="Live Events",Ice Hockey | Champions Hockey League : Lukko Rauma vs. EV Zug (15:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/ddy6/premium432/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Ice Hockey | Champions Hockey League : Lukko Rauma vs. EV Zug (15:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/wind/premium129/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Ice Hockey | Champions Hockey League : Lukko Rauma vs. EV Zug (15:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium6/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Ice Hockey | Champions Hockey League : Lukko Rauma vs. EV Zug (15:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium5/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Ice Hockey | Champions Hockey League : Lukko Rauma vs. EV Zug (15:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium16/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Ice Hockey | Champions Hockey League : Mountfield HK vs. KalPa Hockey (16:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium7/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Ice Hockey | Champions Hockey League : Mountfield HK vs. KalPa Hockey (16:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium17/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Ice Hockey | Slovakia, 1st Liga : Nove Zamky vs. 95 Povazska Bystrica (16:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium8/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Ice Hockey | Champions Hockey League : Brynas IF vs. Storhamar Hockey (17:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/nfs/premium9/mono.m3u8
 
-#EXTINF:-1 group-title="Live Events",Baseball | MLB : Milwaukee Brewers vs Chicago Cubs (23:00)
+#EXTINF:-1 group-title="Live Events",Ice Hockey | International Champions League : Eisbären Berlin vs Frölunda HC (17:30)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/nfs/premium10/mono.m3u8
+https://ava.karmakurama.com/nfs/premium18/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Ice Hockey | Champions Hockey League : ZSC Lions Zurich vs. Sparta Prague (17:45)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/wind/premium50/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Ice Hockey | Champions Hockey League : ZSC Lions Zurich vs. Sparta Prague (17:45)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium5/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : Florida Panthers vs Chicago Blackhawks (21:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium14/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Florida Panthers vs Chicago Blackhawks (21:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium1/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Florida Panthers vs Chicago Blackhawks (21:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/wind/premium550/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Florida Panthers vs Chicago Blackhawks (21:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/zeko/premium411/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Florida Panthers vs Chicago Blackhawks (21:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/dokko1/premium833/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Florida Panthers vs Chicago Blackhawks (21:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/dokko1/premium556/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Florida Panthers vs Chicago Blackhawks (21:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/ddy6/premium557/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Florida Panthers vs Chicago Blackhawks (21:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/ddy6/premium454/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Florida Panthers vs Chicago Blackhawks (21:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/ddy6/premium494/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Florida Panthers vs Chicago Blackhawks (21:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/ddy6/premium432/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Florida Panthers vs Chicago Blackhawks (21:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/wind/premium888/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Florida Panthers vs Chicago Blackhawks (21:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/ddy6/premium135/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Florida Panthers vs Chicago Blackhawks (21:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/zeko/premium375/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Florida Panthers vs Chicago Blackhawks (21:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium9/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Florida Panthers vs Chicago Blackhawks (21:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/wind/premium473/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Florida Panthers vs Chicago Blackhawks (21:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/zeko/premium146/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Squash | Paddle Tournament, Milan 7.10 (1) (07:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/zeko/premium141/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Squash | Paddle Tournament, Milan 7.10 (2) (16:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/zeko/premium141/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Volleyball | Beach Volleyball : Pro Tour: Newport Beach - Qualifiers (15:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium104/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Volleyball | Beach Volleyball : Pro Tour: Newport Beach - Qualifiers (15:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/wind/premium453/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Volleyball | French Cup : Levallois women vs Mulhouse women (18:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/zeko/premium116/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Volleyball | Women's College Volleyball : Valparaiso vs Illinois-Chicago (23:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/ddy6/premium770/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Water Polo | VRL Premier Liga : PVK Budućnost One Podgorica - VK Primorac Kotor (16:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/wind/premium431/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Weightlifting | Weight: Less than 88 kg (15:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/wind/premium471/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Weightlifting | Weight: Women up to 69 kg (17:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/wind/premium471/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Baseball | MLB : Detroit Tigers vs Seattle Mariners (20:08)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium30/mono.m3u8
+
+#EXTINF:-1 group-title="Live Events",Baseball | MLB : New York Yankees vs Toronto Blue Jays (20:08)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/nfs/premium31/mono.m3u8
+
+#EXTINF:-1 group-title="DLHD 24/7",ABC USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
+#EXTVLCOPT:http-origin=https://ava.karmakurama.com
+https://ava.karmakurama.com/zeko/premium51/mono.m3u8
 
 #EXTINF:-1 group-title="DLHD 24/7",AHC (American Heroes Channel)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -3973,7 +4759,7 @@ https://ava.karmakurama.com/zeko/premium56/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/dokko1/premium368/mono.m3u8
+https://ava.karmakurama.com/zeko/premium368/mono.m3u8
 
 #EXTINF:-1 group-title="DLHD 24/7",SuperSport MaXimo 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -4094,12 +4880,6 @@ https://ava.karmakurama.com/wind/premium680/mono.m3u8
 #EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
 #EXTVLCOPT:http-origin=https://ava.karmakurama.com
 https://ava.karmakurama.com/ddy6/premium681/mono.m3u8
-
-#EXTINF:-1 group-title="DLHD 24/7",SEE Denmark
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ava.karmakurama.com/
-#EXTVLCOPT:http-origin=https://ava.karmakurama.com
-https://ava.karmakurama.com/dokko1/premium811/mono.m3u8
 
 #EXTINF:-1 group-title="DLHD 24/7",Sky Cinema Collection Italy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
