@@ -2,8 +2,6 @@
 - **DLHD (daddylivehd)** → Includes **all 24/7 channels** plus **live events** (sports, shows, etc.).  
 - **VAVOO** → Includes **channels from all around the world**, covering multiple countries and genres.
   
-  The DLHD playlist can be used directly on VLC, even without a proxy
-  
 ---
 
 # Usage Instructions
@@ -26,4 +24,5 @@ This proxy is required to ensure proper access and functionality.
 ---
 
 💡 **Tip:** If you want to merge both the **DLHD** and **VAVOO** playlists into a single combined list, you can do it easily through **easyproxy** or **mediaflow-proxy** — it supports merging multiple lists into one unified output.
+
 
