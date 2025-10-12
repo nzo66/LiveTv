@@ -123,34 +123,51 @@ def dlhd():
         return f"https://dlhd.dad/watch.php?id={channel_id}"
 
     # ========== ESTRAZIONE CANALI 24/7 ==========
-    print("Estraendo canali 24/7...")
-    json_url = "https://dlhd.dad/daddy.json"
-    session = requests.Session() # Crea una sessione per riutilizzare le connessioni
+    print("Estraendo canali 24/7 dalla pagina HTML...")
+    html_url = "https://dlhd.dad/24-7-channels.php"
+    session = requests.Session()
 
     try:
-        response = requests.get(json_url, headers=HEADERS, timeout=15, verify=False)
+        response = requests.get(html_url, headers=HEADERS, timeout=15, verify=False)
         response.raise_for_status()
-        data = response.json()
+        
+        # Parsa l'HTML con BeautifulSoup
+        soup = BeautifulSoup(response.text, 'html.parser')
+        cards = soup.find_all('a', class_='card')
+        
+        print(f"Trovati {len(cards)} canali nella pagina HTML")
  
         channels_247 = []
  
-        for channel in data:
-            name = channel.get("channel_name")
-            channel_id = channel.get("channel_id")
+        for card in cards:
+            # Estrae il nome del canale
+            title_div = card.find('div', class_='card__title')
+            if not title_div:
+                continue
+            
+            name = title_div.text.strip()
+            
+            # Estrae l'ID del canale dall'href
+            href = card.get('href', '')
+            if not ('id=' in href):
+                continue
+            
+            channel_id = href.split('id=')[1].split('&')[0]
+            
             if not name or not channel_id:
                 continue
- 
+
+            # Applicazione delle correzioni come prima
             if name == "Sky Calcio 7 (257) Italy":
                 name = "DAZN"
             if channel_id == "853":
                 name = "Canale 5 Italy"
             
-            # Cerca prima lo stream .m3u8
+            # Cerca lo stream .m3u8
             stream_url = search_m3u8_in_sites(channel_id, is_tennis="tennis" in name.lower(), session=session)
             
             if stream_url:
                 channels_247.append((name, stream_url))
-
 
         # Conta le occorrenze di ogni nome di canale
         name_counts = {}
@@ -166,6 +183,7 @@ def dlhd():
                 if name not in name_counter:
                     # Prima occorrenza di un duplicato, mantieni il nome originale
                     name_counter[name] = 1
+                    final_channels.append((name, stream_url))
                 else:
                     # Occorrenze successive, aggiungi contatore
                     name_counter[name] += 1
