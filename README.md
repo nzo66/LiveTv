@@ -1,7 +1,8 @@
 ## Playlist Description
 - **DLHD (daddylivehd)** → Includes **all 24/7 channels** plus **live events** (sports, shows, etc.).  
 - **VAVOO** → Includes **channels from all around the world**, covering multiple countries and genres.
-  
+- **SPORTSONLINE** → Includes **all live events**
+
 ---
 
 # Usage Instructions
