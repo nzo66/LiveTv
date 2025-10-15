@@ -677,7 +677,7 @@ def sportsonline():
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
         for entry in playlist_entries:
-            f.write(f'#EXTINF:-1 group-title="Eventi Live SPORTSONLINE",{entry["name"]}\n')
+            f.write(f'#EXTINF:-1 group-title="Live Events SPORTSONLINE",{entry["name"]}\n')
             f.write(f'{entry["url"]}\n')
 
     print(f"\n[COMPLETATO] Playlist creata con successo! Apri il file '{OUTPUT_FILE}' con un player come VLC.")
