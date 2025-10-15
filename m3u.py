@@ -531,6 +531,161 @@ def vavoo_channels():
         channels = get_channels()
         print(f"Trovati {len(channels)} canali. Creo la playlist M3U con i link proxy...")
         save_as_m3u(channels) 
+        
+def sportsonline():
+    import requests
+    import re
+    from bs4 import BeautifulSoup
+    import datetime
+    
+    # URL del file di programmazione
+    PROG_URL = "https://sportsonline.sn/prog.txt"
+    
+    def get_channel_languages(lines):
+        """
+        Analizza le righe del file di programmazione per mappare i canali con le loro lingue.
+        Restituisce un dizionario con chiave=channel_id e valore=lingua (es. {'hd7': 'ITALIAN'}).
+        """
+        channel_language_map = {}
+        for line in lines:
+            line_stripped = line.strip()
+            # Cerca le righe che definiscono la lingua di un canale (formato: "HD7 ITALIAN")
+            if line_stripped and not line_stripped.startswith(('http', '|', '#')) and ' ' in line_stripped:
+                parts = line_stripped.split(maxsplit=1)
+                if len(parts) == 2:
+                    channel_id_raw = parts[0].strip()
+                    language = parts[1].strip()
+                    # Verifica che il primo elemento sia un ID canale (es. HD7, BR1, ecc.)
+                    if channel_id_raw and not any(day in channel_id_raw.upper() for day in 
+                        ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY"]):
+                        channel_id = channel_id_raw.lower()
+                        channel_language_map[channel_id] = language
+                        print(f"[INFO] Trovato canale: {channel_id.upper()} - Lingua: {language}")
+        return channel_language_map
+    
+    def extract_channel_from_url(url):
+        """
+        Estrae l'identificativo del canale dall'URL.
+        Es: https://sportzonline.st/channels/hd/hd5.php -> hd5
+        """
+        match = re.search(r'/([a-z0-9]+)\.php$', url, re.IGNORECASE)
+        if match:
+            return match.group(1).lower()
+        return None
+    
+    def main():
+        """
+        Funzione principale che orchestra il processo.
+        """
+        # --- Controllo del giorno della settimana ---
+        today_weekday = datetime.date.today().weekday()
+        weekdays_english = ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY"]
+        day_to_filter = weekdays_english[today_weekday]
+        print(f"Oggi è {day_to_filter}, verranno cercati solo gli eventi di oggi.")
+    
+        print(f"1. Scarico la programmazione da: {PROG_URL}")
+        try:
+            response = requests.get(PROG_URL, timeout=10)
+            response.raise_for_status()
+        except requests.exceptions.RequestException as e:
+            print(f"[ERRORE FATALE] Impossibile scaricare il file di programmazione: {e}")
+            return
+    
+        lines = response.text.splitlines()
+    
+        print("\n2. Mappo i canali con le rispettive lingue...")
+        channel_language_map = get_channel_languages(lines)
+    
+        if not channel_language_map:
+            print("[ATTENZIONE] Nessun canale con lingua trovato nella programmazione.")
+            return
+    
+        playlist_entries = []
+    
+        print("\n3. Cerco gli Eventi trasmessi...")
+    
+        processing_today_events = False
+    
+        for line in lines:
+            line_upper = line.upper().strip()
+    
+            # Controlliamo se la riga è un'intestazione di un giorno della settimana
+            if line_upper in weekdays_english:
+                if line_upper == day_to_filter:
+                    processing_today_events = True
+                else:
+                    processing_today_events = False
+                continue
+    
+            # Processiamo la riga solo se siamo nella sezione del giorno giusto
+            if not processing_today_events:
+                continue
+    
+            if '|' not in line:
+                continue
+    
+            parts = line.split('|')
+            if len(parts) != 2:
+                continue
+    
+            event_info = parts[0].strip()
+            page_url = parts[1].strip()
+    
+            # Estrae il canale dall'URL
+            channel_id = extract_channel_from_url(page_url)
+            
+            if channel_id and channel_id in channel_language_map:
+                language = channel_language_map[channel_id]
+                print(f"\n[EVENTO] Trovato evento: '{event_info}' - Canale: {channel_id.upper()} - Lingua: {language}")
+                
+                # Riformattiamo il nome dell'evento: Nome Evento Orario [LINGUA]
+                event_parts = event_info.split(maxsplit=1)
+                if len(event_parts) == 2:
+                    time_str_original, name_only = event_parts
+                    
+                    # Aggiungi 1 ora all'orario
+                    try:
+                        original_time = datetime.datetime.strptime(time_str_original.strip(), '%H:%M')
+                        new_time = original_time + datetime.timedelta(hours=1)
+                        time_str = new_time.strftime('%H:%M')
+                    except ValueError:
+                        time_str = time_str_original.strip()
+                    
+                    event_name = f"{name_only.strip()} {time_str} [{language}]"
+                else:
+                    event_name = f"{event_info} [{language}]"
+    
+                playlist_entries.append({
+                    "name": event_name,
+                    "url": page_url,
+                    "referrer": "https://sportsonline.sn/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+                })
+        
+        # Creazione canale fallback se non ci sono eventi
+        if not playlist_entries:
+            print("\n[INFO] Nessun evento trovato oggi.")
+            print("[INFO] Creo un canale fallback 'NESSUN EVENTO'...")
+            playlist_entries.append({
+                "name": "NESSUN EVENTO", 
+                "url": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8",
+                "referrer": "https://sportsonline.sn/",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            })
+    
+        # 4. Creazione del file M3U
+        output_filename = os.path.join(output_dir, "sportsonline.m3u")
+        print(f"\n4. Scrivo la playlist nel file: {output_filename}")
+        with open(output_filename, "w", encoding="utf-8") as f:
+            f.write("#EXTM3U\n")
+            for entry in playlist_entries:
+                f.write(f'#EXTINF:-1 group-title="Eventi Live SPORTSONLINE",{entry["name"]}\n')
+                f.write(f'{entry["url"]}\n')
+    
+        print(f"\n[COMPLETATO] Playlist creata con successo! Apri il file '{output_filename}' con un player come VLC.")
+    
+    if __name__ == "__main__":
+        main()
 
 def main():
     try:
@@ -548,6 +703,11 @@ def main():
             dlhd()
         except Exception as e:
             print(f"Errore durante l'esecuzione di dlhd: {e}")
+            return
+        try:
+            sportsonline()
+        except Exception as e:
+            print(f"Errore durante l'esecuzione di sportsonline: {e}")
             return
         print("Tutti gli script sono stati eseguiti correttamente!")
     finally:
