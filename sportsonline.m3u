@@ -1,55 +1,99 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",MotoGP: Valencia FP1 09:00 [SPANISH]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Moto2/3: Valencia FP2 08:30 [SPANISH]
 https://sportzonline.live/channels/hd/hd9.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",MotoGP: Valencia FP1 09:00 [BRAZILIAN]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Moto2/3: Valencia FP2 08:30 [BRAZILIAN]
 https://sportzonline.live/channels/bra/br6.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Korea Republic x Bolivia 12:00 [SERBIAN]
-https://sportzonline.live/channels/hd/hd10.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",MotoGP: Valencia Practice 13:15 [SPANISH]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",MotoGP: Valencia Qualifying 10:00 [SPANISH]
 https://sportzonline.live/channels/hd/hd9.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",MotoGP: Valencia Practice 13:15 [BRAZILIAN]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",MotoGP: Valencia Qualifying 10:00 [BRAZILIAN]
 https://sportzonline.live/channels/bra/br6.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Egypt x Algeria 14:00 [ENGLISH & SPANISH]
-https://sportzonline.live/channels/hd/hd11.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Angola x Argentina 17:00 [SPANISH]
-https://sportzonline.live/channels/hd/hd6.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Uzbekistan x Egypt 18:00 [ENGLISH & SPANISH]
-https://sportzonline.live/channels/hd/hd11.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Finland x Malta 18:00 [ENGLISH]
-https://sportzonline.live/channels/hd/hd1.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Finland x Malta 18:00 [BRAZILIAN]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Moto2/3: Valencia Qualifying 12:45 [SPANISH]
+https://sportzonline.live/channels/hd/hd9.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Moto2/3: Valencia Qualifying 12:45 [BRAZILIAN]
 https://sportzonline.live/channels/bra/br6.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Morocco x Mozambique 20:00 [ITALIAN]
-https://sportzonline.live/channels/hd/hd8.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Real Valladolid x Las Palmas 20:30 [SPANISH]
-https://sportzonline.live/channels/hd/hd6.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Luxembourg x Germany 20:45 [ENGLISH]
-https://sportzonline.live/channels/hd/hd5.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Luxembourg x Germany 20:45 [GERMAN]
-https://sportzonline.live/channels/hd/hd3.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Luxembourg x Germany 20:45 [BRAZILIAN]
-https://sportzonline.live/channels/bra/br1.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Slovakia x Northern Ireland 20:45 [ENGLISH]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Manchester City W x Manchester United W 14:30 [ENGLISH]
 https://sportzonline.live/channels/hd/hd2.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Poland x Netherlands 20:45 [ENGLISH]
-https://sportzonline.live/channels/hd/hd1.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Poland x Netherlands 20:45 [FRENCH]
-https://sportzonline.live/channels/hd/hd4.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Poland x Netherlands 20:45 [ITALIAN]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Virtus Casarano x Catania 14:30 [ITALIAN]
 https://sportzonline.live/channels/hd/hd7.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Poland x Netherlands 20:45 [SERBIAN]
-https://sportzonline.live/channels/hd/hd10.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Poland x Netherlands 20:45 [BRAZILIAN]
-https://sportzonline.live/channels/bra/br2.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Croatia x Faroe Islands 20:45 [SPANISH]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",MotoGP: Valencia Sprint Race 14:45 [SPANISH]
 https://sportzonline.live/channels/hd/hd9.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Croatia x Faroe Islands 20:45 [BRAZILIAN]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",MotoGP: Valencia Sprint Race 14:45 [BRAZILIAN]
 https://sportzonline.live/channels/bra/br6.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Paysandu x Amazonas 00:00 [BRAZILIAN]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Kazakhstan x Belgium 15:00 [ENGLISH]
+https://sportzonline.live/channels/hd/hd1.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Kazakhstan x Belgium 15:00 [FRENCH]
+https://sportzonline.live/channels/hd/hd4.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Kazakhstan x Belgium 15:00 [BRAZILIAN]
 https://sportzonline.live/channels/bra/br2.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Venezuela x Australia 02:00 [ENGLISH & SPANISH]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Russia x Chile 16:00 [SPANISH]
+https://sportzonline.live/channels/hd/hd9.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Brazil x Senegal 17:00 [SERBIAN]
+https://sportzonline.live/channels/hd/hd10.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Brazil x Senegal 17:00 [BRAZILIAN]
+https://sportzonline.live/channels/bra/br1.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Turkey x Bulgaria 18:00 [ENGLISH & SPANISH]
 https://sportzonline.live/channels/hd/hd11.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",NBA: Los Angeles Lakers @ New Orleans Pelicans 02:00 [ENGLISH]
-https://sportzonline.live/channels/hd/hd2.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Boxing: Julio Cabrera x Brian MosiÃ±os 03:00 [BRAZILIAN]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Turkey x Bulgaria 18:00 [BRAZILIAN]
+https://sportzonline.live/channels/bra/br2.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Cyprus x Austria 18:00 [ENGLISH]
+https://sportzonline.live/channels/hd/hd1.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Cyprus x Austria 18:00 [GERMAN]
+https://sportzonline.live/channels/hd/hd3.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Cyprus x Austria 18:00 [BRAZILIAN]
 https://sportzonline.live/channels/bra/br6.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Liechtenstein x Wales 18:00 [ENGLISH]
+https://sportzonline.live/channels/hd/hd2.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Georgia x Spain 18:00 [ENGLISH]
+https://sportzonline.live/channels/hd/hd5.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Georgia x Spain 18:00 [SPANISH]
+https://sportzonline.live/channels/hd/hd6.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Coritiba x Athletic Club 20:30 [BRAZILIAN]
+https://sportzonline.live/channels/bra/br2.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Denmark x Belarus 20:45 [ENGLISH]
+https://sportzonline.live/channels/hd/hd1.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Denmark x Belarus 20:45 [BRAZILIAN]
+https://sportzonline.live/channels/bra/br6.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Switzerland x Sweden 20:45 [ENGLISH & SPANISH]
+https://sportzonline.live/channels/hd/hd11.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Switzerland x Sweden 20:45 [GERMAN]
+https://sportzonline.live/channels/hd/hd3.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Switzerland x Sweden 20:45 [BRAZILIAN]
+https://sportzonline.live/channels/bra/br1.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Greece x Scotland 20:45 [ENGLISH]
+https://sportzonline.live/channels/hd/hd2.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Greece x Scotland 20:45 [SPANISH]
+https://sportzonline.live/channels/hd/hd9.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Slovenia x Kosovo 20:45 [SERBIAN]
+https://sportzonline.live/channels/hd/hd10.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Bosnia and Herzegovina x Romania 20:45 [ITALIAN]
+https://sportzonline.live/channels/hd/hd8.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Racing Santander x Granada 21:00 [SPANISH]
+https://sportzonline.live/channels/hd/hd6.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Sport Recife x Flamengo 22:30 [BRAZILIAN]
+https://sportzonline.live/channels/bra/br3.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",NBA: Memphis Grizzlies @ Cleveland Cavaliers 23:00 [ENGLISH]
+https://sportzonline.live/channels/hd/hd2.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",NBA: Memphis Grizzlies @ Cleveland Cavaliers 23:00 [BRAZILIAN]
+https://sportzonline.live/channels/bra/br6.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Colombia x New Zealand 01:00 [SPANISH]
+https://sportzonline.live/channels/hd/hd6.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Santos x Palmeiras 01:00 [BRAZILIAN]
+https://sportzonline.live/channels/bra/br1.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Independiente x Rosario Central 01:30 [SPANISH]
+https://sportzonline.live/channels/hd/hd9.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Mexico x Uruguay 02:00 [SERBIAN]
+https://sportzonline.live/channels/hd/hd10.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Mexico x Uruguay 02:00 [ENGLISH & SPANISH]
+https://sportzonline.live/channels/hd/hd11.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",NBA: Los Angeles Lakers @ Milwaukee Bucks 02:00 [ENGLISH]
+https://sportzonline.live/channels/hd/hd2.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",NBA: Los Angeles Lakers @ Milwaukee Bucks 02:00 [BRAZILIAN]
+https://sportzonline.live/channels/bra/br6.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",UFC 322: Prelims 02:00 [ENGLISH]
+https://sportzonline.live/channels/hd/hd5.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",UFC 322: Prelims 02:00 [BRAZILIAN]
+https://sportzonline.live/channels/bra/br5.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",UFC 322: Jack Della Maddalena vs Islam Makhachev 04:00 [ENGLISH]
+https://sportzonline.live/channels/hd/hd5.php
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",UFC 322: Jack Della Maddalena vs Islam Makhachev 04:00 [BRAZILIAN]
+https://sportzonline.live/channels/bra/br5.php
