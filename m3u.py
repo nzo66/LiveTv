@@ -28,7 +28,7 @@ def headers_to_extvlcopt(headers):
 
 def search_m3u8_in_sites(channel_id, is_tennis=False, session=None):
     """Genera direttamente l'URL di dlhd.dad per il channel_id fornito."""
-    return f"https://dlhd.dad/watch.php?id={channel_id}"
+    return f"https://daddyhd.com/watch.php?id={channel_id}"
 
 def dlhd():
     """
@@ -61,7 +61,7 @@ def dlhd():
 
     # ========== ESTRAZIONE CANALI 24/7 ==========
     print("Estraendo canali 24/7 dalla pagina HTML...")
-    html_url = "https://dlhd.dad/24-7-channels.php"
+    html_url = "https:///24-7-channels.php"
     session = requests.Session()
 
     try:
@@ -284,7 +284,7 @@ def schedule_extractor():
     print("Eseguendo lo schedule_extractor.py...")
     load_dotenv()
 
-    LINK_DADDY = os.getenv("LINK_DADDY", "").strip() or "https://dlhd.dad"
+    LINK_DADDY = os.getenv("LINK_DADDY", "").strip() or "https://daddyhd.com"
     FLARESOLVERR_URL = os.getenv("FLARESOLVERR_URL")
     if FLARESOLVERR_URL:
         FLARESOLVERR_URL = FLARESOLVERR_URL.strip()
