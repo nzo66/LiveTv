@@ -69,7 +69,7 @@ def dlhd():
         payload = {
             "cmd": "request.get",
             "url": html_url,
-            "maxTimeout": 60000
+            "maxTimeout": 120000
         }
         response = requests.post(
             FLARESOLVERR_URL,
