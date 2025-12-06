@@ -61,7 +61,7 @@ def dlhd():
 
     # ========== ESTRAZIONE CANALI 24/7 ==========
     print("Estraendo canali 24/7 dalla pagina HTML...")
-    html_url = "https:///24-7-channels.php"
+    html_url = "https://daddyhd.com/24-7-channels.php"
     session = requests.Session()
 
     try:
