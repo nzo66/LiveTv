@@ -381,6 +381,8 @@ def schedule_extractor():
             
             soup = BeautifulSoup(html_content, 'html.parser')
             schedule_div = soup.find('div', id='schedule')
+            if not schedule_div:
+                schedule_div = soup.find('div', class_='schedule schedule--compact')
             
             if not schedule_div:
                 print("❌ #schedule non trovato!")
